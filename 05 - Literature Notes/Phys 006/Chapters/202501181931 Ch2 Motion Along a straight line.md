@@ -35,11 +35,11 @@ If the tangent to the x-t curve slopes upward to the right then it’s slope is 
 ![[Pasted image 20250119150200.png]]
 
 # 2.3 Average and instantaneous Acceleration
-Acceleration is described as the rate of change of velocity with time. Acceleration is a vector quantity. In physics, acceleration refers to any velocity change, so and object is either speeding up or slowing down when referring to acceleration.
+Acceleration is described as the rate of change of velocity with time. Acceleration is a [[202501161424 Vector Quantity|vector quantity]]. In physics, acceleration refers to any velocity change, so and object is either speeding up or slowing down when referring to acceleration.
 
 ## Average acceleration
 ![[Pasted image 20250119152944.png]]
-The x-component of velocity changes by $\Delta{V}$<sub>X</sub> = V<sub>2x</sub> - V<sub>1x</sub> during the time interval $\Delta{t}$ = t<sub>2</sub> - t<sub>1</sub>. As the particle moves from P<sub>1</sub> to P<sub>2</sub>, its average acceleration is a vector quantity whose x-component a<sub>av-x</sub> (Average x-acceleration) equals $\Delta{v}$<sub>x</sub>, the change in the x-component of velocity, divided by the time interval $\Delta{t}$ 
+The x-component of velocity changes by $\Delta{V}$<sub>X</sub> = V<sub>2x</sub> - V<sub>1x</sub> during the time interval $\Delta{t}$ = t<sub>2</sub> - t<sub>1</sub>. As the particle moves from P<sub>1</sub> to P<sub>2</sub>, its average acceleration is a [[202501161424 Vector Quantity|vector quantity]] whose x-component a<sub>av-x</sub> (Average x-acceleration) equals $\Delta{v}$<sub>x</sub>, the change in the x-component of velocity, divided by the time interval $\Delta{t}$ 
 
 Acceleration is m/s<sup>2</sup> 
 
