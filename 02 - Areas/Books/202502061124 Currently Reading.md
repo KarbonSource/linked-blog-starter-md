@@ -5,11 +5,3 @@ From "02 - Areas/Books/All Books"
 Where contains(status, "Reading")
 ```
 
-# ‌
----
-# Flashcards
-
-
-# ‌
----
-# Reference

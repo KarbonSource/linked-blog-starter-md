@@ -13,11 +13,3 @@ status:
 # {{title}}
 
 
-# ‌
----
-# Flashcards
-
-
-# ‌
----
-# Reference
