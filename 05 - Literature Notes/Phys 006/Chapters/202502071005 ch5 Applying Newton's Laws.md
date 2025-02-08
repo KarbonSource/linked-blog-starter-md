@@ -55,6 +55,9 @@ $$
 As soon as the box starts to slide, the friction force usually decreases; it's easier to keep the box moving than to start it moving. Hence the coefficient of kinetic friction is usually less than the coefficient of static friction for any give pair of surfaces.
 
 ## Rolling Friction
+It is easier to move something on a cart, but how much easier? we can define a **coefficient of rolling friction** $\mu_r$, which is the horizontal force needed for constant speed on a flat surface divided by the upward normal force exerted by the surface.
+
+## Fluid Resistance and Terminal Speed
 
 
 # 5.4 Dynamics of Circular Motion
