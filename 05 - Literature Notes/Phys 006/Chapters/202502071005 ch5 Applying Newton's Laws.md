@@ -35,7 +35,7 @@ Whenever two objects interact by direct contact of their surfaces, we describe t
 Friction is important in many aspects of everyday life. without friction between the tires and the road we couldn't drive or turn the car
 
 ## Kinetic and static Friction
-
+First, when an object rests or slides on a surface, we can think of the surface exerting a single contact force on the object, with force components perpendicular 
 
 
 # 5.4 Dynamics of Circular Motion
