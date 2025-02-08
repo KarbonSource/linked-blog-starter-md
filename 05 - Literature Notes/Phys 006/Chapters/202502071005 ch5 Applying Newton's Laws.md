@@ -37,7 +37,7 @@ Friction is important in many aspects of everyday life. without friction between
 ## Kinetic and static Friction
 First, when an object rests or slides on a surface, we can think of the surface exerting a single contact force on the object, with force components perpendicular and parallel to the surface
 ![[Pasted image 20250208104831.png|250]]
-The perpendicular component vector is the normal force, denoted by $\overrightarrow{}
+The perpendicular component vector is the normal force, denoted by $\overrightarrow{n}$. The component
 
 
 # 5.4 Dynamics of Circular Motion
