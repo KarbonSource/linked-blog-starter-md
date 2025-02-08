@@ -52,6 +52,9 @@ Then we gradually increase the tension (T) of the rope. The experiment shows tha
 $$
 {f_{s}}\leq(f_{s})_{max}=\mu_{s}n
 $$
+As soon as the box starts to slide, the friction force usually decreases; it's easier to keep the box moving than to start it moving. Hence the coefficient of kinetic friction is usually less than the coefficient of static friction for any give pair of surfaces.
+
+## Rolling Friction
 
 
 # 5.4 Dynamics of Circular Motion
