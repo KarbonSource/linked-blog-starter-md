@@ -2,10 +2,10 @@
 date: 2025-02-07
 tags:
   - PHYS-006/ch5
-aliases:
+aliases: 
 title: University Physics with Modern Physics
 pages: 129-156
-status: 
+status:
 ---
 ```dataview
 TABLE WITHOUT ID file.link AS Hw, pages, Hw-Problems as problems, Due, Status
@@ -25,6 +25,10 @@ In Dynamics problems, we apply Newton's second law to objects on which the net f
 ![[Pasted image 20250207193751.png|550]]
 m$\overrightarrow{a}$ does not belong on a FBD, because m$\overrightarrow{a}$ is the result of forces of forces acting on an object, not a force itself. When you draw the FBD for an accelerating object never include the m$\overrightarrow{a}$ force because there is no such force
 ![[Pasted image 20250207194215.png]]
+
+|     |     |
+| --- | --- |
+|     |     |
 
 
 
