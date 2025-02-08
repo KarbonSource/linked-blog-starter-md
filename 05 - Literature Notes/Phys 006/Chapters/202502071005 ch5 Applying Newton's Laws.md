@@ -41,11 +41,11 @@ The perpendicular component vector is the normal force, denoted by $\overrightar
 
 the kind of friction that acts when an object slides over a surface is called **kinetic friction force** $\overrightarrow{f_k}$. The adjective "kinetic" and the subscript "k" remind us that the two surfaces are moving relative to each other. The magnitude of the kinetic friction force usually increases when the normal force increases (example: more force to slide a box full of books than an empty one).
 ![[Pasted image 20250208113851.png|450]]
-
+Here $\mu_k$ is a constant called the **coefficient of kinetic friction**. The more slippery the surface, the smaller this coefficient. Because it is a q
 
 
 # 5.4 Dynamics of Circular Motion
-Here $\mu_k$ is a constant called the **coefficient of kinetic friction**.
+
 
 # 5.5 The Fundamental Forces of Nature
 
