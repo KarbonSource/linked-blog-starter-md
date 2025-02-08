@@ -30,7 +30,12 @@ m$\overrightarrow{a}$ does not belong on a FBD, because m$\overrightarrow{a}$ is
 
 
 # 5.3 Friction Forces
-Whenever two objec
+Whenever two objects interact by direct contact of their surfaces, we describe the interaction in terms of contact forces.. The normal force for example of a contact force.
+
+Friction is important in many aspects of everyday life. without friction between the tires and the road we couldn't drive or turn the car
+
+## Kinetic and static Friction
+
 
 
 # 5.4 Dynamics of Circular Motion
