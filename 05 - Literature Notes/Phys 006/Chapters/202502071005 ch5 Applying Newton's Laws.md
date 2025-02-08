@@ -58,7 +58,7 @@ As soon as the box starts to slide, the friction force usually decreases; it's e
 It is easier to move something on a cart, but how much easier? we can define a **coefficient of rolling friction** $\mu_r$, which is the horizontal force needed for constant speed on a flat surface divided by the upward normal force exerted by the surface.
 
 ## Fluid Resistance and Terminal Speed
-
+**Fluid Resistance**, the force that a fluid (a gas or liquid) exerts on an object moving through it.
 
 # 5.4 Dynamics of Circular Motion
 
