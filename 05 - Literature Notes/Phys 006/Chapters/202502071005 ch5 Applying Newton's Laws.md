@@ -47,7 +47,7 @@ Friction forces may also act when there is no relative motion. If you try to sli
 ![[Pasted image 20250208115534.png|600]]
 In the figure above, a box is at rest (equilibrium) under the action of its weight $\overrightarrow{w}$ and the upward normal force $\overrightarrow{n}$. the normal force is equal in magnitude to the weight (n = w) and is exerted on the box by floor.
 
-Then we gradually increase the tension (T) of the rope.
+Then we gradually increase the tension (T) of the rope. The 
 $$
 {f_{s}}\leq(f_{s})_{max}=\mu_{s}n
 $$
