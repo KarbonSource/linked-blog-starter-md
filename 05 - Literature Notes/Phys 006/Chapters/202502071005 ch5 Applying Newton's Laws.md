@@ -44,10 +44,11 @@ the kind of friction that acts when an object slides over a surface is called **
 Here $\mu_k$ is a constant called the **coefficient of kinetic friction**. The more slippery the surface, the smaller this coefficient. Because it is a quotient of two magnitudes, $\mu_k$ is a pure number without units.
 
 Friction forces may also act when there is no relative motion. If you try to slide a box across the floor, the box may not move at all because the floor exerts an equal and opposite friction force on the box. This is called **static friction** $\overrightarrow{f_s}$.
-![[Pasted image 20250208115534.png|600]]
+![[Pasted image 20250208115534.png|]]
 In the figure above, a box is at rest (equilibrium) under the action of its weight $\overrightarrow{w}$ and the upward normal force $\overrightarrow{n}$. the normal force is equal in magnitude to the weight (n = w) and is exerted on the box by floor.
 
-Then we gradually increase the tension (T) of the rope. The 
+Then we gradually increase the tension (T) of the rope. The experiment shows that in many cases this maximum value, called (f<sub>s</sub>)<sub>max</sub> is approximately proportional to n; we call the proportionality factor $\mu_s$ the coefficient of static friction.
+![[Pasted image 20250208123842.png]]
 $$
 {f_{s}}\leq(f_{s})_{max}=\mu_{s}n
 $$
