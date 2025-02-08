@@ -2,7 +2,9 @@
 date: 2025-02-07
 tags:
   - PHYS-006/ch5
-aliases:
+aliases: 
+pages: 129-156
+status:
 ---
 ```dataview
 TABLE WITHOUT ID file.link AS Hw, pages, Hw-Problems as problems, Due, Status
