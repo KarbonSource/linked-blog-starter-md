@@ -43,7 +43,7 @@ the kind of friction that acts when an object slides over a surface is called **
 ![[Pasted image 20250208113851.png|450]]
 Here $\mu_k$ is a constant called the **coefficient of kinetic friction**. The more slippery the surface, the smaller this coefficient. Because it is a quotient of two magnitudes, $\mu_k$ is a pure number without units.
 
-Friction forces may also act when there is no relative motion.
+Friction forces may also act when there is no relative motion. If you try to slide a box across the floor, the box may not move at all because the floor exerts an equal and opposite friction force on the box. This is called **static friction** $\overrightarrow{f_s}$.
 
 
 # 5.4 Dynamics of Circular Motion
