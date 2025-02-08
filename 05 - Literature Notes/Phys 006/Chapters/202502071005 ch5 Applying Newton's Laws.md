@@ -40,11 +40,12 @@ First, when an object rests or slides on a surface, we can think of the surface 
 The perpendicular component vector is the normal force, denoted by $\overrightarrow{n}$. The component vector parallel to the surface (and perpendicular to $\overrightarrow{n}$) is the **friction force**, denoted by $\overrightarrow{f}$. if the surface is friction less, then $\overrightarrow{f}$ is zero but there is still a normal force. The direction of the friction force is always such as to oppose relative motion of the tow surfaces
 
 the kind of friction that acts when an object slides over a surface is called **kinetic friction force** $\overrightarrow{f_k}$. The adjective "kinetic" and the subscript "k" remind us that the two surfaces are moving relative to each other. The magnitude of the kinetic friction force usually increases when the normal force increases (example: more force to slide a box full of books than an empty one).
+![[Pasted image 20250208113851.png|450]]
 
 
 
 # 5.4 Dynamics of Circular Motion
-
+Here $\mu_k$ is a constant called the **coefficient of kinetic friction**.
 
 # 5.5 The Fundamental Forces of Nature
 
