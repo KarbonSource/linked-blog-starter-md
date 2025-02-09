@@ -60,9 +60,7 @@ It is easier to move something on a cart, but how much easier? we can define a *
 ## Fluid Resistance and Terminal Speed
 **Fluid Resistance**, the force that a fluid (a gas or liquid) exerts on an object moving through it. The moving object exerts a force on the fluid to push it out of the way. By Newton's third law, the fluid pushes back on the object with an equal and opposite force.
 
-$$
-\sum{\overrightarrow{F}}=\overrightarrow{F_{1}}+\overrightarrow{F_{2}}+\overrightarrow{}
-$$
+
 
 # 5.4 Dynamics of Circular Motion
 
