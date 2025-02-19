@@ -1,7 +1,7 @@
 {
 	"meta": {
-		"pluginVersion": "0.3.3",
-		"tldrawVersion": "2.1.0",
+		"pluginVersion": "0.3.4",
+		"tldrawVersion": "2.4.3",
 		"previewIsOutdated": true
 	},
 	"tldraw": {
@@ -34701,9 +34701,9 @@
 				{
 					"pageId": "page:3qj9EtNgqSCW_6knX2K9_",
 					"camera": {
-						"x": 0,
-						"y": 0,
-						"z": 0.3
+						"x": 1074.3484552487214,
+						"y": 432.37597013607797,
+						"z": 0.1326393568120369
 					},
 					"selectedShapeIds": [
 						"shape:VPTq0NgW3P1TvJQcV57Lq",
