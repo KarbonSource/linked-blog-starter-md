@@ -7,7 +7,7 @@ title: University Physics with Modern Physics
 pages: 129-156
 status: Reading
 ---
-```dataview
+- ```dataview
 TABLE WITHOUT ID file.link AS Hw, pages, Hw-Problems as problems, Due, Status
 From "05 - Literature Notes/Phys 006/HW"
 Where contains(tags, "PHYS-006/ch5")
