@@ -1,5 +1,32 @@
 {
   "edges": [
+    {
+      "fromNode": "220d16d2aadb0746",
+      "fromSide": "bottom",
+      "id": "ba921372b50148d2",
+      "styleAttributes": {
+      },
+      "toNode": "829bff83a194a852",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "829bff83a194a852",
+      "fromSide": "bottom",
+      "id": "e5cc60e549a2a4f3",
+      "styleAttributes": {
+      },
+      "toNode": "243a89010dd0a5ef",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "243a89010dd0a5ef",
+      "fromSide": "bottom",
+      "id": "55ea186b3c234811",
+      "styleAttributes": {
+      },
+      "toNode": "8537c9f0211fd0dd",
+      "toSide": "top"
+    }
   ],
   "nodes": [
     {
@@ -24,25 +51,36 @@
     },
     {
       "height": 60,
-      "id": "829bff83a194a852",
+      "id": "8537c9f0211fd0dd",
       "styleAttributes": {
       },
-      "text": "$v_{avg}$ = v = $\\frac{\\Delta{x}}{\\Delta{t}}$ ",
+      "text": "x = $x_o + v\\Delta{t}$",
       "type": "text",
       "width": 260,
-      "x": -220,
-      "y": -220
+      "x": -374,
+      "y": 20
     },
     {
       "height": 60,
       "id": "243a89010dd0a5ef",
       "styleAttributes": {
       },
-      "text": "$\\Delta{x}$ = $v_{avg}\\Delta{t}$ = ",
+      "text": "$\\Delta{x}$ = $v_{avg}\\Delta{t}$",
       "type": "text",
       "width": 260,
-      "x": -200,
+      "x": -374,
       "y": -100
+    },
+    {
+      "height": 60,
+      "id": "829bff83a194a852",
+      "styleAttributes": {
+      },
+      "text": "$v_{avg}$ = v = $\\frac{\\Delta{x}}{\\Delta{t}}$ ",
+      "type": "text",
+      "width": 260,
+      "x": -374,
+      "y": -220
     }
   ]
 }
