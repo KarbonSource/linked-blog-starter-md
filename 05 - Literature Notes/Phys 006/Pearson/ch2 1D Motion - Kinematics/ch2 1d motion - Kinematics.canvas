@@ -44,6 +44,15 @@
       },
       "toNode": "ac95975d945f3d82",
       "toSide": "top"
+    },
+    {
+      "fromNode": "f550c3830aaba14d",
+      "fromSide": "bottom",
+      "id": "c7f6d1d9e4b75290",
+      "styleAttributes": {
+      },
+      "toNode": "caf76b3fe8b6c963",
+      "toSide": "top"
     }
   ],
   "nodes": [
@@ -140,11 +149,22 @@
       "id": "f550c3830aaba14d",
       "styleAttributes": {
       },
-      "text": "",
+      "text": "# Kinematic",
       "type": "text",
       "width": 260,
       "x": -520,
       "y": 580
+    },
+    {
+      "height": 380,
+      "id": "caf76b3fe8b6c963",
+      "styleAttributes": {
+      },
+      "text": "![[Pasted image 20250222200314.png]]",
+      "type": "text",
+      "width": 580,
+      "x": -390,
+      "y": 700
     }
   ]
 }
