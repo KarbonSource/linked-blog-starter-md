@@ -35,6 +35,15 @@
       },
       "toNode": "8537c9f0211fd0dd",
       "toSide": "right"
+    },
+    {
+      "fromNode": "5f7901bdfbb10b8e",
+      "fromSide": "bottom",
+      "id": "4f4e73a833f9613e",
+      "styleAttributes": {
+      },
+      "toNode": "ac95975d945f3d82",
+      "toSide": "top"
     }
   ],
   "nodes": [
@@ -120,7 +129,7 @@
       "id": "ac95975d945f3d82",
       "styleAttributes": {
       },
-      "text": "* Remember: velocity is how fast your position changes -> $\\overrightarrow{v} = \\frac{\\Delta{x}}{\\Delta{t}}$ \n\t* Acceleration is how fast your velocity changes -> $\\overrightarrow{a} = \\",
+      "text": "* Remember: velocity is how fast your position changes -> $\\overrightarrow{v} = \\frac{\\Delta{x}}{\\Delta{t}}$ \n\t* Acceleration is how fast your velocity changes -> $\\overrightarrow{a} = \\frac{\\Delta{\\overrightarrow{v}}}{\\Delta{t}}$",
       "type": "text",
       "width": 740,
       "x": -500,
