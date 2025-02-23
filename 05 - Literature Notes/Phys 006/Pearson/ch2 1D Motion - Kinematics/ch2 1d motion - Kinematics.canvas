@@ -26,6 +26,15 @@
       },
       "toNode": "8537c9f0211fd0dd",
       "toSide": "top"
+    },
+    {
+      "fromNode": "3e741dc05c0325b0",
+      "fromSide": "left",
+      "id": "862eef7a930d4114",
+      "styleAttributes": {
+      },
+      "toNode": "8537c9f0211fd0dd",
+      "toSide": "right"
     }
   ],
   "nodes": [
@@ -80,6 +89,15 @@
       "type": "text",
       "width": 260,
       "x": -374,
+      "y": -220
+    },
+    {
+      "file": "05 - Literature Notes/Phys 006/Physics terms/202501220934 Kinematic equations.md",
+      "height": 320,
+      "id": "3e741dc05c0325b0",
+      "type": "file",
+      "width": 400,
+      "x": 60,
       "y": -220
     }
   ]
