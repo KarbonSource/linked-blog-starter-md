@@ -1,6 +1,7 @@
 ---
 date: 2025-01-18
-tags: 
+tags:
+  - PHYS-006/ch2
 aliases:
 ---
 # 2.1 Displacement, time, and average velocity
