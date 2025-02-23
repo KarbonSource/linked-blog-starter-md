@@ -125,13 +125,13 @@
       "y": 240
     },
     {
-      "height": 240,
+      "height": 120,
       "id": "ac95975d945f3d82",
       "styleAttributes": {
       },
       "text": "* Remember: velocity is how fast your position changes -> $\\overrightarrow{v} = \\frac{\\Delta{x}}{\\Delta{t}}$ \n\t* Acceleration is how fast your velocity changes -> $\\overrightarrow{a} = \\frac{\\Delta{\\overrightarrow{v}}}{\\Delta{t}}$",
       "type": "text",
-      "width": 740,
+      "width": 700,
       "x": -500,
       "y": 360
     }
