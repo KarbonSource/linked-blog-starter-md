@@ -10,6 +10,17 @@
       "width": 384,
       "x": -400,
       "y": -720
+    },
+    {
+      "height": 60,
+      "id": "220d16d2aadb0746",
+      "styleAttributes": {
+      },
+      "text": "* ",
+      "type": "text",
+      "width": 260,
+      "x": -200,
+      "y": -340
     }
   ]
 }
