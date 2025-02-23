@@ -99,6 +99,28 @@
       "width": 400,
       "x": 60,
       "y": -220
+    },
+    {
+      "height": 400,
+      "id": "a7f85003127f37a6",
+      "styleAttributes": {
+      },
+      "text": "![[Pasted image 20250222174312.png]]",
+      "type": "text",
+      "width": 900,
+      "x": -660,
+      "y": 200
+    },
+    {
+      "height": 60,
+      "id": "2b7528d012ae0dd6",
+      "styleAttributes": {
+      },
+      "text": "Given:\n",
+      "type": "text",
+      "width": 260,
+      "x": -640,
+      "y": 680
     }
   ]
 }
