@@ -16,11 +16,33 @@
       "id": "220d16d2aadb0746",
       "styleAttributes": {
       },
-      "text": "* ",
+      "text": "* Average velocity behaves like constant velocity (no acceleration)",
+      "type": "text",
+      "width": 728,
+      "x": -608,
+      "y": -340
+    },
+    {
+      "height": 60,
+      "id": "829bff83a194a852",
+      "styleAttributes": {
+      },
+      "text": "$v_{avg}$ = v = $\\frac{\\Delta{x}}{\\Delta{t}}$ ",
+      "type": "text",
+      "width": 260,
+      "x": -220,
+      "y": -220
+    },
+    {
+      "height": 60,
+      "id": "243a89010dd0a5ef",
+      "styleAttributes": {
+      },
+      "text": "$\\Delta{x}$ = $v_{avg}\\Delta{t}$ = ",
       "type": "text",
       "width": 260,
       "x": -200,
-      "y": -340
+      "y": -100
     }
   ]
 }
