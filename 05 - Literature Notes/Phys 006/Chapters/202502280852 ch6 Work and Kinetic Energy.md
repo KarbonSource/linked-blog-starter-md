@@ -3,7 +3,9 @@ date: 2025-02-28
 tags:
   - PHYS-006/ch6
 aliases: 
-pages:
+pages: 171-188
+status: Reading
+title: University Physics with Modern Physics
 ---
 ```dataview
 TABLE WITHOUT ID file.link as HW, pages, Hw-Problems as Problems, Due, Status
