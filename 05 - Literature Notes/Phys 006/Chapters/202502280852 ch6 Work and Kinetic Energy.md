@@ -16,7 +16,7 @@ Where contains(tags, "PHYS-006/ch6")
 # Work
 Work - any activity that requires muscular or mental effort.
 
-you do work by exerting a force on an object while that object moves from one place to another - that is, undergoes a displacement
+you do work by exerting a force on an object while that object moves from one place to another - that is, undergoes a displacement. You do more work if the force is greater or if the displacement is greater.
 
 # Kinetic Friction and the Work-Energy Theorem
 
