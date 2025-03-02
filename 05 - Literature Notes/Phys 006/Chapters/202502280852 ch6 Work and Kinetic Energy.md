@@ -27,7 +27,7 @@ The SI unit of work is the **joulle** (J)
 1 joule = (1 newton)(1 meter)
 
 ## Work: Positive, Negative, or Zero
-When the force has a component in the same direction as the displacement, cos$\alpha$  in the positive direction
+When the force has a component in the same direction as the displacement, cos$\alpha$  is positive and the work W is positive. When the force has a component opposite to the displacement, cos $\alpha$ is negative and the work is negative. When the force is perpendicular to the displacement $\alpha$ = 90<sup>o</sup> and the work done by the force is zero. The cases of zero work and negative work br
 
 # Kinetic Friction and the Work-Energy Theorem
 
