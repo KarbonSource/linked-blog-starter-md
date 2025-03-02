@@ -27,7 +27,7 @@ The SI unit of work is the **joulle** (J)
 1 joule = (1 newton)(1 meter)
 
 ## Work: Positive, Negative, or Zero
-;;;;;’;’;;t6./7
+When the force has a component in the same direction as the displacement, cos$\alpha$  in the positive direction
 
 # Kinetic Friction and the Work-Energy Theorem
 
