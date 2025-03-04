@@ -33,7 +33,7 @@ When the force has a component in the same direction as the displacement, cos$\a
 Because work is a scalar quantity, the total work W<sub>tot</sub> done on the object by all the forces is the algebraic sum of the quantities of work done by the individual forces.
 
 # 6.2 Kinetic Friction and the Work-Energy Theorem
-The total work done on an object by external force is related to the object’s displacement, but the total work is also related to changes in the speed of an object
+The total work done on an object by external force is related to the object’s displacement, but the total work is also related to changes in the speed of the object
 
 # 6.3 Work and Energy with Varying Forces
 
