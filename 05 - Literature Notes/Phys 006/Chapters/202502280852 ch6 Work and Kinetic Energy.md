@@ -13,7 +13,7 @@ From "05 - Literature Notes/Phys 006/HW"
 Where contains(tags, "PHYS-006/ch6")
 ```
 
-# Work
+# 6.1 Work
 Work - any activity that requires muscular or mental effort.
 
 you do work by exerting a force on an object while that object moves from one place to another - that is, undergoes a displacement. You do more work if the force is greater or if the displacement is greater. While the object moves, a constant force $\overrightarrow{F}$ acts on it in the same direction as the displacement $\overrightarrow{s}$ 
@@ -32,13 +32,13 @@ When the force has a component in the same direction as the displacement, cos$\a
 ## Total Work
 Because work is a scalar quantity, the total work W<sub>tot</sub> done on the object by all the forces is the algebraic sum of the quantities of work done by the individual forces.
 
-# Kinetic Friction and the Work-Energy Theorem
+# 6.2 Kinetic Friction and the Work-Energy Theorem
+The total work done on an object by external force is related to the object’s displacement, but the total work is also related to changes in the speed of an object
+
+# 6.3 Work and Energy with Varying Forces
 
 
-# Work and Energy with Varying Forces
-
-
-# Power
+# 6.4 Power
 
 
 # ‌
