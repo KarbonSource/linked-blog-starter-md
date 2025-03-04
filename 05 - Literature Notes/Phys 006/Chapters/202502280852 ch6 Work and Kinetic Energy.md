@@ -37,7 +37,7 @@ The total work done on an object by external force is related to the object’s 
 ![[Pasted image 20250303174231.png]]
 Like work, the kinetic energy of a particle is a scalar quantity, it only depends on the particle’s mass and speed, kinetic energy can never be negative and is only zero when a particle is at rest
 ![[Pasted image 20250303180241.png]]
-when 
+when W<sub>tot</sub> is positive, the kinetic energy increases and the particle is going faster at the end of the displacement than at the beginning
 
 # 6.3 Work and Energy with Varying Forces
 
