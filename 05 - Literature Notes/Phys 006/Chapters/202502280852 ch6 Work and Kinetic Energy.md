@@ -25,6 +25,7 @@ W = Fs (constant force in direction of straight-line displacement)
 The SI unit of work is the **joule** (J)
 
 1 joule = (1 newton)(1 meter)
+![[99 - Meta/Images/202502280852 ch6 Work and Kinetic Energy.png]]![[99 - Meta/Images/202502280852 ch6 Work and Kinetic Energy-1.png]]
 
 ## Work: Positive, Negative, or Zero
 When the force has a component in the same direction as the displacement, cos$\alpha$  is positive and the work W is positive. When the force has a component opposite to the displacement, cos $\alpha$ is negative and the work is negative. When the force is perpendicular to the displacement $\alpha$ = 90<sup>o</sup> and the work done by the force is zero. 
