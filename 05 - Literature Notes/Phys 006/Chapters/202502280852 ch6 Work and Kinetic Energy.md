@@ -22,9 +22,10 @@ We define the **work** W done by the this constant force under these circumstanc
 
 W = Fs (constant force in direction of straight-line displacement)
 
-The SI unit of work is the **joulle** (J)
+The SI unit of work is the **joule** (J)
 
 1 joule = (1 newton)(1 meter)
+![[99 - Meta/Images/202502280852 ch6 Work and Kinetic Energy.png]]![[99 - Meta/Images/202502280852 ch6 Work and Kinetic Energy-1.png]]
 
 ## Work: Positive, Negative, or Zero
 When the force has a component in the same direction as the displacement, cos$\alpha$  is positive and the work W is positive. When the force has a component opposite to the displacement, cos $\alpha$ is negative and the work is negative. When the force is perpendicular to the displacement $\alpha$ = 90<sup>o</sup> and the work done by the force is zero. 
@@ -34,8 +35,7 @@ Because work is a scalar quantity, the total work W<sub>tot</sub> done on the ob
 
 # 6.2 Kinetic Friction and the Work-Energy Theorem
 The total work done on an object by external force is related to the object’s displacement, but the total work is also related to changes in the speed of the object
-![[Pasted image 20250303174231.png]]
-Like work, the kinetic energy of a particle is a scalar quantity, it only depends on the particle’s mass and speed, kinetic energy can never be negative and is only zero when a particle is at rest
+![[Pasted image 20250303174231.png]]![[202502280852 ch6 Work and Kinetic Energy-2.png]]particle is a scalar quantity, it only depends on the particle’s mass and speed, kinetic energy can never be negative and is only zero when a particle is at rest
 ![[Pasted image 20250303180241.png]]
 when W<sub>tot</sub> is positive, the kinetic energy increases and the particle is going faster at the end of the displacement than at the beginning
 
