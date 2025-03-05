@@ -34,8 +34,7 @@ Because work is a scalar quantity, the total work W<sub>tot</sub> done on the ob
 
 # 6.2 Kinetic Friction and the Work-Energy Theorem
 The total work done on an object by external force is related to the object’s displacement, but the total work is also related to changes in the speed of the object
-![[Pasted image 20250303174231.png]]
-Like work, the kinetic energy of a particle is a scalar quantity, it only depends on the particle’s mass and speed, kinetic energy can never be negative and is only zero when a particle is at rest
+![[Pasted image 20250303174231.png]]![[202502280852 ch6 Work and Kinetic Energy-2.png]]particle is a scalar quantity, it only depends on the particle’s mass and speed, kinetic energy can never be negative and is only zero when a particle is at rest
 ![[Pasted image 20250303180241.png]]
 when W<sub>tot</sub> is positive, the kinetic energy increases and the particle is going faster at the end of the displacement than at the beginning
 
