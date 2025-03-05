@@ -22,7 +22,7 @@ We define the **work** W done by the this constant force under these circumstanc
 
 W = Fs (constant force in direction of straight-line displacement)
 
-The SI unit of work is the **joulle** (J)
+The SI unit of work is the **joule** (J)
 
 1 joule = (1 newton)(1 meter)
 
