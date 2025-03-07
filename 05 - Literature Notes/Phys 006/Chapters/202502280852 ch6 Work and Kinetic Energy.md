@@ -39,6 +39,9 @@ The total work done on an object by external force is related to the object’s 
 ![[99 - Meta/Images/202502280852 ch6 Work and Kinetic Energy-2.png]]
 when W<sub>tot</sub> is positive, the kinetic energy increases and the particle is going faster at the end of the displacement than at the beginning
 
+## The Meaning of Kinetic Energy
+The kinetic energy of a particle is equal to the total work that was done to 
+
 # 6.3 Work and Energy with Varying Forces
 
 
