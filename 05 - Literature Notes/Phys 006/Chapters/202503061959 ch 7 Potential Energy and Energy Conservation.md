@@ -20,6 +20,8 @@ One way was from ch6 that a falling object's kinetic energy increases because th
 
 The other way is to say that the kinetic energy increases as the gravitational potential energy decreases.
 
+W<sub>grav</sub> = Fs = w(y<sub>1</sub> - y<sub>2</sub>) = mgy<sub>1</sub> - mgy<sub>2</sub> 
+
 
 
 # 7.2 Elastic Potential Energy
