@@ -8,7 +8,7 @@ status: Reading
 title: University Physics with Modern Physics
 ---
 ```dataview
-TABLE WITHOUT ID file.link as HW, pages, Hw-Problems as problems, Due
+TABLE WITHOUT ID file.link as HW, pages, Hw-Problems as problems, Due, status
 From "05 - Literature Notes/Phys 006/HW"
 Where contains(tags, "PHYS-006/ch7")
 ```
