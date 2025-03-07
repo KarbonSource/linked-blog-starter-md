@@ -26,6 +26,8 @@ The expression above gives the correct work when the object moves upward and y<s
 
 ![[202503061959 ch 7 Potential Energy and Energy Conservation.png]]
 
+![[202503061959 ch 7 Potential Energy and Energy Conservation-1.png]]
+## 
 
 # 7.2 Elastic Potential Energy
 
