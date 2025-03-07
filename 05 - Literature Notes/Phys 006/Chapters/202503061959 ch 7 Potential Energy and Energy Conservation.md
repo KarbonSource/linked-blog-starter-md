@@ -27,7 +27,11 @@ The expression above gives the correct work when the object moves upward and y<s
 ![[202503061959 ch 7 Potential Energy and Energy Conservation.png]]
 
 ![[202503061959 ch 7 Potential Energy and Energy Conservation-1.png]]
-## 
+## Conservation of Total Mechanical Energy (Gravitational Force Only)
+Suppose an object's weight is the only force acting on it, so $\overrightarrow{F_{other}}$ = 0. The object is then falling freely with no air resistance and can be moving either up or down
+![[202503061959 ch 7 Potential Energy and Energy Conservation-2.png]]
+Rewritten as
+![[202503061959 ch 7 Potential Energy and Energy Conservation-3.png]]
 
 # 7.2 Elastic Potential Energy
 
