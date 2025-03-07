@@ -48,7 +48,11 @@ The kinetic energy of a particle is equal to the total work that particle can do
 
 # 6.3 Work and Energy with Varying Forces
 ## Work Done by a Varying Force, Straight-Line Motion
-Suppose a particle moves along the x-axis from x<sub>1</sub> to x<sub>2</sub>. To find the work done by this force, we divide the total displacement into narrow segments
+Suppose a particle moves along the x-axis from x<sub>1</sub> to x<sub>2</sub>. To find the work done by this force, we divide the total displacement into narrow segment $\Delta{x_a}$, $\Delta{x_b}$ and so on. 
+
+W = $F_{ax}\Delta{x_a}+F_{bx}\Delta{x_b}$ + $\dots$ 
+
+![[202502280852 ch6 Work and Kinetic Energy-3.png]]
 
 # 6.4 Power
 
