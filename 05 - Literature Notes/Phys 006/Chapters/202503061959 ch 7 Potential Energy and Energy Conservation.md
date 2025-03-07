@@ -33,6 +33,10 @@ Suppose an object's weight is the only force acting on it, so $\overrightarrow{F
 Rewritten as
 ![[202503061959 ch 7 Potential Energy and Energy Conservation-3.png]]
 
+## When Forces Other than Gravity Do Work
+If other forces act on the object in addition to tis weight, the
+
+
 # 7.2 Elastic Potential Energy
 
 
