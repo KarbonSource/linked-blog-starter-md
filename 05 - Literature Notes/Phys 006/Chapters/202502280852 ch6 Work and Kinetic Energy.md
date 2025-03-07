@@ -53,7 +53,8 @@ Suppose a particle moves along the x-axis from x<sub>1</sub> to x<sub>2</sub>. T
 W = $F_{ax}\Delta{x_a}+F_{bx}\Delta{x_b}$ + $\dots$ 
 
 ![[202502280852 ch6 Work and Kinetic Energy-3.png]]
-
+the integral represents the area under the curve between x<sub>1</sub> and x<sub>2</sub>.
+![[202502280852 ch6 Work and Kinetic Energy-4.png]]
 # 6.4 Power
 
 
