@@ -8,7 +8,7 @@ status: Reading
 title: University Physics with Modern Physics
 ---
 # 7.1 Gravitational Potential Energy
-
+The potential energy associated with the object's weight and its height above the ground is called gravitational potential energy
 
 
 # 7.2 Elastic Potential Energy
