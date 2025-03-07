@@ -8,8 +8,9 @@ status: Reading
 title: University Physics with Modern Physics
 ---
 ```dataview
-TITLE WITHOUT ID file.link as HW, pages, Hw-Problems as problems, Due
-From "05 - Literature Notes/PHYS 00"
+TABLE WITHOUT ID file.link as HW, pages, Hw-Problems as problems, Due
+From "05 - Literature Notes/Phys 006/HW"
+Where contains(tags, "PHYS-006/ch7")
 ```
 
 # 7.1 Gravitational Potential Energy
