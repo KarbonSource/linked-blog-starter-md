@@ -3,7 +3,7 @@ date: 2025-03-06
 tags:
   - PHYS-006/ch7
 aliases: 
-pages: 
+pages: 201-223
 status: Reading
 title: University Physics with Modern Physics
 ---
@@ -19,6 +19,7 @@ The potential energy associated with the object's weight and its height above th
 One way was from ch6 that a falling object's kinetic energy increases because the force of the earth's gravity does work on the object.
 
 The other way is to say that the kinetic energy increases as the gravitational potential energy decreases.
+
 
 
 # 7.2 Elastic Potential Energy
