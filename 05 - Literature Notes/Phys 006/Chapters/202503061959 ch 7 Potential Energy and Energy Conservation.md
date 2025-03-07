@@ -22,7 +22,7 @@ The other way is to say that the kinetic energy increases as the gravitational p
 
 W<sub>grav</sub> = Fs = w(y<sub>1</sub> - y<sub>2</sub>) = mgy<sub>1</sub> - mgy<sub>2</sub> 
 
-
+The expression above gives the correct work when the object moves upward and y<sub>2</sub> is greater than y<sub>1</sub>. in that case (y<sub>1</sub> - y<sub>2</sub>) is negative, and W<sub>grav</sub> is negativ
 
 # 7.2 Elastic Potential Energy
 
