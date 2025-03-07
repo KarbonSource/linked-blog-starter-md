@@ -47,7 +47,8 @@ K = $\frac{1}{2}mv^2$
 The kinetic energy of a particle is equal to the total work that particle can do in the process of being brought to rest.
 
 # 6.3 Work and Energy with Varying Forces
-
+## Work Done by a Varying Force, Straight-Line Motion
+Suppose a particle moves along the x-axis from x<sub>1</sub> to x<sub>2</sub>. To find the work done by this force, we divide the total displacement into narrow segments
 
 # 6.4 Power
 
