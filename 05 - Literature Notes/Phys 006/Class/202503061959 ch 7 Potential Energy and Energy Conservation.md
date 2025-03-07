@@ -7,6 +7,11 @@ pages:
 status: Reading
 title: University Physics with Modern Physics
 ---
+```dataview
+TITLE WITHOUT ID file.link as HW, pages, Hw-Problems as problems, Due
+From "05 - Literature Notes/PHYS 00"
+```
+
 # 7.1 Gravitational Potential Energy
 The potential energy associated with the object's weight and its height above the ground is called gravitational potential energy. There are two ways to describe what happens when an object falls without air resistance.
 
