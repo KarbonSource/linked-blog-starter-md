@@ -40,7 +40,11 @@ The total work done on an object by external force is related to the object’s 
 when W<sub>tot</sub> is positive, the kinetic energy increases and the particle is going faster at the end of the displacement than at the beginning
 
 ## The Meaning of Kinetic Energy
-The kinetic energy of a particle is equal to the total work that was done to 
+The kinetic energy of a particle is equal to the total work that was done to accelerate it from rest to its present speed
+
+K = $\frac{1}{2}mv^2$ 
+
+The kinetic energy of a particle is equal to the total work that particle can do in the process of being brought to rest.
 
 # 6.3 Work and Energy with Varying Forces
 
