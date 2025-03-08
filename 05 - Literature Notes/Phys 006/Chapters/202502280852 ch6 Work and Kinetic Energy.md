@@ -35,26 +35,13 @@ Because work is a scalar quantity, the total work W<sub>tot</sub> done on the ob
 
 # 6.2 Kinetic Friction and the Work-Energy Theorem
 The total work done on an object by external force is related to the object’s displacement, but the total work is also related to changes in the speed of the object
-![[99 - Meta/202502280852 ch6 Work and Kinetic Energy-2.png]]particle is a scalar quantity, it only depends on the particle’s mass and speed, kinetic energy can never be negative and is only zero when a particle is at rest
-![[99 - Meta/Images/202502280852 ch6 Work and Kinetic Energy-2.png]]
+![[Pasted image 20250303174231.png]]![[202502280852 ch6 Work and Kinetic Energy-2.png]]particle is a scalar quantity, it only depends on the particle’s mass and speed, kinetic energy can never be negative and is only zero when a particle is at rest
+![[Pasted image 20250303180241.png]]
 when W<sub>tot</sub> is positive, the kinetic energy increases and the particle is going faster at the end of the displacement than at the beginning
 
-## The Meaning of Kinetic Energy
-The kinetic energy of a particle is equal to the total work that was done to accelerate it from rest to its present speed
-
-K = $\frac{1}{2}mv^2$ 
-
-The kinetic energy of a particle is equal to the total work that particle can do in the process of being brought to rest.
-
 # 6.3 Work and Energy with Varying Forces
-## Work Done by a Varying Force, Straight-Line Motion
-Suppose a particle moves along the x-axis from x<sub>1</sub> to x<sub>2</sub>. To find the work done by this force, we divide the total displacement into narrow segment $\Delta{x_a}$, $\Delta{x_b}$ and so on. 
 
-W = $F_{ax}\Delta{x_a}+F_{bx}\Delta{x_b}$ + $\dots$ 
 
-![[202502280852 ch6 Work and Kinetic Energy-3.png]]
-the integral represents the area under the curve between x<sub>1</sub> and x<sub>2</sub>.
-![[202502280852 ch6 Work and Kinetic Energy-4.png]]
 # 6.4 Power
 
 
