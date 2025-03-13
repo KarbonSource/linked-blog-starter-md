@@ -34,7 +34,8 @@ Impulse is a vector quantity; its direction is the same as the net external forc
 ![[202503121617 ch8 Momentum, Impulse and Collisions-3.png]]
 The impulse-momentum theorem also holds when forces are not constant
 ![[202503121617 ch8 Momentum, Impulse and Collisions-4.png]]
-## Momentum and Kinetic Energy Compared
+
+# 8.2 Conservation of Momentum
 
 
 
