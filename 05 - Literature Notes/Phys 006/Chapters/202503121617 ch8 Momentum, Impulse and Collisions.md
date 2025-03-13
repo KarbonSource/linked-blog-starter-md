@@ -36,7 +36,7 @@ The impulse-momentum theorem also holds when forces are not constant
 ![[202503121617 ch8 Momentum, Impulse and Collisions-4.png]]
 
 # 8.2 Conservation of Momentum
-
+The concept of momentum is particularly important in situations in which we have two or more objects that interact.
 
 
 # ‌
