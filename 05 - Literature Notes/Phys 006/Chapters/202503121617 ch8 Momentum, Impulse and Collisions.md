@@ -30,6 +30,8 @@ The net external force acting on a particle equals the time rate of change of mo
 ## The Impulse-Momentum Theorem
 Both a particle's momentum $\overrightarrow{p}=m\overrightarrow{v}$ and its kinetic energy k=$\frac{1}{2}mv^2$ depend on the mass and velocity of the particle. 
 ![[202503121617 ch8 Momentum, Impulse and Collisions-2.png]]
+Impulse is a vector quantity; its direction is the same as the net external force $\Sigma{\overrightarrow{F}}$. The Si unit of impulse is the Newton times second Ns.
+![[202503121617 ch8 Momentum, Impulse and Collisions-3.png]]
 
 
 # ‌
