@@ -11,7 +11,11 @@ Where contains(tags, "PHYS-006/ch8")
 # 8.1 Momentum and Impulse
 In chapter 6 Newton's second is described as the following
 
-$\Sigma{F}
+$\Sigma{\overrightarrow{F}} = m\overrightarrow{a}$
+
+## Newton's Second Law in terms of momentum
+
+
 
 
 # ‌
