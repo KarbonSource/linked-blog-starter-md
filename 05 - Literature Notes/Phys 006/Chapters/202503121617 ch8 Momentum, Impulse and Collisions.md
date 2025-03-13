@@ -38,6 +38,10 @@ The impulse-momentum theorem also holds when forces are not constant
 # 8.2 Conservation of Momentum
 The concept of momentum is particularly important in situations in which we have two or more objects that interact.
 
+For any system, the forces that the particles of the system exert on each other are called internal forces.
+
+Forces exerted on any part of the system by some object outside are called external forces
+
 
 # ‌
 ---
