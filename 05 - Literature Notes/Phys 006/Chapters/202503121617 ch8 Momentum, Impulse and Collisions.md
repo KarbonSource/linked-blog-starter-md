@@ -18,7 +18,9 @@ Because $\overrightarrow{a}=\frac{d\overrightarrow{v}}{dt}$ Newton's second law 
 
 $\Sigma{\overrightarrow{F}}=m\frac{d\overrightarrow{v}}{dt}=\frac{d}{dt}(m\overrightarrow{v})$
 
-Thus Newton's second law says that the external fo
+Thus Newton's second law says that the external force $\Sigma{\overrightarrow{F}}$ acting on a particle equals the time rat of change of the product of the particle's mass and velocity, this is called product of momentum, or linear momentum of the particle
+![[202503121617 ch8 Momentum, Impulse and Collisions.png]]
+
 
 
 # ‌
