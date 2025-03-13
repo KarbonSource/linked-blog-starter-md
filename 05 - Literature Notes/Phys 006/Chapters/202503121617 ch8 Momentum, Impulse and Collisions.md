@@ -27,6 +27,9 @@ Momentum is often described by its components xyz
 ![[202503121617 ch8 Momentum, Impulse and Collisions-1.png]]
 The net external force acting on a particle equals the time rate of change of momentum of the particle.
 
+## The Impulse-Momentum Theorem
+
+
 
 # ‌
 ---
