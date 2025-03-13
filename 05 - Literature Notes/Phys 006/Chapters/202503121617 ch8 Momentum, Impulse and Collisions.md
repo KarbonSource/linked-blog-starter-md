@@ -32,6 +32,7 @@ Both a particle's momentum $\overrightarrow{p}=m\overrightarrow{v}$ and its kine
 ![[202503121617 ch8 Momentum, Impulse and Collisions-2.png]]
 Impulse is a vector quantity; its direction is the same as the net external force $\Sigma{\overrightarrow{F}}$. The Si unit of impulse is the Newton times second Ns.
 ![[202503121617 ch8 Momentum, Impulse and Collisions-3.png]]
+The impulse-momentum theorem also holds when forces are not constant
 
 
 # ‌
