@@ -14,8 +14,11 @@ In chapter 6 Newton's second is described as the following
 $\Sigma{\overrightarrow{F}} = m\overrightarrow{a}$
 
 ## Newton's Second Law in terms of momentum
+Because $\overrightarrow{a}=\frac{d\overrightarrow{v}}{dt}$ Newton's second law can be rewrite as
 
+$\Sigma{\overrightarrow{F}}=m\frac{d\overrightarrow{v}}{dt}=\frac{d}{dt}(m\overrightarrow{v})$
 
+Thus Newton's second law says that the external fo
 
 
 # ‌
