@@ -20,6 +20,7 @@ $\Sigma{\overrightarrow{F}}=m\frac{d\overrightarrow{v}}{dt}=\frac{d}{dt}(m\overr
 
 Thus Newton's second law says that the external force $\Sigma{\overrightarrow{F}}$ acting on a particle equals the time rat of change of the product of the particle's mass and velocity, this is called product of momentum, or linear momentum of the particle
 ![[202503121617 ch8 Momentum, Impulse and Collisions.png]]
+The greater the mass m and speed v of a, the greater is its magnitude of the momentum mv. This is a vector quantity with the same direction as the v
 
 
 
