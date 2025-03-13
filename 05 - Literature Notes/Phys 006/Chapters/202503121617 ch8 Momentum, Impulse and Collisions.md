@@ -28,7 +28,8 @@ Momentum is often described by its components xyz
 The net external force acting on a particle equals the time rate of change of momentum of the particle.
 
 ## The Impulse-Momentum Theorem
-
+Both a particle's momentum $\overrightarrow{p}=m\overrightarrow{v}$ and its kinetic energy k=$\frac{1}{2}mv^2$ depend on the mass and velocity of the particle. 
+![[202503121617 ch8 Momentum, Impulse and Collisions-2.png]]
 
 
 # ‌
