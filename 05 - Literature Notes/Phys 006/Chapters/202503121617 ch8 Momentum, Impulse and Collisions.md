@@ -41,6 +41,7 @@ The concept of momentum is particularly important in situations in which we have
 For any system, the forces that the particles of the system exert on each other are called internal forces.
 
 Forces exerted on any part of the system by some object outside are called external forces
+![[202503121617 ch8 Momentum, Impulse and Collisions-5.png]]
 
 
 # ‌
