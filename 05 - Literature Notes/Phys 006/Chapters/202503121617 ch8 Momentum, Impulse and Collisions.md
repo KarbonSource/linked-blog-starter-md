@@ -74,6 +74,7 @@ An elastic collision in an isolated system is one in which kinetic energy as wel
 When object B is at rest before the collision (so v<sub>B1x</sub> = 0). Think of object B as a target for object A to hit. then the kinetic energy and momentum conservation are
 ![[202503121617 ch8 Momentum, Impulse and Collisions-10.png]]
 We can solve for v<sub>a2x</sub> and v<sub>b2x</sub>
+![[202503121617 ch8 Momentum, Impulse and Collisions-11.png]]
 
 
 # ‌
