@@ -70,6 +70,9 @@ A collision in which kinetic energy is conserved is called elastic. A collision 
 An elastic collision in an isolated system is one in which kinetic energy as well as momentum is conserved. Elastic collision occur when the forces between the colliding objects are conservative.
 ![[202503121617 ch8 Momentum, Impulse and Collisions-9.png]]
 
+## Elastic Collisions, One Object Initially at Rest
+When object B is at rest
+
 
 # ‌
 ---
