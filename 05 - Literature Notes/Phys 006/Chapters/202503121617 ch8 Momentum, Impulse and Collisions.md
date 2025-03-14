@@ -61,6 +61,9 @@ An inelastic collision in which the colliding objects stick together and move as
 Because the two objects stick together after the collision, they have the same final velocity $\overrightarrow{v_2}$
 	$\overrightarrow{v_{A2}}=\overrightarrow{v_{B2}}=\overrightarrow{v_{2}}$ 
 Conservation of momentum gives the relationship
+![[202503121617 ch8 Momentum, Impulse and Collisions-8.png]]
+
+## Classifying Collisions
 
 
 # ‌
