@@ -58,7 +58,9 @@ A collision in which the total kinetic energy after the collision is less than b
 An inelastic collision in which the colliding objects stick together and move as one object after the collision is called a completely inelastic collision.
 ![[202503121617 ch8 Momentum, Impulse and Collisions-7.png]]
 ## Completely Inelastic Collisions
-
+Because the two objects stick together after the collision, they have the same final velocity $\overrightarrow{v_2}$
+	$\overrightarrow{v_{A2}}=\overrightarrow{v_{B2}}=\overrightarrow{v_{2}}$ 
+Conservation of momentum gives the relationship
 
 
 # ‌
