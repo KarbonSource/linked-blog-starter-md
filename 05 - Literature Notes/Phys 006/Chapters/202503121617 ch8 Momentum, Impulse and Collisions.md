@@ -42,6 +42,7 @@ For any system, the forces that the particles of the system exert on each other 
 
 Forces exerted on any part of the system by some object outside are called external forces
 ![[202503121617 ch8 Momentum, Impulse and Collisions-5.png]]
+**Conservation of Momentum** if the vector sum
 
 
 # ‌
