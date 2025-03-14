@@ -42,7 +42,13 @@ For any system, the forces that the particles of the system exert on each other 
 
 Forces exerted on any part of the system by some object outside are called external forces
 ![[202503121617 ch8 Momentum, Impulse and Collisions-5.png]]
-**Conservation of Momentum** if the vector sum
+**Conservation of Momentum** if the vector sum of the external forces on a system is zero, the total momentum of the system is constant
+
+This is the simplest form of the principle of conservation of momentum. This principle is a direct consequence of Newton's third law
+![[202503121617 ch8 Momentum, Impulse and Collisions-6.png]]
+
+# 8.3 Momentum Conservation and Collisions
+
 
 
 # ‌
