@@ -48,6 +48,9 @@ This is the simplest form of the principle of conservation of momentum. This pri
 ![[202503121617 ch8 Momentum, Impulse and Collisions-6.png]]
 
 # 8.3 Momentum Conservation and Collisions
+If the forces between the colliding objects are much larger than any external forces, as is the case in most collisions, we can ignore the external forces and treat the objects as an isolated system.
+
+## Elastic and Inelastic Collisions
 
 
 
