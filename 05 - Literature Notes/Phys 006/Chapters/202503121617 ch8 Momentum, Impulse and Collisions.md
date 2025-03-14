@@ -55,9 +55,10 @@ If the forces between the objects are also conservative, so no mechanical energy
 
 A collision in which the total kinetic energy after the collision is less than before the collision is called inelastic collision
 
-
+An inelastic collision in which the colliding objects stick together and move as one object after the collision is called a completely inelastic collision.
 ![[202503121617 ch8 Momentum, Impulse and Collisions-7.png]]
 ## Completely Inelastic Collisions
+
 
 
 # ‌
