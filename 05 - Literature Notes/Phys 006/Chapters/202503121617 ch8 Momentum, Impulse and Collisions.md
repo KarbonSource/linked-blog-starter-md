@@ -54,6 +54,8 @@ If the forces between the colliding objects are much larger than any external fo
 If the forces between the objects are also conservative, so no mechanical energy is lost or gained in the collision, the total kinetic energy of the system is the same after the collision as before, this is called an elastic collision.
 
 A collision in which the total kinetic energy after the collision is less than before the collision is called inelastic collision
+![[202503121617 ch8 Momentum, Impulse and Collisions-7.png]]
+## Completely Inelastic Collisions
 
 
 # ‌
