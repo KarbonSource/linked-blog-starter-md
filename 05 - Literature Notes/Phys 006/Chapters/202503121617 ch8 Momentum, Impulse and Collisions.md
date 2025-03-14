@@ -66,6 +66,10 @@ Conservation of momentum gives the relationship
 ## Classifying Collisions
 A collision in which kinetic energy is conserved is called elastic. A collision in which the total kinetic energy decreases is called inelastic. When tow objects have a common final velocity, we say that the collision is completely inelastic.
 
+# 8.4 Elastic Collisions
+An elastic collision in an isolated system is one in which kinetic energy as well as momentum is conserved. Elastic collision occur when the forces between the colliding objects are conservative.
+![[202503121617 ch8 Momentum, Impulse and Collisions-9.png]]
+
 
 # ‌
 ---
