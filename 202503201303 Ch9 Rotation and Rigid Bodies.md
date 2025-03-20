@@ -19,7 +19,7 @@ The circumference of a circle is 2$\pi$ times the radius, so there are 2$\pi$ (a
 1 rad = $\frac{360^{o}}{2\pi}$ = 57.3<sup>o</sup> 
 
 ## Angular Velocity
-A rotating body makes an angle $\theta_1$ 
+A rotating body makes an angle $\theta_1$ with the $\pm$x x at time t<sub>1</sub>. At a later time t<sub>2</sub> the angle has changed to $\theta_2$. We define the average angular velocity $\omega_{av-z}$ (the Greek letter Omega) of the body in the time interval $\Delta{t}=t_2-t_1$ as the ratio of the angular displacement $\Delta{\theta}=\theta_2-\theta_1$ 
 
 
 # ‌
