@@ -10,7 +10,11 @@ The angular coordinate $\theta$ of a rigid body rotating around a fixed axis can
 
 The most natural way to measure the angle $\theta$ is not in degrees but in **radians**.
 
-$\theta
+$\theta=\frac{s}{r}$ or $s=r\theta$
+
+An angle in radians is the ratio of two lengths, so it is a pure number, without dimensions.
+
+The circumference of a circle is 2$\pi$ 
 
 
 # ‌
