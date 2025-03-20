@@ -19,7 +19,7 @@ The circumference of a circle is 2$\pi$ times the radius, so there are 2$\pi$ (a
 1 rad = $\frac{360^{o}}{2\pi}$ = 57.3<sup>o</sup> 
 
 ## Angular Velocity
-
+A rotating body makes an angle $\theta_1$ 
 
 
 # ‌
