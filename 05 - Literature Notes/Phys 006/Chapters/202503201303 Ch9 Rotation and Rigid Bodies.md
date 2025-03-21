@@ -3,9 +3,13 @@ date: 2025-03-20
 tags:
   - PHYS-006/ch9
 aliases: 
-pages: 
+pages: 272-289
 status: Reading
 ---
+```dataview
+TABLE WITHOUT ID file.link as Hw, pages, Hw-Problems as problems, Due, status
+From "05 - Literature Notes/Phys 006/Chapters"
+```
 # 9.1 Angular Velocity and Acceleration
 ![[202503201303 Ch9 Rotation and Rigid Bodies.png]]
 The angular coordinate $\theta$ of a rigid body rotating around a fixed axis can be both positive and negative, depending on which to be positive or negative to be clockwise or counterclockwise.
