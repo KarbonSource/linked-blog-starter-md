@@ -24,7 +24,11 @@ A rotating body makes an angle $\theta_1$ with the $\pm$x x at time t<sub>1</sub
 
 $\omega_{av-z}=\frac{\theta_2-\theta_1}{t_2-t_1}=\frac{\Delta{\theta}}{\Delta{t}}$
 
-The instantaneous angular velocity $\omega_z$ is the limit of $\omega_{av-z}$
+The instantaneous angular velocity $\omega_z$ is the limit of $\omega_{av-z}$ as $\Delta{t}$ approaches zero:
+![[202503201303 Ch9 Rotation and Rigid Bodies-2.png]]
+
+## Angular Velocity as a Vector
+
 
 # ‌
 ---
