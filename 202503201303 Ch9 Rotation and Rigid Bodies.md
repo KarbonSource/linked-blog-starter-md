@@ -28,7 +28,7 @@ The instantaneous angular velocity $\omega_z$ is the limit of $\omega_{av-z}$ as
 ![[202503201303 Ch9 Rotation and Rigid Bodies-2.png]]
 
 ## Angular Velocity as a Vector
-
+Just as v<sub>x</sub> is  the x-component of the velocity vector $\overrightarrow{v}$, $\omega_z$ is the z-component of an angular velocity vector $\overrightarrow{\omega}$ directed along the axis of rotation.
 
 # ‌
 ---
