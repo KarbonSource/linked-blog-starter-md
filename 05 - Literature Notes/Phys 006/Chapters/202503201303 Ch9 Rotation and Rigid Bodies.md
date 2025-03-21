@@ -44,6 +44,8 @@ A rigid body whose angular velocity changes has an angular acceleration.
 # 9.2 Rotation with Constant Angular Acceleration
 ![[202503201303 Ch9 Rotation and Rigid Bodies-5.png]]
 The product a<sub>z</sub>t is the total change in $\omega_z$ between t = 0 and the later time t; angular velocity w<sub>z</sub> at time t is the sum of the initial value w<sub>0z</sub> and this total change.
+![[202503201303 Ch9 Rotation and Rigid Bodies-6.png]]
+
 
 
 # ‌
