@@ -52,7 +52,7 @@ The product a<sub>z</sub>t is the total change in $\omega_z$ between t = 0 and t
 To find the kinetic energy of a rotating body, we have to star from   KE = $\frac{1}{2}mv^2$ for a particle, and this requires that we know the speed v for each particle in the body
 
 ## Linear Speed in Rigid-Body Rotation
-![[202503201303 Ch9 Rotation and Rigid Bodies-9.png|350]]
+![[202503201303 Ch9 Rotation and Rigid Bodies-9.png|350]]![[Pasted image 20250320200215.png|350]]
 
 
 # ‌
