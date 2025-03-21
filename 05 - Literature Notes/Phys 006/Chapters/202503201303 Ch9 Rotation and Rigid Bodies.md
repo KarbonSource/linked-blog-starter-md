@@ -45,7 +45,13 @@ A rigid body whose angular velocity changes has an angular acceleration.
 ![[202503201303 Ch9 Rotation and Rigid Bodies-5.png]]
 The product a<sub>z</sub>t is the total change in $\omega_z$ between t = 0 and the later time t; angular velocity w<sub>z</sub> at time t is the sum of the initial value w<sub>0z</sub> and this total change.
 ![[202503201303 Ch9 Rotation and Rigid Bodies-6.png]]
+![[202503201303 Ch9 Rotation and Rigid Bodies-7.png]]
+![[202503201303 Ch9 Rotation and Rigid Bodies-8.png]]
 
+# 9.3 Relating Linear and Angular Kinematics
+To find the kinetic energy of a rotating body, we have to star from   KE = $\frac{1}{2}mv^2$ for a particle, and this requires that we know the speed v for each particle in the body
+
+## Linear
 
 
 # ‌
