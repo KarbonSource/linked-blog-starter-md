@@ -8,7 +8,8 @@ status: Reading
 ---
 ```dataview
 TABLE WITHOUT ID file.link as Hw, pages, Hw-Problems as problems, Due, status
-From "05 - Literature Notes/Phys 006/Chapters"
+From "05 - Literature Notes/Phys 006/HW"
+Where contains(tags, "PHYS-006/ch9")
 ```
 # 9.1 Angular Velocity and Acceleration
 ![[202503201303 Ch9 Rotation and Rigid Bodies.png]]
@@ -42,7 +43,7 @@ A rigid body whose angular velocity changes has an angular acceleration.
 
 # 9.2 Rotation with Constant Angular Acceleration
 ![[202503201303 Ch9 Rotation and Rigid Bodies-5.png]]
-
+The product a<sub>z</sub>t is the total change in w
 
 
 # ‌
