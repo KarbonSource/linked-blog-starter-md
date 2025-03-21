@@ -53,7 +53,7 @@ To find the kinetic energy of a rotating body, we have to star from   KE = $\fra
 
 ## Linear Speed in Rigid-Body Rotation
 ![[202503201303 Ch9 Rotation and Rigid Bodies-9.png|350]]![[Pasted image 20250320200215.png|350]]
-
+A particle's speed is directly proportional to the body's angular velocity; the faster the rotation, the greater the speed of each particle
 
 # ‌
 ---
