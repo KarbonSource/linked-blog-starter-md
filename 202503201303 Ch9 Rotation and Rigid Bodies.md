@@ -2,7 +2,9 @@
 date: 2025-03-20
 tags:
   - PHYS-006/ch9
-aliases:
+aliases: 
+pages: 
+status: Reading
 ---
 # 9.1 Angular Velocity and Acceleration
 ![[202503201303 Ch9 Rotation and Rigid Bodies.png]]
@@ -34,7 +36,10 @@ Just as v<sub>x</sub> is  the x-component of the velocity vector $\overrightarro
 A rigid body whose angular velocity changes has an angular acceleration.
 ![[202503201303 Ch9 Rotation and Rigid Bodies-3.png]]![[202503201303 Ch9 Rotation and Rigid Bodies-4.png]]
 
-# 9.2 Rotation with Cons
+# 9.2 Rotation with Constant Angular Acceleration
+![[202503201303 Ch9 Rotation and Rigid Bodies-5.png]]
+
+
 
 # ‌
 ---
