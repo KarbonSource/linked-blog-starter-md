@@ -57,6 +57,10 @@ A particle's speed is directly proportional to the body's angular velocity; the 
 
 s = r$\theta$ 
 
+We take the derivative with r being a constant
+$|\frac{ds}{dt}=r|\frac{d\theta}{dt}|$
+
+
 # ‌
 ---
 # Flashcards
