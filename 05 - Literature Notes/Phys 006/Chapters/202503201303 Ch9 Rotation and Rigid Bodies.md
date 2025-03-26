@@ -68,7 +68,9 @@ We can can represent the acceleration $\overrightarrow{a}$ of a particle moving 
 
 This component of acceleration is always tangent to the circular path of point P
 
-The component of 
+The component of $\overrightarrow{a}$ directed toward the rotation axis, the centripetal component of acceleration a<sub>rad</sub> is associated with the change of direction of the velocity of point P
+![[202503201303 Ch9 Rotation and Rigid Bodies-12.png]]
+
 
 # ‌
 ---
