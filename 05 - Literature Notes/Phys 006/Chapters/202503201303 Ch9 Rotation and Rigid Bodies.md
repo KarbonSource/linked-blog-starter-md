@@ -72,7 +72,7 @@ The component of $\overrightarrow{a}$ directed toward the rotation axis, the cen
 ![[202503201303 Ch9 Rotation and Rigid Bodies-12.png]]
 
 # 9.4 Energy in Rotational Motion
-A rotating rigid body consists of mass in motion, so it has kinetic energy
+A rotating rigid body consists of mass in motion, so it has kinetic energy. We can express this kinetic energy in terms of the body's angular speed and a new quantity called the *moment of inertia*, that depends on the body's mass and how the mass is distributed.
 
 # ‌
 ---
