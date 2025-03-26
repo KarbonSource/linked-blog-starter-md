@@ -74,7 +74,16 @@ The component of $\overrightarrow{a}$ directed toward the rotation axis, the cen
 # 9.4 Energy in Rotational Motion
 A rotating rigid body consists of mass in motion, so it has kinetic energy. We can express this kinetic energy in terms of the body's angular speed and a new quantity called the *moment of inertia*, that depends on the body's mass and how the mass is distributed.
 
-$\\frac{1}{2}m_iv_i=\frac{}{}
+$\frac{1}{2}m_iv_i^2=\frac{1}{2}m_ir_i^2\omega^2$ 
+![[202503201303 Ch9 Rotation and Rigid Bodies-13.png]]
+
+"moment" means that I depends on how the body's mass is distributed in space;
+
+Rotational kinetic energy K of a rigid body
+![[202503201303 Ch9 Rotation and Rigid Bodies-14.png]]
+
+# 9.5 Parallel-Axis Theorem
+
 
 # ‌
 ---
