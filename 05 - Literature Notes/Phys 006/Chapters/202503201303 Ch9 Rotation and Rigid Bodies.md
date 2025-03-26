@@ -62,6 +62,14 @@ $|\frac{ds}{dt}=r|\frac{d\theta}{dt}|$
 
 ![[202503201303 Ch9 Rotation and Rigid Bodies-10.png]]
 
+## Linear Acceleration in Rigid-Body Rotation
+We can can represent the acceleration $\overrightarrow{a}$ of a particle moving in a circle in terms of its centripetal and tangential components a<sub>rad</sub> and a<sub>tan</sub>. We found that the **tangential component of acceleration** a<sub>tan</sub> the component parallel to the instantaneous velocity, acts to change the magnitude of the particles velocity
+![[202503201303 Ch9 Rotation and Rigid Bodies-11.png]]
+
+This component of acceleration is always tangent to the circular path of point P
+
+The component of 
+
 # ‌
 ---
 # Flashcards
