@@ -60,6 +60,7 @@ s = r$\theta$
 We take the derivative with r being a constant
 $|\frac{ds}{dt}=r|\frac{d\theta}{dt}|$
 
+![[202503201303 Ch9 Rotation and Rigid Bodies-10.png]]
 
 # ‌
 ---
