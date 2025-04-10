@@ -22,6 +22,7 @@ equilibrium doesn't mean the object isn't moving, rather the object is not accel
 }
 ```
 
+![[202504101633 Vertical Equilibrium & The Normal Force-3.png]]
 
 
 # ‌
