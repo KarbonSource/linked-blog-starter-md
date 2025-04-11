@@ -4,6 +4,8 @@ tags:
 aliases:
 ---
 # 202504102117
+![[202504102117 Work by springs.png]]
+
 
 
 # ‌
