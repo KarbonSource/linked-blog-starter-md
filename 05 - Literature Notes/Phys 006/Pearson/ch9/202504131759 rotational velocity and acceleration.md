@@ -4,7 +4,7 @@ tags:
 aliases:
 ---
 # 202504131759
-
+![[202504131759 rotational velocity and acceleration.png]]
 
 # ‌
 ---
