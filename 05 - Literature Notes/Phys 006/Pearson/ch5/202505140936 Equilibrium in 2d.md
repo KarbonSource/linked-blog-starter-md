@@ -4,7 +4,7 @@ tags:
 aliases:
 ---
 # 202505140936
-
+![[202505140936 Equilibrium in 2d.png]]
 
 # ‌
 ---
