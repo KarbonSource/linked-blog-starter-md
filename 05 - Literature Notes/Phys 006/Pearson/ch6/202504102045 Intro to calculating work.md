@@ -8,6 +8,7 @@ aliases:
 ![[202504102045 Work done by a constant force-1.png]]
 ![[202504102045 Intro to calculating work.png]]
 ![[202504102045 Intro to calculating work-1.png]]
+![[202504102045 Intro to calculating work-2.png]]
 
 # ‌
 ---
