@@ -5,6 +5,7 @@ aliases:
 ---
 # 202504131916
 ![[202504131916 Equations for rotational motion.png]]
+![[202504131916 Equations for rotational motion-1.png]]
 
 # ‌
 ---
