@@ -12,6 +12,8 @@ aliases:
 - Typical locations: chin, forehead, and in front.
 
 # 3.Movement
+![[202601201017 6 Parameters of ASL-1.png]]
+
 
 # ‌
 ---
