@@ -14,7 +14,7 @@ aliases:
 # 3.Movement
 ![[202601201017 6 Parameters of ASL-1.png]]
 - Refers to changing location in the physical space during sign production
-- Types of movement
+- Types of movements include:
 
 
 # ‌
