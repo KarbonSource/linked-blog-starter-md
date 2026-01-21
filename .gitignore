@@ -5,6 +5,7 @@
 # Ignore system and editor files (more specific to what I do)
 .vscode/
 .idea/
+.obsidian/plugins/remember-cursor-position
 
 .DS_Store
 Thumbs.db
