@@ -1,6 +1,7 @@
 ---
 date: 2026-01-20
-tags: 
+tags:
+  - ASL-001/Unit1
 aliases:
 ---
 # 1. Handshape
