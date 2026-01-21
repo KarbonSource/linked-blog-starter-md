@@ -1,7 +1,6 @@
 # Ignore volatile UI-related state
 .obsidian/workspace.json
 .obsidian/app.json
-.obsidian/plugins/remember-cursor-position/cursor-positions.json
 
 # Ignore system and editor files (more specific to what I do)
 .vscode/
