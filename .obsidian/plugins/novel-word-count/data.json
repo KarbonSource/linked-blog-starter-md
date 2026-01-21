@@ -73,88 +73,7 @@
     "debugMode": false
   },
   "cachedCounts": {
-    "07 - Archives/css snippets on ios/202410211445.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133431,
-      "modifiedDate": 1763509133431,
-      "sizeInBytes": 136,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "07 - Archives/Steam Storage Linux/202409030127 Steam Storage Linux.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133430,
-      "modifiedDate": 1763509133430,
-      "sizeInBytes": 384,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "07 - Archives/202505111755 plugins.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133428,
-      "modifiedDate": 1763509133428,
-      "sizeInBytes": 632,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "99 - Meta/202504081833 Ch 11.png": {
+    "99 - Meta/Ink/Drawing/2025.3.4 - 14.12pm.drawing": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -169,63 +88,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1763509133487,
-      "modifiedDate": 1768885159404,
-      "sizeInBytes": 17898,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "99 - Meta/Ink/Writing/2025.1.29 - 13.37pm.writing": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509136580,
-      "modifiedDate": 1763509136580,
-      "sizeInBytes": 2619,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "99 - Meta/Ink/Writing/2025.1.28 - 19.53pm.writing": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509136575,
-      "modifiedDate": 1763509136578,
-      "sizeInBytes": 3186,
+      "createdDate": 1763509136500,
+      "modifiedDate": 1763509136503,
+      "sizeInBytes": 1370018,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -478,33 +343,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Ink/Drawing/2025.3.4 - 14.12pm.drawing": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509136500,
-      "modifiedDate": 1763509136503,
-      "sizeInBytes": 1370018,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Ink/Drawing/2025.3.4 - 14.03pm.drawing": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -586,33 +424,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Ink/Drawing/2025.3.31 - 13.09pm.drawing": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509136464,
-      "modifiedDate": 1763509136465,
-      "sizeInBytes": 342205,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Ink/Drawing/2025.3.31 - 13.01pm.drawing": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -631,6 +442,33 @@
       "createdDate": 1763509136456,
       "modifiedDate": 1763509136457,
       "sizeInBytes": 477207,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Meta/Ink/Drawing/2025.3.31 - 13.09pm.drawing": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509136464,
+      "modifiedDate": 1763509136465,
+      "sizeInBytes": 342205,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -802,33 +640,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Ink/Drawing/2025.3.26 - 13.12pm.drawing": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509136399,
-      "modifiedDate": 1763509136402,
-      "sizeInBytes": 683399,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Ink/Drawing/2025.3.25 - 14.22pm.drawing": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -847,6 +658,33 @@
       "createdDate": 1763509136389,
       "modifiedDate": 1763509136391,
       "sizeInBytes": 887195,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Meta/Ink/Drawing/2025.3.26 - 13.12pm.drawing": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509136399,
+      "modifiedDate": 1763509136402,
+      "sizeInBytes": 683399,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -910,6 +748,33 @@
         "newlineCount": 0
       }
     },
+    "99 - Meta/Ink/Drawing/2025.3.19 - 13.15pm.drawing": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509136300,
+      "modifiedDate": 1763509136303,
+      "sizeInBytes": 399424,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "99 - Meta/Ink/Drawing/2025.3.24 - 12.59pm.drawing": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -928,33 +793,6 @@
       "createdDate": 1763509136357,
       "modifiedDate": 1763509136357,
       "sizeInBytes": 500234,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "99 - Meta/Ink/Drawing/2025.3.19 - 13.39pm.drawing": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509136324,
-      "modifiedDate": 1763509136324,
-      "sizeInBytes": 459383,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -991,7 +829,7 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Ink/Drawing/2025.3.19 - 13.15pm.drawing": {
+    "99 - Meta/Ink/Drawing/2025.3.19 - 13.39pm.drawing": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1006,9 +844,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1763509136300,
-      "modifiedDate": 1763509136303,
-      "sizeInBytes": 399424,
+      "createdDate": 1763509136324,
+      "modifiedDate": 1763509136324,
+      "sizeInBytes": 459383,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1099,33 +937,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Ink/Drawing/2025.3.18 - 14.17pm.drawing": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509136264,
-      "modifiedDate": 1763509136266,
-      "sizeInBytes": 656535,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Ink/Drawing/2025.3.18 - 14.05pm.drawing": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -1144,6 +955,33 @@
       "createdDate": 1763509136251,
       "modifiedDate": 1763509136254,
       "sizeInBytes": 320327,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Meta/Ink/Drawing/2025.3.18 - 14.17pm.drawing": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509136264,
+      "modifiedDate": 1763509136266,
+      "sizeInBytes": 656535,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1396,6 +1234,33 @@
         "newlineCount": 0
       }
     },
+    "99 - Meta/Ink/Drawing/2025.2.7 - 9.59am.drawing": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509136145,
+      "modifiedDate": 1763509136147,
+      "sizeInBytes": 1324538,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "99 - Meta/Ink/Drawing/2025.3.10 - 13.05pm.drawing": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -1423,7 +1288,7 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Ink/Drawing/2025.2.7 - 9.59am.drawing": {
+    "99 - Meta/Ink/Drawing/2025.2.7 - 13.07pm.drawing": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1438,9 +1303,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1763509136145,
-      "modifiedDate": 1763509136147,
-      "sizeInBytes": 1324538,
+      "createdDate": 1763509136111,
+      "modifiedDate": 1763509136114,
+      "sizeInBytes": 710579,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1495,33 +1360,6 @@
       "createdDate": 1763509136123,
       "modifiedDate": 1763509136124,
       "sizeInBytes": 341783,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "99 - Meta/Ink/Drawing/2025.2.7 - 13.07pm.drawing": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509136111,
-      "modifiedDate": 1763509136114,
-      "sizeInBytes": 710579,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1990,33 +1828,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Ink/Drawing/2025.2.21 - 13.31pm.drawing": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509135909,
-      "modifiedDate": 1763509135911,
-      "sizeInBytes": 213996,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Ink/Drawing/2025.2.21 - 13.19pm.drawing": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -2035,6 +1846,33 @@
       "createdDate": 1763509135900,
       "modifiedDate": 1763509135901,
       "sizeInBytes": 692319,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Meta/Ink/Drawing/2025.2.21 - 13.31pm.drawing": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509135909,
+      "modifiedDate": 1763509135911,
+      "sizeInBytes": 213996,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2179,33 +2017,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Ink/Drawing/2025.2.18 - 14.13pm.drawing": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509135824,
-      "modifiedDate": 1763509135826,
-      "sizeInBytes": 575744,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Ink/Drawing/2025.2.12 - 13.35pm.drawing": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -2224,33 +2035,6 @@
       "createdDate": 1763509135816,
       "modifiedDate": 1763509135818,
       "sizeInBytes": 554176,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "99 - Meta/Ink/Drawing/2025.2.12 - 13.09pm.drawing": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509135796,
-      "modifiedDate": 1763509135797,
-      "sizeInBytes": 19948,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2287,6 +2071,60 @@
         "newlineCount": 0
       }
     },
+    "99 - Meta/Ink/Drawing/2025.2.18 - 14.13pm.drawing": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509135824,
+      "modifiedDate": 1763509135826,
+      "sizeInBytes": 575744,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Meta/Ink/Drawing/2025.2.12 - 13.09pm.drawing": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509135796,
+      "modifiedDate": 1763509135797,
+      "sizeInBytes": 19948,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "99 - Meta/Ink/Drawing/2025.2.12 - 13.04pm.drawing": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -2314,33 +2152,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Ink/Drawing/2025.2.11 - 14.54pm.drawing": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509135776,
-      "modifiedDate": 1763509135777,
-      "sizeInBytes": 385325,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Ink/Drawing/2025.2.11 - 14.37pm.drawing": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -2359,6 +2170,33 @@
       "createdDate": 1763509135767,
       "modifiedDate": 1763509135767,
       "sizeInBytes": 621606,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Meta/Ink/Drawing/2025.2.11 - 14.54pm.drawing": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509135776,
+      "modifiedDate": 1763509135777,
+      "sizeInBytes": 385325,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2422,7 +2260,7 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Ink/Drawing/2025.2.10 - 13.38pm.drawing": {
+    "99 - Meta/Ink/Drawing/2025.2.11 - 14.08pm.drawing": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2437,9 +2275,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1763509135723,
-      "modifiedDate": 1763509135725,
-      "sizeInBytes": 605427,
+      "createdDate": 1763509135735,
+      "modifiedDate": 1763509135737,
+      "sizeInBytes": 568130,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2476,7 +2314,7 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Ink/Drawing/2025.2.11 - 14.08pm.drawing": {
+    "99 - Meta/Ink/Drawing/2025.2.10 - 13.38pm.drawing": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2491,9 +2329,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1763509135735,
-      "modifiedDate": 1763509135737,
-      "sizeInBytes": 568130,
+      "createdDate": 1763509135723,
+      "modifiedDate": 1763509135725,
+      "sizeInBytes": 605427,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2584,33 +2422,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Ink/Drawing/2025.1.30 - 19.09pm.drawing": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509135679,
-      "modifiedDate": 1763509135681,
-      "sizeInBytes": 1369137,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Ink/Drawing/2025.1.30 - 17.59pm.drawing": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -2638,7 +2449,7 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Ink/Drawing/2025.1.29 - 13.11pm.drawing": {
+    "99 - Meta/Ink/Drawing/2025.1.30 - 19.09pm.drawing": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2653,9 +2464,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1763509135642,
-      "modifiedDate": 1763509135647,
-      "sizeInBytes": 1142446,
+      "createdDate": 1763509135679,
+      "modifiedDate": 1763509135681,
+      "sizeInBytes": 1369137,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2692,6 +2503,33 @@
         "newlineCount": 0
       }
     },
+    "99 - Meta/Ink/Drawing/2025.1.29 - 13.11pm.drawing": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509135642,
+      "modifiedDate": 1763509135647,
+      "sizeInBytes": 1142446,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "99 - Meta/Ink/Drawing/2025.1.28 - 19.55pm.drawing": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -2710,6 +2548,60 @@
       "createdDate": 1763509135641,
       "modifiedDate": 1763509135641,
       "sizeInBytes": 1835,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Meta/Ink/Writing/2025.1.29 - 13.37pm.writing": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509136580,
+      "modifiedDate": 1763509136580,
+      "sizeInBytes": 2619,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Meta/Ink/Writing/2025.1.28 - 19.53pm.writing": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509136575,
+      "modifiedDate": 1763509136578,
+      "sizeInBytes": 3186,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3232,33 +3124,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Images/Pasted image 20250207075941.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509135495,
-      "modifiedDate": 1768885073081,
-      "sizeInBytes": 6986,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Images/Pasted image 20250207081851.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -3286,7 +3151,7 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Images/Pasted image 20250207074605.png": {
+    "99 - Meta/Images/Pasted image 20250207075941.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3301,9 +3166,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1763509135489,
-      "modifiedDate": 1768885072423,
-      "sizeInBytes": 12281,
+      "createdDate": 1763509135495,
+      "modifiedDate": 1768885073081,
+      "sizeInBytes": 6986,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3340,6 +3205,33 @@
         "newlineCount": 0
       }
     },
+    "99 - Meta/Images/Pasted image 20250207074605.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509135489,
+      "modifiedDate": 1768885072423,
+      "sizeInBytes": 12281,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "99 - Meta/Images/Pasted image 20250206153250.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -3367,33 +3259,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Images/Pasted image 20250206195927.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509135470,
-      "modifiedDate": 1768885070090,
-      "sizeInBytes": 21735,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Images/Pasted image 20250207072904.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -3412,6 +3277,33 @@
       "createdDate": 1763509135476,
       "modifiedDate": 1768885070963,
       "sizeInBytes": 23171,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Meta/Images/Pasted image 20250206195927.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509135470,
+      "modifiedDate": 1768885070090,
+      "sizeInBytes": 21735,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4420,33 +4312,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Images/Pasted image 20250117210344.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509135223,
-      "modifiedDate": 1768885031969,
-      "sizeInBytes": 28785,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Images/Pasted image 20250117201259.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -4465,6 +4330,33 @@
       "createdDate": 1763509135216,
       "modifiedDate": 1768885030891,
       "sizeInBytes": 5839,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Meta/Images/Pasted image 20250117210344.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509135223,
+      "modifiedDate": 1768885031969,
+      "sizeInBytes": 28785,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4636,33 +4528,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Images/Pasted image 20250117081726.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509135168,
-      "modifiedDate": 1768885024491,
-      "sizeInBytes": 2188,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Images/Pasted image 20250117082143.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -4681,6 +4546,33 @@
       "createdDate": 1763509135169,
       "modifiedDate": 1768885025250,
       "sizeInBytes": 8654,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Meta/Images/Pasted image 20250117081726.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509135168,
+      "modifiedDate": 1768885024491,
+      "sizeInBytes": 2188,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4798,6 +4690,33 @@
         "newlineCount": 0
       }
     },
+    "99 - Meta/Images/Pasted image 20250116193848.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509135141,
+      "modifiedDate": 1768885019660,
+      "sizeInBytes": 3528,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "99 - Meta/Images/Pasted image 20250116194722.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -4825,7 +4744,7 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Images/Pasted image 20250116193848.png": {
+    "99 - Meta/Images/Pasted Image 20250115205258_565.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4840,9 +4759,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1763509135141,
-      "modifiedDate": 1768885019660,
-      "sizeInBytes": 3528,
+      "createdDate": 1763509134945,
+      "modifiedDate": 1768885017567,
+      "sizeInBytes": 18566,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4897,33 +4816,6 @@
       "createdDate": 1763509135129,
       "modifiedDate": 1768885018301,
       "sizeInBytes": 8536,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "99 - Meta/Images/Pasted Image 20250115205258_565.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509134945,
-      "modifiedDate": 1768885017567,
-      "sizeInBytes": 18566,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5797,60 +5689,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Images/Ink/Drawing/2025.2.20 - 16.53pm.drawing": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509134747,
-      "modifiedDate": 1763509134749,
-      "sizeInBytes": 426162,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "99 - Meta/Images/Ink/Drawing/2025.2.19 - 10.42am.drawing": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509134710,
-      "modifiedDate": 1763509134712,
-      "sizeInBytes": 733648,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Images/Ink/Drawing/2025.2.19 - 9.58am.drawing": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -5878,6 +5716,33 @@
         "newlineCount": 0
       }
     },
+    "99 - Meta/Images/Ink/Drawing/2025.2.20 - 16.53pm.drawing": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509134747,
+      "modifiedDate": 1763509134749,
+      "sizeInBytes": 426162,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "99 - Meta/Images/Ink/Drawing/2025.2.19 - 9.28am.drawing": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -5896,6 +5761,33 @@
       "createdDate": 1763509134721,
       "modifiedDate": 1763509134726,
       "sizeInBytes": 837413,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Meta/Images/Ink/Drawing/2025.2.19 - 10.42am.drawing": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509134710,
+      "modifiedDate": 1763509134712,
+      "sizeInBytes": 733648,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6013,33 +5905,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Images/202601201741 Unit 1.1 Instructor Lecture.gif": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1768970131107,
-      "modifiedDate": 1768970131108,
-      "sizeInBytes": 9197,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Images/202601201741 Unit 1.1 Instructor Lecture.jpg": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -6058,6 +5923,33 @@
       "createdDate": 1768966625063,
       "modifiedDate": 1768966625064,
       "sizeInBytes": 61270,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Meta/Images/202601201741 Unit 1.1 Instructor Lecture.gif": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1768970131107,
+      "modifiedDate": 1768970131108,
+      "sizeInBytes": 9197,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6202,33 +6094,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Images/202601201741 Unit 1.1 Instructor Lecture-6.webp": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1768971927981,
-      "modifiedDate": 1768971927981,
-      "sizeInBytes": 64528,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Images/202601201741 Unit 1.1 Instructor Lecture-6.jpg": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -6247,6 +6112,33 @@
       "createdDate": 1768971318839,
       "modifiedDate": 1768971318841,
       "sizeInBytes": 17046,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Meta/Images/202601201741 Unit 1.1 Instructor Lecture-6.webp": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1768971927981,
+      "modifiedDate": 1768971927981,
+      "sizeInBytes": 64528,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6283,33 +6175,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Images/202601201741 Unit 1.1 Instructor Lecture-5.gif": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1768973063606,
-      "modifiedDate": 1768973063607,
-      "sizeInBytes": 19251,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Images/202601201741 Unit 1.1 Instructor Lecture-5.jpg": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -6328,6 +6193,33 @@
       "createdDate": 1768970025514,
       "modifiedDate": 1768970025516,
       "sizeInBytes": 56765,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Meta/Images/202601201741 Unit 1.1 Instructor Lecture-5.gif": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1768973063606,
+      "modifiedDate": 1768973063607,
+      "sizeInBytes": 19251,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7039,33 +6931,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Images/202511181554 SECTION 3. The Testing Process-1.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1764618435021,
-      "modifiedDate": 1768884987352,
-      "sizeInBytes": 2998,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Images/202505181949 intro to simple harmonic motion.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -7084,6 +6949,33 @@
       "createdDate": 1763509134682,
       "modifiedDate": 1768884847346,
       "sizeInBytes": 171116,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Meta/Images/202511181554 SECTION 3. The Testing Process-1.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1764618435021,
+      "modifiedDate": 1768884987352,
+      "sizeInBytes": 2998,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7201,33 +7093,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Images/202505181853 Spring Force (Hooke's Law)-3.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509134633,
-      "modifiedDate": 1768884843977,
-      "sizeInBytes": 149686,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Images/202505181853 Spring Force (Hooke's Law)-2.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -7245,6 +7110,33 @@
       "aliases": [],
       "createdDate": 1763509134624,
       "modifiedDate": 1768884843079,
+      "sizeInBytes": 149686,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Meta/Images/202505181853 Spring Force (Hooke's Law)-3.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509134633,
+      "modifiedDate": 1768884843977,
       "sizeInBytes": 149686,
       "sessionStart": {
         "noteCount": 0,
@@ -7336,33 +7228,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Images/202505181825 Acceleration due to gravity-1.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509134588,
-      "modifiedDate": 1768884833932,
-      "sizeInBytes": 14857,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Images/202505181749.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -7381,6 +7246,33 @@
       "createdDate": 1763509134574,
       "modifiedDate": 1768884832417,
       "sizeInBytes": 106671,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Meta/Images/202505181825 Acceleration due to gravity-1.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509134588,
+      "modifiedDate": 1768884833932,
+      "sizeInBytes": 14857,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7876,6 +7768,33 @@
         "newlineCount": 0
       }
     },
+    "99 - Meta/Images/202505112258 Forces & Kinematics-1.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509134410,
+      "modifiedDate": 1768884812832,
+      "sizeInBytes": 36920,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "99 - Meta/Images/202505112258 Forces & Kinematics.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -7903,7 +7822,7 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Images/202505112258 Forces & Kinematics-1.png": {
+    "99 - Meta/Images/202504132141.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7918,9 +7837,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1763509134410,
-      "modifiedDate": 1768884812832,
-      "sizeInBytes": 36920,
+      "createdDate": 1763509134372,
+      "modifiedDate": 1768884796857,
+      "sizeInBytes": 472046,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7984,33 +7903,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Images/202504132141.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509134372,
-      "modifiedDate": 1768884796857,
-      "sizeInBytes": 472046,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Images/202504132141-1.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -8038,33 +7930,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Images/202504131917 Types of acceleration in rotation-2.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509134334,
-      "modifiedDate": 1768884790026,
-      "sizeInBytes": 330320,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Images/202504131917 Types of acceleration in rotation.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -8083,6 +7948,33 @@
       "createdDate": 1763509134346,
       "modifiedDate": 1768884780358,
       "sizeInBytes": 220987,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Meta/Images/202504131917 Types of acceleration in rotation-2.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509134334,
+      "modifiedDate": 1768884790026,
+      "sizeInBytes": 330320,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -8227,33 +8119,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Images/202504131638 Rotational Position and Displacement.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509134266,
-      "modifiedDate": 1768884750445,
-      "sizeInBytes": 351174,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Images/202504131638 Rotational Position and Displacement-5.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -8272,6 +8137,33 @@
       "createdDate": 1763509134260,
       "modifiedDate": 1768884762732,
       "sizeInBytes": 20425,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Meta/Images/202504131638 Rotational Position and Displacement.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509134266,
+      "modifiedDate": 1768884750445,
+      "sizeInBytes": 351174,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -8524,33 +8416,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Images/202504102117 Work by springs.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509134148,
-      "modifiedDate": 1768884733568,
-      "sizeInBytes": 214459,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Images/202504102117 Work by springs-1.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -8569,6 +8434,33 @@
       "createdDate": 1763509134136,
       "modifiedDate": 1768884736278,
       "sizeInBytes": 196562,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Meta/Images/202504102117 Work by springs.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509134148,
+      "modifiedDate": 1768884733568,
+      "sizeInBytes": 214459,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -8956,33 +8848,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Images/202504101824 Kinetic Friction-2.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133954,
-      "modifiedDate": 1768884688958,
-      "sizeInBytes": 21060,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Images/202504101824 Kinetic Friction.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -9001,6 +8866,33 @@
       "createdDate": 1763509133962,
       "modifiedDate": 1768884687063,
       "sizeInBytes": 154102,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Meta/Images/202504101824 Kinetic Friction-2.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133954,
+      "modifiedDate": 1768884688958,
+      "sizeInBytes": 21060,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -9361,33 +9253,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Images/202503311300 ch10-7.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133840,
-      "modifiedDate": 1768884664687,
-      "sizeInBytes": 43748,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Images/202503311300 ch10-8.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -9406,6 +9271,33 @@
       "createdDate": 1763509133848,
       "modifiedDate": 1768884665422,
       "sizeInBytes": 9295,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Meta/Images/202503311300 ch10-7.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133840,
+      "modifiedDate": 1768884664687,
+      "sizeInBytes": 43748,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -9442,33 +9334,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Images/202503311300 ch10-5.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133826,
-      "modifiedDate": 1768884662562,
-      "sizeInBytes": 24729,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Images/202503311300 ch10-4.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -9496,7 +9361,7 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Images/202503311300 ch10-3.png": {
+    "99 - Meta/Images/202503311300 ch10-5.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9511,9 +9376,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1763509133806,
-      "modifiedDate": 1768884660427,
-      "sizeInBytes": 16519,
+      "createdDate": 1763509133826,
+      "modifiedDate": 1768884662562,
+      "sizeInBytes": 24729,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -9541,6 +9406,33 @@
       "createdDate": 1763509133797,
       "modifiedDate": 1768884659448,
       "sizeInBytes": 9299,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Meta/Images/202503311300 ch10-3.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133806,
+      "modifiedDate": 1768884660427,
+      "sizeInBytes": 16519,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -9631,33 +9523,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Images/202503201303 Ch9 Rotation and Rigid Bodies-8.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133765,
-      "modifiedDate": 1768884654149,
-      "sizeInBytes": 27416,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Images/202503201303 Ch9 Rotation and Rigid Bodies-9.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -9676,6 +9541,33 @@
       "createdDate": 1763509133771,
       "modifiedDate": 1768884655170,
       "sizeInBytes": 25882,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Meta/Images/202503201303 Ch9 Rotation and Rigid Bodies-8.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133765,
+      "modifiedDate": 1768884654149,
+      "sizeInBytes": 27416,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -9766,6 +9658,33 @@
         "newlineCount": 0
       }
     },
+    "99 - Meta/Images/202503201303 Ch9 Rotation and Rigid Bodies-3.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133737,
+      "modifiedDate": 1768884649439,
+      "sizeInBytes": 3144,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "99 - Meta/Images/202503201303 Ch9 Rotation and Rigid Bodies-4.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -9811,33 +9730,6 @@
       "createdDate": 1763509133730,
       "modifiedDate": 1768884648767,
       "sizeInBytes": 16791,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "99 - Meta/Images/202503201303 Ch9 Rotation and Rigid Bodies-3.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133737,
-      "modifiedDate": 1768884649439,
-      "sizeInBytes": 3144,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -9955,6 +9847,33 @@
         "newlineCount": 0
       }
     },
+    "99 - Meta/Images/202503201303 Ch9 Rotation and Rigid Bodies-10.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133696,
+      "modifiedDate": 1768884644092,
+      "sizeInBytes": 8283,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "99 - Meta/Images/202503201303 Ch9 Rotation and Rigid Bodies-1.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -9982,7 +9901,7 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Images/202503201303 Ch9 Rotation and Rigid Bodies-10.png": {
+    "99 - Meta/Images/202503121617 ch8 Momentum, Impulse and Collisions-9.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9997,9 +9916,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1763509133696,
-      "modifiedDate": 1768884644092,
-      "sizeInBytes": 8283,
+      "createdDate": 1763509133674,
+      "modifiedDate": 1768884640578,
+      "sizeInBytes": 8159,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10063,33 +9982,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Images/202503121617 ch8 Momentum, Impulse and Collisions-9.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133674,
-      "modifiedDate": 1768884640578,
-      "sizeInBytes": 8159,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Images/202503121617 ch8 Momentum, Impulse and Collisions-7.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -10144,6 +10036,33 @@
         "newlineCount": 0
       }
     },
+    "99 - Meta/Images/202503121617 ch8 Momentum, Impulse and Collisions-3.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133618,
+      "modifiedDate": 1768884634725,
+      "sizeInBytes": 23239,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "99 - Meta/Images/202503121617 ch8 Momentum, Impulse and Collisions-5.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -10162,33 +10081,6 @@
       "createdDate": 1763509133635,
       "modifiedDate": 1768884636734,
       "sizeInBytes": 42232,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "99 - Meta/Images/202503121617 ch8 Momentum, Impulse and Collisions-2.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133609,
-      "modifiedDate": 1768884633755,
-      "sizeInBytes": 10313,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10225,33 +10117,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Images/202503121617 ch8 Momentum, Impulse and Collisions-3.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133618,
-      "modifiedDate": 1768884634725,
-      "sizeInBytes": 23239,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Images/202503121617 ch8 Momentum, Impulse and Collisions-11.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -10270,6 +10135,33 @@
       "createdDate": 1763509133604,
       "modifiedDate": 1768884632895,
       "sizeInBytes": 30602,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Meta/Images/202503121617 ch8 Momentum, Impulse and Collisions-2.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133609,
+      "modifiedDate": 1768884633755,
+      "sizeInBytes": 10313,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10306,33 +10198,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Images/202503121617 ch8 Momentum, Impulse and Collisions-1.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133590,
-      "modifiedDate": 1768884631402,
-      "sizeInBytes": 9392,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Images/202502280852 ch6 Work and Kinetic Energy.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -10351,6 +10216,33 @@
       "createdDate": 1763509133582,
       "modifiedDate": 1768884629292,
       "sizeInBytes": 10596,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Meta/Images/202503121617 ch8 Momentum, Impulse and Collisions-1.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133590,
+      "modifiedDate": 1768884631402,
+      "sizeInBytes": 9392,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10468,33 +10360,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Images/202502071004 ch5 Hw-6.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133527,
-      "modifiedDate": 1768884614231,
-      "sizeInBytes": 35364,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Images/202502071004 ch5 Hw-7.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -10513,6 +10378,33 @@
       "createdDate": 1763509133533,
       "modifiedDate": 1768884614954,
       "sizeInBytes": 7405,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Meta/Images/202502071004 ch5 Hw-6.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133527,
+      "modifiedDate": 1768884614231,
+      "sizeInBytes": 35364,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10549,33 +10441,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Images/202502071004 ch5 Hw-3.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133508,
-      "modifiedDate": 1768884611273,
-      "sizeInBytes": 21850,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Images/202502071004 ch5 Hw-4.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -10594,6 +10459,33 @@
       "createdDate": 1763509133514,
       "modifiedDate": 1768884612212,
       "sizeInBytes": 14169,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Meta/Images/202502071004 ch5 Hw-3.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133508,
+      "modifiedDate": 1768884611273,
+      "sizeInBytes": 21850,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10675,6 +10567,33 @@
       "createdDate": 1763509133479,
       "modifiedDate": 1768885156791,
       "sizeInBytes": 18769,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Meta/202504081833 Ch 11.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133487,
+      "modifiedDate": 1768885159404,
+      "sizeInBytes": 17898,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10819,6 +10738,87 @@
         "newlineCount": 0
       }
     },
+    "07 - Archives/Steam Storage Linux/202409030127 Steam Storage Linux.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133430,
+      "modifiedDate": 1763509133430,
+      "sizeInBytes": 384,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "07 - Archives/css snippets on ios/202410211445.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133431,
+      "modifiedDate": 1763509133431,
+      "sizeInBytes": 136,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "07 - Archives/202505111755 plugins.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133428,
+      "modifiedDate": 1763509133428,
+      "sizeInBytes": 632,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "06 - Permanent Notes/World building/202409051850 Alkaline Corp..md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -10954,33 +10954,6 @@
         "newlineCount": 0
       }
     },
-    "06 - Permanent Notes/Characters/202409111310 Phos Phate.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133411,
-      "modifiedDate": 1763509133411,
-      "sizeInBytes": 127,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "06 - Permanent Notes/Characters/202504061512 Heal.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -11035,33 +11008,6 @@
         "newlineCount": 0
       }
     },
-    "06 - Permanent Notes/Characters/202411061340 Bor.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133413,
-      "modifiedDate": 1763509133413,
-      "sizeInBytes": 140,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "06 - Permanent Notes/Characters/202411061341 Krypto.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -11080,6 +11026,60 @@
       "createdDate": 1763509133414,
       "modifiedDate": 1763509133414,
       "sizeInBytes": 151,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "06 - Permanent Notes/Characters/202409111310 Phos Phate.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133411,
+      "modifiedDate": 1763509133411,
+      "sizeInBytes": 127,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "06 - Permanent Notes/Characters/202411061340 Bor.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133413,
+      "modifiedDate": 1763509133413,
+      "sizeInBytes": 140,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11339,33 +11339,6 @@
         "newlineCount": 0
       }
     },
-    "05 - Literature Notes/Phys 006/Physics terms/202501150723 Percent error.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133389,
-      "modifiedDate": 1763509133389,
-      "sizeInBytes": 272,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "05 - Literature Notes/Phys 006/Physics terms/202501161423 Scalar quantity.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -11384,6 +11357,33 @@
       "createdDate": 1763509133390,
       "modifiedDate": 1763509133390,
       "sizeInBytes": 140,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 - Literature Notes/Phys 006/Physics terms/202501150723 Percent error.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133389,
+      "modifiedDate": 1763509133389,
+      "sizeInBytes": 272,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11474,33 +11474,6 @@
         "newlineCount": 0
       }
     },
-    "05 - Literature Notes/Phys 006/Pearson/ch9/202504132141.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133381,
-      "modifiedDate": 1763509133381,
-      "sizeInBytes": 128,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "05 - Literature Notes/Phys 006/Pearson/ch9/202504132204 Intro to rotational kinetic energy.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -11528,6 +11501,33 @@
         "newlineCount": 0
       }
     },
+    "05 - Literature Notes/Phys 006/Pearson/ch9/202504132141.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133381,
+      "modifiedDate": 1763509133381,
+      "sizeInBytes": 128,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "05 - Literature Notes/Phys 006/Pearson/ch9/202504131917 Types of acceleration in rotation.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -11546,6 +11546,33 @@
       "createdDate": 1763509133380,
       "modifiedDate": 1763509133380,
       "sizeInBytes": 276,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 - Literature Notes/Phys 006/Pearson/ch9/202504131638 Rotational Position and Displacement.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133374,
+      "modifiedDate": 1763509133375,
+      "sizeInBytes": 469,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11609,7 +11636,7 @@
         "newlineCount": 0
       }
     },
-    "05 - Literature Notes/Phys 006/Pearson/ch9/202504131638 Rotational Position and Displacement.md": {
+    "05 - Literature Notes/Phys 006/Pearson/ch8/202505171603 intro to conservation of momentum.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11624,9 +11651,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1763509133374,
-      "modifiedDate": 1763509133375,
-      "sizeInBytes": 469,
+      "createdDate": 1763509133372,
+      "modifiedDate": 1763509133372,
+      "sizeInBytes": 160,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11654,33 +11681,6 @@
       "createdDate": 1763509133373,
       "modifiedDate": 1763509133373,
       "sizeInBytes": 157,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "05 - Literature Notes/Phys 006/Pearson/ch8/202505171603 intro to conservation of momentum.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133372,
-      "modifiedDate": 1763509133372,
-      "sizeInBytes": 160,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11906,33 +11906,6 @@
         "newlineCount": 0
       }
     },
-    "05 - Literature Notes/Phys 006/Pearson/ch6/202504102045 Intro to calculating work.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133353,
-      "modifiedDate": 1763509133353,
-      "sizeInBytes": 358,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "05 - Literature Notes/Phys 006/Pearson/ch6/202504102117 Work by springs.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -11951,33 +11924,6 @@
       "createdDate": 1763509133355,
       "modifiedDate": 1763509133355,
       "sizeInBytes": 184,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "05 - Literature Notes/Phys 006/Pearson/ch6/202504102038 Intro to Energy and Kinetic Energy.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133350,
-      "modifiedDate": 1763509133350,
-      "sizeInBytes": 279,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -12014,7 +11960,7 @@
         "newlineCount": 0
       }
     },
-    "05 - Literature Notes/Phys 006/Pearson/ch5/202505140936 Equilibrium in 2d.md": {
+    "05 - Literature Notes/Phys 006/Pearson/ch6/202504102045 Intro to calculating work.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12029,9 +11975,36 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1763509133348,
-      "modifiedDate": 1763509133348,
-      "sizeInBytes": 186,
+      "createdDate": 1763509133353,
+      "modifiedDate": 1763509133353,
+      "sizeInBytes": 358,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 - Literature Notes/Phys 006/Pearson/ch6/202504102038 Intro to Energy and Kinetic Energy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133350,
+      "modifiedDate": 1763509133350,
+      "sizeInBytes": 279,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -12068,7 +12041,7 @@
         "newlineCount": 0
       }
     },
-    "05 - Literature Notes/Phys 006/Pearson/ch5/202504102026 Centripetal Forces.md": {
+    "05 - Literature Notes/Phys 006/Pearson/ch5/202505140936 Equilibrium in 2d.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12083,9 +12056,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1763509133347,
-      "modifiedDate": 1763509133347,
-      "sizeInBytes": 145,
+      "createdDate": 1763509133348,
+      "modifiedDate": 1763509133348,
+      "sizeInBytes": 186,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -12122,6 +12095,33 @@
         "newlineCount": 0
       }
     },
+    "05 - Literature Notes/Phys 006/Pearson/ch5/202504102026 Centripetal Forces.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133347,
+      "modifiedDate": 1763509133347,
+      "sizeInBytes": 145,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "05 - Literature Notes/Phys 006/Pearson/ch5/202504101842 Static Friction.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -12140,33 +12140,6 @@
       "createdDate": 1763509133345,
       "modifiedDate": 1763509133345,
       "sizeInBytes": 143,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "05 - Literature Notes/Phys 006/Pearson/ch5/202504101824 Kinetic Friction.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133344,
-      "modifiedDate": 1763509133344,
-      "sizeInBytes": 224,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -12203,7 +12176,7 @@
         "newlineCount": 0
       }
     },
-    "05 - Literature Notes/Phys 006/Pearson/ch5/202504101756 Equilibrium in 2d.md": {
+    "05 - Literature Notes/Phys 006/Pearson/ch5/202504101824 Kinetic Friction.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12218,9 +12191,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1763509133342,
-      "modifiedDate": 1763509133342,
-      "sizeInBytes": 145,
+      "createdDate": 1763509133344,
+      "modifiedDate": 1763509133344,
+      "sizeInBytes": 224,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -12248,6 +12221,33 @@
       "createdDate": 1763509133340,
       "modifiedDate": 1763509133340,
       "sizeInBytes": 536,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 - Literature Notes/Phys 006/Pearson/ch5/202504101756 Equilibrium in 2d.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133342,
+      "modifiedDate": 1763509133342,
+      "sizeInBytes": 145,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -12338,33 +12338,6 @@
         "newlineCount": 0
       }
     },
-    "05 - Literature Notes/Phys 006/Pearson/ch3 Motion in two or three dimensions/202502231703 ch3.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133335,
-      "modifiedDate": 1763509133335,
-      "sizeInBytes": 216,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "05 - Literature Notes/Phys 006/Pearson/ch2 1D Motion - Kinematics/ch2 1d motion - Kinematics.canvas": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -12390,6 +12363,33 @@
         "characterCount": 474,
         "nonWhitespaceCharacterCount": 416,
         "newlineCount": 9
+      }
+    },
+    "05 - Literature Notes/Phys 006/Pearson/ch3 Motion in two or three dimensions/202502231703 ch3.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133335,
+      "modifiedDate": 1763509133335,
+      "sizeInBytes": 216,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     },
     "05 - Literature Notes/Phys 006/Pearson/ch13/202505181837 Escape Velocity.md": {
@@ -12473,33 +12473,6 @@
         "newlineCount": 0
       }
     },
-    "05 - Literature Notes/Phys 006/Pearson/ch11/202504212334 More 2D Equilibrium Problems.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133318,
-      "modifiedDate": 1763509133318,
-      "sizeInBytes": 751,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "05 - Literature Notes/Phys 006/Pearson/ch11/202505181638 intro to angular momentum.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -12518,6 +12491,33 @@
       "createdDate": 1763509133327,
       "modifiedDate": 1763509133327,
       "sizeInBytes": 152,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 - Literature Notes/Phys 006/Pearson/ch11/202504212334 More 2D Equilibrium Problems.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133318,
+      "modifiedDate": 1763509133318,
+      "sizeInBytes": 751,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -12716,33 +12716,6 @@
         "newlineCount": 0
       }
     },
-    "05 - Literature Notes/Phys 006/HW/202501201450.excalidraw 1.md": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133294,
-      "modifiedDate": 1763509133297,
-      "sizeInBytes": 421770,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "05 - Literature Notes/Phys 006/HW/202501301726 ch3.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -12761,6 +12734,33 @@
       "createdDate": 1763509133306,
       "modifiedDate": 1763509133306,
       "sizeInBytes": 1506,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 - Literature Notes/Phys 006/HW/202501201450.excalidraw 1.md": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133294,
+      "modifiedDate": 1763509133297,
+      "sizeInBytes": 421770,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -12797,33 +12797,6 @@
         "newlineCount": 0
       }
     },
-    "05 - Literature Notes/Phys 006/HW/202501141925 Ch1 Homework.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133280,
-      "modifiedDate": 1763509133280,
-      "sizeInBytes": 121,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "05 - Literature Notes/Phys 006/HW/202501141926.excalidraw.md": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -12842,6 +12815,33 @@
       "createdDate": 1763509133281,
       "modifiedDate": 1763509133284,
       "sizeInBytes": 691822,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 - Literature Notes/Phys 006/HW/202501141925 Ch1 Homework.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133280,
+      "modifiedDate": 1763509133280,
+      "sizeInBytes": 121,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -12896,6 +12896,33 @@
       "createdDate": 1763509133278,
       "modifiedDate": 1763509133278,
       "sizeInBytes": 582,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 - Literature Notes/Phys 006/Class/202502281303.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133272,
+      "modifiedDate": 1763509133272,
+      "sizeInBytes": 905,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -12986,33 +13013,6 @@
         "newlineCount": 0
       }
     },
-    "05 - Literature Notes/Phys 006/Class/202502281303.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133272,
-      "modifiedDate": 1763509133272,
-      "sizeInBytes": 905,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "05 - Literature Notes/Phys 006/Class/202502241301.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -13094,33 +13094,6 @@
         "newlineCount": 0
       }
     },
-    "05 - Literature Notes/Phys 006/Class/202502121304.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133261,
-      "modifiedDate": 1763509133261,
-      "sizeInBytes": 796,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "05 - Literature Notes/Phys 006/Class/202502111402.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -13139,6 +13112,33 @@
       "createdDate": 1763509133260,
       "modifiedDate": 1763509133260,
       "sizeInBytes": 872,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 - Literature Notes/Phys 006/Class/202502121304.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133261,
+      "modifiedDate": 1763509133261,
+      "sizeInBytes": 796,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -13229,33 +13229,6 @@
         "newlineCount": 0
       }
     },
-    "05 - Literature Notes/Phys 006/Class/202501291311.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133250,
-      "modifiedDate": 1763509133250,
-      "sizeInBytes": 432,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "05 - Literature Notes/Phys 006/Class/202501281359.excalidraw.md": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -13274,6 +13247,33 @@
       "createdDate": 1763509133239,
       "modifiedDate": 1763509133241,
       "sizeInBytes": 371453,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 - Literature Notes/Phys 006/Class/202501291311.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133250,
+      "modifiedDate": 1763509133250,
+      "sizeInBytes": 432,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -13364,33 +13364,6 @@
         "newlineCount": 0
       }
     },
-    "05 - Literature Notes/Phys 006/Class/202501171312.excalidraw.md": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133200,
-      "modifiedDate": 1763509133202,
-      "sizeInBytes": 357800,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "05 - Literature Notes/Phys 006/Class/202501141339.excalidraw.md": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -13409,6 +13382,33 @@
       "createdDate": 1763509133187,
       "modifiedDate": 1763509133188,
       "sizeInBytes": 386795,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 - Literature Notes/Phys 006/Class/202501171312.excalidraw.md": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133200,
+      "modifiedDate": 1763509133202,
+      "sizeInBytes": 357800,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -13499,33 +13499,6 @@
         "newlineCount": 0
       }
     },
-    "05 - Literature Notes/Phys 006/Chapters/202504081833 Ch 11.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133174,
-      "modifiedDate": 1763509133174,
-      "sizeInBytes": 443,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "05 - Literature Notes/Phys 006/Chapters/202503311300 ch10.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -13544,6 +13517,33 @@
       "createdDate": 1763509133173,
       "modifiedDate": 1763509133173,
       "sizeInBytes": 1679,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 - Literature Notes/Phys 006/Chapters/202504081833 Ch 11.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133174,
+      "modifiedDate": 1763509133174,
+      "sizeInBytes": 443,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -13634,33 +13634,6 @@
         "newlineCount": 0
       }
     },
-    "05 - Literature Notes/Phys 006/Chapters/202502071005 ch5 Applying Newton's Laws.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133150,
-      "modifiedDate": 1763509133150,
-      "sizeInBytes": 4941,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "05 - Literature Notes/Phys 006/Chapters/202502051839 ch4 Newton's Laws of Motion.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -13679,6 +13652,33 @@
       "createdDate": 1763509133149,
       "modifiedDate": 1763509133149,
       "sizeInBytes": 8173,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 - Literature Notes/Phys 006/Chapters/202502071005 ch5 Applying Newton's Laws.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133150,
+      "modifiedDate": 1763509133150,
+      "sizeInBytes": 4941,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -14039,141 +14039,6 @@
         "newlineCount": 0
       }
     },
-    "05 - Literature Notes/Genki 1/202410311346 Lesson 1; New Friends; Grammar.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133133,
-      "modifiedDate": 1763509133133,
-      "sizeInBytes": 2547,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "05 - Literature Notes/Genki 1/202410311218 Additional Vocabulary.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133132,
-      "modifiedDate": 1763509133132,
-      "sizeInBytes": 2456,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "05 - Literature Notes/Genki 1/202410311159 Vocabulary.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133131,
-      "modifiedDate": 1763509133131,
-      "sizeInBytes": 2045,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "05 - Literature Notes/Genki 1/202410281157 Greetings.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133130,
-      "modifiedDate": 1763509133130,
-      "sizeInBytes": 3821,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "05 - Literature Notes/Genki 1/202410252238 Japanese writing system.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133129,
-      "modifiedDate": 1763509133130,
-      "sizeInBytes": 7908,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "05 - Literature Notes/Drivers Ed/202511191338 SECTION 6. Navigating the Roads.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -14336,6 +14201,141 @@
         "newlineCount": 0
       }
     },
+    "05 - Literature Notes/Genki 1/202410311346 Lesson 1; New Friends; Grammar.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133133,
+      "modifiedDate": 1763509133133,
+      "sizeInBytes": 2547,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 - Literature Notes/Genki 1/202410311218 Additional Vocabulary.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133132,
+      "modifiedDate": 1763509133132,
+      "sizeInBytes": 2456,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 - Literature Notes/Genki 1/202410311159 Vocabulary.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133131,
+      "modifiedDate": 1763509133131,
+      "sizeInBytes": 2045,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 - Literature Notes/Genki 1/202410281157 Greetings.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133130,
+      "modifiedDate": 1763509133130,
+      "sizeInBytes": 3821,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 - Literature Notes/Genki 1/202410252238 Japanese writing system.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133129,
+      "modifiedDate": 1763509133130,
+      "sizeInBytes": 7908,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "05 - Literature Notes/ASL 001/Unit 1/202601201741 Unit 1.1 Instructor Lecture.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -14370,7 +14370,7 @@
         "aliases": null
       }
     },
-    "05 - Literature Notes/ASL 001/Unit 1/202601200920 Unit 1.1 Signing Space.md": {
+    "05 - Literature Notes/ASL 001/Unit 1/202601191841 Unit 1.1 Does it matter which hand I sign with.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14385,9 +14385,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1768929607134,
-      "modifiedDate": 1768963485791,
-      "sizeInBytes": 375,
+      "createdDate": 1768876896007,
+      "modifiedDate": 1768963490482,
+      "sizeInBytes": 644,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -14424,7 +14424,7 @@
         "newlineCount": 0
       }
     },
-    "05 - Literature Notes/ASL 001/Unit 1/202601191841 Unit 1.1 Does it matter which hand I sign with.md": {
+    "05 - Literature Notes/ASL 001/Unit 1/202601200920 Unit 1.1 Signing Space.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14439,9 +14439,36 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1768876896007,
-      "modifiedDate": 1768963490482,
-      "sizeInBytes": 644,
+      "createdDate": 1768929607134,
+      "modifiedDate": 1768963485791,
+      "sizeInBytes": 375,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 - Literature Notes/202411071427 Power Plant.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133126,
+      "modifiedDate": 1763509133127,
+      "sizeInBytes": 474,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -14478,7 +14505,7 @@
         "newlineCount": 0
       }
     },
-    "05 - Literature Notes/202411071427 Power Plant.md": {
+    "04 - Fleeting Notes/202409030021 Pop os Cosmic.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14493,9 +14520,63 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1763509133126,
-      "modifiedDate": 1763509133127,
-      "sizeInBytes": 474,
+      "createdDate": 1763509133124,
+      "modifiedDate": 1763509133124,
+      "sizeInBytes": 208,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "04 - Fleeting Notes/202409030150 Breezer.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133125,
+      "modifiedDate": 1763509133125,
+      "sizeInBytes": 238,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03 - Resources/Recording/202409041822 Audio Recording.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133118,
+      "modifiedDate": 1763509133119,
+      "sizeInBytes": 677,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -14586,33 +14667,6 @@
         "newlineCount": 0
       }
     },
-    "03 - Resources/Recording/202409041822 Audio Recording.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133118,
-      "modifiedDate": 1763509133119,
-      "sizeInBytes": 677,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "03 - Resources/Art Tutorial and Help/202409111113 Hair by Art Rocket.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -14658,60 +14712,6 @@
       "createdDate": 1763509133116,
       "modifiedDate": 1763509133116,
       "sizeInBytes": 861,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "04 - Fleeting Notes/202409030150 Breezer.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133125,
-      "modifiedDate": 1763509133125,
-      "sizeInBytes": 238,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "04 - Fleeting Notes/202409030021 Pop os Cosmic.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133124,
-      "modifiedDate": 1763509133124,
-      "sizeInBytes": 208,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -14775,33 +14775,6 @@
         "newlineCount": 0
       }
     },
-    "02 - Areas/Periodic Table/202409081353 Selenium.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133111,
-      "modifiedDate": 1763509133111,
-      "sizeInBytes": 178,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "02 - Areas/Periodic Table/202409081350 Germanium.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -14820,6 +14793,33 @@
       "createdDate": 1763509133110,
       "modifiedDate": 1763509133110,
       "sizeInBytes": 182,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "02 - Areas/Periodic Table/202409081353 Selenium.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133111,
+      "modifiedDate": 1763509133111,
+      "sizeInBytes": 178,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -14883,33 +14883,6 @@
         "newlineCount": 0
       }
     },
-    "02 - Areas/Periodic Table/202409081348 Zinc.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133108,
-      "modifiedDate": 1763509133108,
-      "sizeInBytes": 190,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "02 - Areas/Periodic Table/202409081346 Copper.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -14928,6 +14901,33 @@
       "createdDate": 1763509133107,
       "modifiedDate": 1763509133107,
       "sizeInBytes": 170,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "02 - Areas/Periodic Table/202409081348 Zinc.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133108,
+      "modifiedDate": 1763509133108,
+      "sizeInBytes": 190,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -15045,33 +15045,6 @@
         "newlineCount": 0
       }
     },
-    "02 - Areas/Periodic Table/202409081339 Chromium.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133101,
-      "modifiedDate": 1763509133101,
-      "sizeInBytes": 177,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "02 - Areas/Periodic Table/202409081334 Vanadium.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -15090,6 +15063,33 @@
       "createdDate": 1763509133101,
       "modifiedDate": 1763509133101,
       "sizeInBytes": 249,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "02 - Areas/Periodic Table/202409081339 Chromium.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133101,
+      "modifiedDate": 1763509133101,
+      "sizeInBytes": 177,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -15126,7 +15126,7 @@
         "newlineCount": 0
       }
     },
-    "02 - Areas/Periodic Table/202409081327 Argon.md": {
+    "02 - Areas/Periodic Table/202409081331 Scandium.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15141,9 +15141,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1763509133089,
-      "modifiedDate": 1763509133089,
-      "sizeInBytes": 210,
+      "createdDate": 1763509133098,
+      "modifiedDate": 1763509133098,
+      "sizeInBytes": 177,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -15180,33 +15180,6 @@
         "newlineCount": 0
       }
     },
-    "02 - Areas/Periodic Table/202409081331 Scandium.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133098,
-      "modifiedDate": 1763509133098,
-      "sizeInBytes": 177,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "02 - Areas/Periodic Table/202409081329 Potassium.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -15225,6 +15198,33 @@
       "createdDate": 1763509133096,
       "modifiedDate": 1763509133096,
       "sizeInBytes": 180,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "02 - Areas/Periodic Table/202409081327 Argon.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133089,
+      "modifiedDate": 1763509133089,
+      "sizeInBytes": 210,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -15261,33 +15261,6 @@
         "newlineCount": 0
       }
     },
-    "02 - Areas/Periodic Table/202409081322 Phosphorus.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133086,
-      "modifiedDate": 1763509133086,
-      "sizeInBytes": 230,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "02 - Areas/Periodic Table/202409081324 Sulfur.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -15306,6 +15279,33 @@
       "createdDate": 1763509133087,
       "modifiedDate": 1763509133087,
       "sizeInBytes": 169,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "02 - Areas/Periodic Table/202409081322 Phosphorus.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133086,
+      "modifiedDate": 1763509133086,
+      "sizeInBytes": 230,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -15693,7 +15693,7 @@
         "newlineCount": 0
       }
     },
-    "02 - Areas/Books/All Books/Forbidden.md": {
+    "02 - Areas/Books/All Books/Hannibal.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15708,9 +15708,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1763509133060,
+      "createdDate": 1763509133061,
       "modifiedDate": 1763509133061,
-      "sizeInBytes": 304,
+      "sizeInBytes": 281,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -15774,7 +15774,7 @@
         "newlineCount": 0
       }
     },
-    "02 - Areas/Books/All Books/Hannibal.md": {
+    "02 - Areas/Books/All Books/Forbidden.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15789,36 +15789,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1763509133061,
+      "createdDate": 1763509133060,
       "modifiedDate": 1763509133061,
-      "sizeInBytes": 281,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "02 - Areas/Books/All Books/American Psycho.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133059,
-      "modifiedDate": 1765325848895,
-      "sizeInBytes": 296,
+      "sizeInBytes": 304,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -15846,6 +15819,33 @@
       "createdDate": 1763509133059,
       "modifiedDate": 1763509133059,
       "sizeInBytes": 311,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "02 - Areas/Books/All Books/American Psycho.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133059,
+      "modifiedDate": 1765325848895,
+      "sizeInBytes": 296,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -16152,6 +16152,33 @@
         "newlineCount": 0
       }
     },
+    "00 - Daily/20250210.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1763509133020,
+      "modifiedDate": 1763509133020,
+      "sizeInBytes": 783,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "00 - Daily/20251209.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -16197,33 +16224,6 @@
       "createdDate": 1763509133021,
       "modifiedDate": 1763509133022,
       "sizeInBytes": 255,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00 - Daily/20250210.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1763509133020,
-      "modifiedDate": 1763509133020,
-      "sizeInBytes": 783,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
