@@ -1,0 +1,417 @@
+{
+  "main": {
+    "id": "73943e5023776b3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f5f210bee12f25c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef3009fec279b2c4",
+            "type": "leaf",
+            "state": {
+              "type": "ink_drawing-view",
+              "state": {
+                "file": "99 - Meta/Ink/Drawing/2025.1.29 - 13.11pm.drawing"
+              },
+              "icon": "lucide-file",
+              "title": "2025.1.29 - 13.11pm"
+            }
+          },
+          {
+            "id": "c885b341b9a7a3f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 - Literature Notes/Phys 006/HW/202501301726.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202501301726"
+            }
+          },
+          {
+            "id": "c0e2dcd53b050aa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 - Literature Notes/Phys 006/Physics terms/202501220934 Kinematic equations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202501220934 Kinematic equations"
+            }
+          },
+          {
+            "id": "c0084e8226301bb3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "05 - Literature Notes/Phys 006/Class/202501221314.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "202501221314.excalidraw"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0874c635bce598c1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "60a45c13cd084c8a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "d7e6d6c5c49a31b0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "8b2f1ac1d7fc399f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "d2aa54ec439c4a2b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "60a45c13cd084c8a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "d7e6d6c5c49a31b0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "8b2f1ac1d7fc399f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "d2aa54ec439c4a2b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "138021b4d7b647a7",
+        "type": "leaf",
+        "state": {
+          "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+          "state": {},
+          "icon": "longform",
+          "title": "Longform"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d0e357c76ac84bce",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2607b49166ec40ba",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "f27ff63c68ecfe7a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "7540cda684478864",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "05 - Literature Notes/Phys 006/202501131342.excalidraw.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "9c18bfcd8625e42f",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      },
+      {
+        "id": "2aab247d7dd4f378",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "SpacedRepIcon",
+          "title": "Notes Review Queue"
+        }
+      },
+      {
+        "id": "2607b49166ec40ba",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "05 - Literature Notes/Phys 006/Class/202501211353.excalidraw.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "f27ff63c68ecfe7a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "7540cda684478864",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "05 - Literature Notes/Phys 006/202501131235.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "9c18bfcd8625e42f",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      },
+      {
+        "id": "3b641907a7b16e04",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "SpacedRepIcon",
+          "title": "Notes Review Queue"
+        }
+      },
+      {
+        "id": "ef7b5092272b6e24",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_690b09dbd979",
+            "ephemeral": {
+              "viewState": 1,
+              "displaying": {
+                "day": 7,
+                "month": 10,
+                "year": 2024
+              },
+              "displayDayNumber": false,
+              "displayMoons": true
+            },
+            "id": "ID_08f90a5b4ae9"
+          },
+          "icon": "CALENDARIUM",
+          "title": "Calendarium"
+        }
+      }
+    ],
+    "currentTab": 10
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "handwritten-notes:Create empty handwritten note": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-livesync:Replicate": false,
+      "obsidian-livesync:Show Customization sync": false,
+      "obsidian-livesync:Show log": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-tts:Text to Speech": false,
+      "switcher:Open quick switcher": false,
+      "templater-obsidian:Templater": false,
+      "templates:Insert template": false,
+      "zk-prefixer:Create new unique note": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "c885b341b9a7a3f5",
+  "lastOpenFiles": [
+    "05 - Literature Notes/Phys 006/HW/202501201450.excalidraw 1.md",
+    "99 - Meta/Ink/Drawing/2025.1.30 - 19.09pm.drawing",
+    "99 - Meta/Ink/Drawing/2025.1.31 - 9.38am.drawing",
+    "99 - Meta/Pasted image 20250131093748.png",
+    "99 - Meta/Pasted image 20250131104556.png",
+    "99 - Meta/Pasted image 20250131104544.png",
+    "05 - Literature Notes/Phys 006/HW/202501301726.md",
+    "99 - Meta/Pasted image 20250131093728.png",
+    "99 - Meta/Ink/Drawing/2025.1.31 - 10.46am.drawing",
+    "99 - Meta/Ink/Drawing/2025.1.30 - 17.59pm.drawing",
+    "99 - Meta/Pasted image 20250130190901.png",
+    "99 - Meta/Pasted image 20250130175816.png",
+    "99 - Meta/Pasted image 20250130175836.png",
+    "202501291311.md",
+    "99 - Meta/Ink/Drawing/2025.1.29 - 13.38pm.drawing",
+    "99 - Meta/Ink/Writing/2025.1.29 - 13.37pm.writing",
+    "Untitled.canvas",
+    "99 - Meta/Ink/Drawing/2025.1.29 - 13.11pm.drawing",
+    "202501291308.md",
+    "05 - Literature Notes/Phys 006/Class/202501221314.excalidraw.md",
+    "05 - Literature Notes/Phys 006/Physics terms/202501220934 Kinematic equations.md",
+    "202501271308.excalidraw.md",
+    "202501281359.excalidraw.md",
+    "99 - Meta/Ink/Drawing/2025.1.28 - 19.55pm.drawing",
+    "99 - Meta/Ink/Drawing",
+    "99 - Meta/Ink/Writing/2025.1.28 - 19.53pm.writing",
+    "202501281917.excalidraw.md",
+    "05 - Literature Notes/Phys 006/HW/202501201450.excalidraw.md",
+    "05 - Literature Notes/Phys 006/Class/202501171312.excalidraw.md",
+    "99 - Meta/Pasted Image 20250124094044_001.png",
+    "99 - Meta/Pasted Image 20250123161143_031.png",
+    "99 - Meta/Pasted Image 20250123152128_769.png",
+    "05 - Literature Notes/Phys 006/Class/202501211353.excalidraw.md",
+    "05 - Literature Notes/Phys 006/Chapters/202501181931 Ch2 Motion Along a straight line.md",
+    "202501181931 Ch2 Motion Along a straight line.md",
+    "05 - Literature Notes/Phys 006/HW/202501201450 Ch2 Homework.md",
+    "05 - Literature Notes/Phys 006/Chapters/202501131531 Ch 1 Units, physical quantities and vectors.md",
+    "202501171306.md",
+    "202501171312.excalidraw.md",
+    "05 - Literature Notes/Phys 006/Physics terms/202501170756 Unit Vectors.md",
+    "05 - Literature Notes/Phys 006/HW/202501141926.excalidraw.md",
+    "05 - Literature Notes/Phys 006/Physics terms/202501161424 Vector Quantity.md",
+    "05 - Literature Notes/Phys 006/Physics terms/202501161423 Scalar quantity.md",
+    "202501141926.excalidraw.md",
+    "05 - Literature Notes/Phys 006/HW/202501141925 Ch1 Homework.md",
+    "05 - Literature Notes/Phys 006/Class/202501141337 Lecture 2.md"
+  ]
+}

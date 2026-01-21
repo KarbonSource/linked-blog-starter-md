@@ -1,0 +1,118 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "app:open-settings",
+      "icon": "lucide-settings",
+      "name": "0. Open settings",
+      "mode": "desktop",
+      "color": "#000000"
+    },
+    {
+      "id": "command-palette:open",
+      "icon": "lucide-terminal-square",
+      "name": "1. Open command palette",
+      "mode": "1fe4ce76dcab5073",
+      "color": "#3b404c"
+    },
+    {
+      "id": "obsidian-git:open-git-view",
+      "icon": "lucide-terminal",
+      "name": "2. source control view",
+      "mode": "1fe4ce76dcab5073",
+      "color": "#4de19a"
+    },
+    {
+      "id": "daily-notes",
+      "icon": "lucide-calendar-days",
+      "name": "3. Open today's daily note",
+      "mode": "1fe4ce76dcab5073",
+      "color": "#4cd0d8"
+    },
+    {
+      "id": "graph:open",
+      "icon": "lucide-git-fork",
+      "name": "4. Open graph view",
+      "mode": "1fe4ce76dcab5073",
+      "color": "#54b6f8"
+    },
+    {
+      "id": "obsidian-spaced-repetition:srs-review-flashcards",
+      "icon": "SpacedRepIcon",
+      "name": "5. Review flashcards",
+      "mode": "1fe4ce76dcab5073",
+      "color": "#427bf1"
+    },
+    {
+      "id": "canvas:new-file",
+      "icon": "lucide-layout-dashboard",
+      "name": "6. Create new canvas",
+      "mode": "1fe4ce76dcab5073",
+      "color": "#9446f8"
+    },
+    {
+      "id": "ink:create-drawing-section",
+      "icon": "lucide-pencil",
+      "name": "7. New drawing",
+      "mode": "1fe4ce76dcab5073",
+      "color": "#c450e7"
+    },
+    {
+      "id": "zk-prefixer",
+      "icon": "box-glyph",
+      "name": "8. Create new unique note",
+      "mode": "1fe4ce76dcab5073",
+      "color": "#e54f9b"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [
+      "obsidian-spaced-repetition",
+      "obsidian-git",
+      "backlink"
+    ],
+    "leftRibbon": [
+      "Open graph view",
+      "Create new canvas",
+      "Open command palette",
+      "Create new drawing",
+      "Open Git source control",
+      "Open today's daily note",
+      "Open quick switcher",
+      "Insert template",
+      "Templater",
+      "PDF++: Toggle auto-copy",
+      "PDF++: Toggle auto-focus",
+      "PDF++: Toggle auto-paste",
+      "Soundscapes: My Music",
+      "Text to Speech",
+      "Create new unique note",
+      "Create new book note",
+      "Manage workspace layouts",
+      "New drawing",
+      "Omnisearch",
+      "Review flashcards"
+    ]
+  },
+  "spacing": "8",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

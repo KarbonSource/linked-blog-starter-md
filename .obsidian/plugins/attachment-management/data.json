@@ -1,0 +1,19 @@
+{
+  "language": "en",
+  "attachPath": {
+    "attachmentRoot": "99 - Meta/Images",
+    "saveAttE": "inFolderBelow",
+    "attachmentPath": "",
+    "attachFormat": "${notename}",
+    "type": "GLOBAL"
+  },
+  "dateFormat": "YYYYMMDDHHmm",
+  "excludeExtensionPattern": "",
+  "autoRenameAttachment": true,
+  "excludedPaths": "",
+  "excludePathsArray": [],
+  "excludeSubpaths": false,
+  "originalNameStorage": [],
+  "overridePath": {},
+  "disableNotification": false
+}

@@ -1,0 +1,11 @@
+{
+  "author": "Andrew McGivery",
+  "authorUrl": "https://github.com/andrewmcgivery",
+  "description": "Adds a music/ambiance (E.g. lofi, white noise) player to the status bar to help with concentration. Also allows you to play your own local music files.",
+  "fundingUrl": "https://www.buymeacoffee.com/andrewmcgivery",
+  "id": "soundscapes",
+  "isDesktopOnly": true,
+  "minAppVersion": "0.15.0",
+  "name": "Soundscapes",
+  "version": "1.5.0"
+}
