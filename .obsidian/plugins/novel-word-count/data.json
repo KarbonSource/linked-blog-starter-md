@@ -15255,8 +15255,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1769049167496,
-      "modifiedDate": 1769054236753,
-      "sizeInBytes": 929,
+      "modifiedDate": 1769122471077,
+      "sizeInBytes": 946,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.42,
@@ -15267,7 +15267,9 @@
       },
       "frontmatter": {
         "date": "2026-01-21",
-        "tags": null,
+        "tags": [
+          "ASL-001/Unit1"
+        ],
         "aliases": null
       }
     },
@@ -15321,7 +15323,7 @@
       "embedCount": 32,
       "aliases": null,
       "createdDate": 1768963216735,
-      "modifiedDate": 1769040001869,
+      "modifiedDate": 1769122497953,
       "sizeInBytes": 3534,
       "sessionStart": {
         "noteCount": 1,
