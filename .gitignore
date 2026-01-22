@@ -1,6 +1,9 @@
 # Ignore volatile UI-related state
 .obsidian/workspace.json
 .obsidian/app.json
+.obsidian/plugins/remember-cursor-position/cursor-positions.json
+.obsidian/plugins/novel-word-count/data.json
+.obsidian/plugins/obsidian-git/data.json
 
 # Ignore system and editor files (more specific to what I do)
 .vscode/
@@ -8,6 +11,3 @@
 
 .DS_Store
 Thumbs.db
-.obsidian/plugins/remember-cursor-position/cursor-positions.json
-.obsidian/plugins/novel-word-count/data.json
-.obsidian/plugins/obsidian-git/data.json
