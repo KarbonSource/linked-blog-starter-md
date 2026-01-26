@@ -20,6 +20,29 @@ Diving into the fundamental sentence structure that serves as versatile foundati
 <center>Time + topic + comment</center>
 <center>Topic + Comment</center>
 
+Time + Topic + Referent + Comment
+Sometimes thinking in terms of comments can help you identify the differences.
+
+Comment = action/verb
+
+
+Ex: Yesterday, I purchased a coffee
+
+Time: yesterday
+
+Referent: I
+
+Comment: purchased
+
+ASL: Yesterday Coffee I Purchased
+
+
+Ex: I have four fish
+
+Time: none
+
+Pluralization: four
+
 
 
 
