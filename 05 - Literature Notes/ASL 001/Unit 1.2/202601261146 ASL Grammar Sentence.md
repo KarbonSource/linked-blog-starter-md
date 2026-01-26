@@ -43,7 +43,11 @@ Time: none
 
 Pluralization: four
 
+Referent: I
 
+Comment: have
+
+	ASL: Four Fishes I have
 
 
 # ‌
