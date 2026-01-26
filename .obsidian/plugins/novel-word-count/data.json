@@ -18010,6 +18010,33 @@
         "nonWhitespaceCharacterCount": 103,
         "newlineCount": 5
       }
+    },
+    "05 - Literature Notes/ASL 001/Unit 1.2/202601261146 ASL Grammar Sentence.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 10,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 120,
+      "nonWhitespaceCharacterCount": 94,
+      "newlineCount": 18,
+      "readingTimeInMinutes": 0.03773584905660377,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1769456780527,
+      "modifiedDate": 1769456824244,
+      "sizeInBytes": 124,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
     }
   }
 }
