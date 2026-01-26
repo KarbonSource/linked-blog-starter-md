@@ -13,7 +13,14 @@ aliases:
 - Action: This denotes the verb used in the sentence.
 
 - Question: This signifies a word that indicates a question.
-- Pluralization: Refers to forming the plural of a signed word. In English, this is done by adding "s" to the noun. In sign language, plurals are expressed using various methods, including handshape variations, movement, numeral incorporations, and reduplication. Changes in these elements indicate
+- Pluralization: Refers to forming the plural of a signed word. In English, this is done by adding "s" to the noun. In sign language, plurals are expressed using various methods, including handshape variations, movement, numeral incorporations, and reduplication. Changes in these elements indicate plurality.
+
+# Lectures
+Diving into the fundamental sentence structure that serves as versatile foundation for effective communication: the primary all-purpose sentence. Understanding this structure will empower you to express your ideas with clarity and impact.
+<center>Time + topic + comment</center>
+<center>Topic + Comment</center>
+
+
 
 
 # ‌
