@@ -18760,6 +18760,33 @@
         "nonWhitespaceCharacterCount": 103,
         "newlineCount": 5
       }
+    },
+    "05 - Literature Notes/ASL 001/Unit 1.2/202601311531 Deaf ecosystem.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 9,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03,
+      "characterCount": 101,
+      "nonWhitespaceCharacterCount": 78,
+      "newlineCount": 17,
+      "readingTimeInMinutes": 0.033962264150943396,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1769902294857,
+      "modifiedDate": 1769902294858,
+      "sizeInBytes": 105,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
     }
   }
 }
