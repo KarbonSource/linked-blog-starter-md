@@ -16,7 +16,9 @@ Some corporations profit off of the deaf culture, so much like a local business 
 
 Deaf business are starting to get sponsors. Marketing is done to promote deaf businesses and contribute when they can. They rely on VRS and that's all.
 
-Convo is the leading organization with a deaf ecosystem. Convo is small
+Convo is the leading organization with a deaf ecosystem. Convo is small with over 300 employees, but one of the largest deaf owned companies. It is also a small VRS provider; one of the smallest, about 3 percent. Convo is a free app.
+
+
 
 # ‌
 ---
