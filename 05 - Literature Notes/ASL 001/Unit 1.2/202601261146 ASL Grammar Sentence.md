@@ -47,7 +47,7 @@ Referent: I
 
 Comment: have
 
-	ASL: Four Fishes I have
+ASL: Four Fishes I have
 
 
 # ‌
