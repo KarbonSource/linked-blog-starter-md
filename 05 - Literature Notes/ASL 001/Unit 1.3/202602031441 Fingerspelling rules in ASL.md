@@ -14,7 +14,7 @@ https://youtu.be/ycBXOjabm3Y
 	You do the letter twice, and when spelling a name for instance you can go left to right, making sure not to overdo it.
 
 3: Do not bounce the letter.
-	
+	Try not to bounce the letters as that would mean the other person would have to look up and down, fingerspell smoothyly.
 
 # ‌
 ---
