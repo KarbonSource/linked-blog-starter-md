@@ -14,10 +14,10 @@ https://youtu.be/8FInN_07oxc
 # Flashcards
 
 Morning;;;![[202602121743 Time of the Day ASL - American Sign Language.webp]]
-Noon;;;
-Afternoon
-Evening
-Midnight
+Noon;;;![[202602121743 Time of the Day ASL - American Sign Language.jpg]]
+Evening;;;![[202602121743 Time of the Day ASL - American Sign Language-1.jpg]]
+Afternoon;;;![[202602121743 Time of the Day ASL - American Sign Language.png]]
+night;;;![[202602121743 Time of the Day ASL - American Sign Language-1.webp]]
 
 # ‌
 ---
