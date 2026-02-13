@@ -13,6 +13,11 @@ https://youtu.be/8FInN_07oxc
 ---
 # Flashcards
 
+Morning
+Noon
+Afternoon
+Evening
+Midnight
 
 # ‌
 ---
