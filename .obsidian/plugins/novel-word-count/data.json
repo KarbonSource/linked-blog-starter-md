@@ -19132,7 +19132,7 @@
         "newlineCount": 5
       }
     },
-    "202602131340.md": {
+    "05 - Literature Notes/ASL 001/Unit 1.5/202602131340 1.5 Lecture Video (Labels in Deaf culture).md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -19150,6 +19150,33 @@
       "createdDate": 1771018815929,
       "modifiedDate": 1771018815954,
       "sizeInBytes": 105,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 - Literature Notes/ASL 001/Unit 1.5/202602131341 Did you know William T. Stokoe.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 10,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 120,
+      "nonWhitespaceCharacterCount": 94,
+      "newlineCount": 18,
+      "readingTimeInMinutes": 0.03773584905660377,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1771018889554,
+      "modifiedDate": 1771018903493,
+      "sizeInBytes": 124,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
