@@ -19312,20 +19312,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 9,
+      "wordCount": 5,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.03,
-      "characterCount": 101,
-      "nonWhitespaceCharacterCount": 78,
-      "newlineCount": 17,
-      "readingTimeInMinutes": 0.033962264150943396,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 61,
+      "nonWhitespaceCharacterCount": 44,
+      "newlineCount": 13,
+      "readingTimeInMinutes": 0.018867924528301886,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1771020502905,
-      "modifiedDate": 1771020502907,
-      "sizeInBytes": 105,
+      "modifiedDate": 1771022297590,
+      "sizeInBytes": 124,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -19333,6 +19333,13 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "date": "2026-02-13",
+        "tags": [
+          "ASL-001/Unit1-5"
+        ],
+        "aliases": null
       }
     }
   }
