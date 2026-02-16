@@ -6,6 +6,18 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2026-02-16T03:37:41.160Z",
+      "total": 0,
+      "drafts": {
+        "01 - Projects/Periodical/Index.md": {
+          "total": 0,
+          "scenes": {
+            "202411051310 Ch.1 Peace at any cost": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2026-02-13T21:40:12.839Z",
       "total": 0,
       "drafts": {
@@ -343,18 +355,6 @@
     },
     {
       "start": "2025-12-22T23:07:23.275Z",
-      "total": 0,
-      "drafts": {
-        "01 - Projects/Periodical/Index.md": {
-          "total": 0,
-          "scenes": {
-            "202411051310 Ch.1 Peace at any cost": 0
-          }
-        }
-      }
-    },
-    {
-      "start": "2025-12-13T01:16:50.941Z",
       "total": 0,
       "drafts": {
         "01 - Projects/Periodical/Index.md": {
