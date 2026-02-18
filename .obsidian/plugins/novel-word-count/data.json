@@ -12525,20 +12525,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 77,
+      "wordCount": 71,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.25666666666666665,
-      "characterCount": 550,
-      "nonWhitespaceCharacterCount": 461,
-      "newlineCount": 42,
-      "readingTimeInMinutes": 0.29056603773584905,
+      "pageCount": 0.23666666666666666,
+      "characterCount": 520,
+      "nonWhitespaceCharacterCount": 437,
+      "newlineCount": 39,
+      "readingTimeInMinutes": 0.2679245283018868,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1771018815929,
-      "modifiedDate": 1771383773876,
-      "sizeInBytes": 613,
+      "modifiedDate": 1771386003119,
+      "sizeInBytes": 583,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.016666666666666666,
@@ -19362,6 +19362,33 @@
       "frontmatter": {
         "date": "2024-09-04",
         "tags": null
+      }
+    },
+    "99 - Meta/Images/202602131340 1.5 Lecture Video (Labels in Deaf culture).gif": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1771386004950,
+      "modifiedDate": 1771386004952,
+      "sizeInBytes": 1117725,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     }
   }
