@@ -19596,19 +19596,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 227,
+      "wordCount": 222,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.7566666666666667,
-      "characterCount": 1503,
-      "nonWhitespaceCharacterCount": 1254,
-      "newlineCount": 38,
-      "readingTimeInMinutes": 0.8566037735849057,
+      "pageCount": 0.74,
+      "characterCount": 1452,
+      "nonWhitespaceCharacterCount": 1212,
+      "newlineCount": 33,
+      "readingTimeInMinutes": 0.8377358490566038,
       "linkCount": 0,
-      "embedCount": 0,
+      "embedCount": 3,
       "aliases": null,
       "createdDate": 1763510058806,
-      "modifiedDate": 1771742710326,
+      "modifiedDate": 1771742717690,
       "sizeInBytes": 1507,
       "sessionStart": {
         "noteCount": 0,
@@ -19617,6 +19617,13 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "date": "2025-11-18",
+        "tags": [
+          "Driving"
+        ],
+        "aliases": null
       }
     },
     "05 - Literature Notes/Drivers Ed/202511191338 SECTION 6. Navigating the Roads.md": {
