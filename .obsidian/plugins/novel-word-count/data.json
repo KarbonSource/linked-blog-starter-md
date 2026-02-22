@@ -8755,60 +8755,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Meta/Images/202511181554 SECTION 3. The Testing Process-1.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1764618435021,
-      "modifiedDate": 1768884987352,
-      "sizeInBytes": 2998,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "99 - Meta/Images/202511181554 SECTION 3. The Testing Process-2.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1764618457680,
-      "modifiedDate": 1768884988014,
-      "sizeInBytes": 3067,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Meta/Images/202505181949 intro to simple harmonic motion.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -17085,210 +17031,6 @@
         "aliases": null
       }
     },
-    "05 - Literature Notes/Drivers Ed/202511191210 SECTION 5. An Introduction to Driving.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 768,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.56,
-      "characterCount": 4559,
-      "nonWhitespaceCharacterCount": 3718,
-      "newlineCount": 84,
-      "readingTimeInMinutes": 2.8981132075471696,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1763583053477,
-      "modifiedDate": 1763670931232,
-      "sizeInBytes": 4614,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.56,
-        "wordCount": 768,
-        "characterCount": 4559,
-        "nonWhitespaceCharacterCount": 3718,
-        "newlineCount": 84
-      },
-      "frontmatter": {
-        "date": "2025-11-19",
-        "tags": [
-          "Driving"
-        ],
-        "aliases": null
-      }
-    },
-    "05 - Literature Notes/Drivers Ed/202511181605 SECTION 4. Changing, Replacing, and Renewing  Your Driver’s License.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 118,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.3933333333333333,
-      "characterCount": 740,
-      "nonWhitespaceCharacterCount": 605,
-      "newlineCount": 22,
-      "readingTimeInMinutes": 0.44528301886792454,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1763510722126,
-      "modifiedDate": 1763583041612,
-      "sizeInBytes": 797,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.3933333333333333,
-        "wordCount": 118,
-        "characterCount": 740,
-        "nonWhitespaceCharacterCount": 605,
-        "newlineCount": 22
-      },
-      "frontmatter": {
-        "date": "2025-11-18",
-        "tags": [
-          "Driving"
-        ],
-        "aliases": null
-      }
-    },
-    "05 - Literature Notes/Drivers Ed/202511181548 SECTION 2. Getting an Instruction Permit and  Driver’s License.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 55,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.18333333333333332,
-      "characterCount": 373,
-      "nonWhitespaceCharacterCount": 299,
-      "newlineCount": 20,
-      "readingTimeInMinutes": 0.20754716981132076,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1763509708213,
-      "modifiedDate": 1763510057411,
-      "sizeInBytes": 428,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.18333333333333332,
-        "wordCount": 55,
-        "characterCount": 373,
-        "nonWhitespaceCharacterCount": 299,
-        "newlineCount": 20
-      },
-      "frontmatter": {
-        "date": "2025-11-18",
-        "tags": [
-          "Driving"
-        ],
-        "aliases": null
-      }
-    },
-    "05 - Literature Notes/Drivers Ed/202511191338 SECTION 6. Navigating the Roads.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1697,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 5.656666666666666,
-      "characterCount": 9466,
-      "nonWhitespaceCharacterCount": 7616,
-      "newlineCount": 191,
-      "readingTimeInMinutes": 6.40377358490566,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1763588287467,
-      "modifiedDate": 1767580484147,
-      "sizeInBytes": 9521,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 5.656666666666666,
-        "wordCount": 1697,
-        "characterCount": 9466,
-        "nonWhitespaceCharacterCount": 7616,
-        "newlineCount": 191
-      },
-      "frontmatter": {
-        "date": "2025-11-19",
-        "tags": [
-          "Driving"
-        ],
-        "aliases": null
-      }
-    },
-    "05 - Literature Notes/Drivers Ed/202511181554 SECTION 3. The Testing Process.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 222,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.74,
-      "characterCount": 1452,
-      "nonWhitespaceCharacterCount": 1212,
-      "newlineCount": 33,
-      "readingTimeInMinutes": 0.8377358490566038,
-      "linkCount": 0,
-      "embedCount": 3,
-      "aliases": null,
-      "createdDate": 1763510058806,
-      "modifiedDate": 1768885783591,
-      "sizeInBytes": 1507,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.74,
-        "wordCount": 222,
-        "characterCount": 1452,
-        "nonWhitespaceCharacterCount": 1212,
-        "newlineCount": 33
-      },
-      "frontmatter": {
-        "date": "2025-11-18",
-        "tags": [
-          "Driving"
-        ],
-        "aliases": null
-      }
-    },
-    "05 - Literature Notes/Drivers Ed/202511181235 SECTION 1. The California Driver’s License.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 52,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.17333333333333334,
-      "characterCount": 342,
-      "nonWhitespaceCharacterCount": 275,
-      "newlineCount": 17,
-      "readingTimeInMinutes": 0.19622641509433963,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1763509133128,
-      "modifiedDate": 1763509706792,
-      "sizeInBytes": 399,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.17333333333333334,
-        "wordCount": 52,
-        "characterCount": 342,
-        "nonWhitespaceCharacterCount": 275,
-        "newlineCount": 17
-      },
-      "frontmatter": {
-        "date": "2025-11-18",
-        "tags": [
-          "Driving"
-        ],
-        "aliases": null
-      }
-    },
     "05 - Literature Notes/202511261929 Mien Naming.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -19821,6 +19563,222 @@
       "frontmatter": {
         "date": "2024-09-03",
         "tags": null
+      }
+    },
+    "05 - Literature Notes/Drivers Ed/202511181235 SECTION 1. The California Driver’s License.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 57,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.19,
+      "characterCount": 393,
+      "nonWhitespaceCharacterCount": 317,
+      "newlineCount": 22,
+      "readingTimeInMinutes": 0.21509433962264152,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1763509133128,
+      "modifiedDate": 1763509706792,
+      "sizeInBytes": 399,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 - Literature Notes/Drivers Ed/202511181554 SECTION 3. The Testing Process.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 227,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7566666666666667,
+      "characterCount": 1503,
+      "nonWhitespaceCharacterCount": 1254,
+      "newlineCount": 38,
+      "readingTimeInMinutes": 0.8566037735849057,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1763510058806,
+      "modifiedDate": 1771742710326,
+      "sizeInBytes": 1507,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 - Literature Notes/Drivers Ed/202511191338 SECTION 6. Navigating the Roads.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1702,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.673333333333333,
+      "characterCount": 9517,
+      "nonWhitespaceCharacterCount": 7658,
+      "newlineCount": 196,
+      "readingTimeInMinutes": 6.422641509433962,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1763588287467,
+      "modifiedDate": 1767580484147,
+      "sizeInBytes": 9521,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 - Literature Notes/Drivers Ed/202511181548 SECTION 2. Getting an Instruction Permit and  Driver’s License.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 60,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.2,
+      "characterCount": 424,
+      "nonWhitespaceCharacterCount": 341,
+      "newlineCount": 25,
+      "readingTimeInMinutes": 0.22641509433962265,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1763509708213,
+      "modifiedDate": 1763510057411,
+      "sizeInBytes": 428,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 - Literature Notes/Drivers Ed/202511181605 SECTION 4. Changing, Replacing, and Renewing  Your Driver’s License.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 123,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.41,
+      "characterCount": 791,
+      "nonWhitespaceCharacterCount": 647,
+      "newlineCount": 27,
+      "readingTimeInMinutes": 0.4641509433962264,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1763510722126,
+      "modifiedDate": 1763583041612,
+      "sizeInBytes": 797,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 - Literature Notes/Drivers Ed/202511191210 SECTION 5. An Introduction to Driving.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 773,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.5766666666666667,
+      "characterCount": 4610,
+      "nonWhitespaceCharacterCount": 3760,
+      "newlineCount": 89,
+      "readingTimeInMinutes": 2.9169811320754717,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1763583053477,
+      "modifiedDate": 1763670931232,
+      "sizeInBytes": 4614,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Meta/Images/202511181554 SECTION 3. The Testing Process-5.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1764618435021,
+      "modifiedDate": 1768884987352,
+      "sizeInBytes": 2998,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Meta/Images/202511181554 SECTION 3. The Testing Process-6.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1764618457680,
+      "modifiedDate": 1768884988014,
+      "sizeInBytes": 3067,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     }
   }
