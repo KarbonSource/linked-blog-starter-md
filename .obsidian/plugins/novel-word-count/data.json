@@ -19972,20 +19972,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 9,
+      "wordCount": 32,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.03,
-      "characterCount": 101,
-      "nonWhitespaceCharacterCount": 78,
+      "pageCount": 0.10666666666666667,
+      "characterCount": 213,
+      "nonWhitespaceCharacterCount": 168,
       "newlineCount": 17,
-      "readingTimeInMinutes": 0.033962264150943396,
+      "readingTimeInMinutes": 0.12075471698113208,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1773019556079,
-      "modifiedDate": 1773019556082,
-      "sizeInBytes": 105,
+      "modifiedDate": 1773022919757,
+      "sizeInBytes": 257,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -19993,6 +19993,11 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "date": "2026-03-08",
+        "tags": null,
+        "aliases": null
       }
     },
     "05 - Literature Notes/ASL 001/Unit 2.3/202603081827 ASL Grammar 3D Verbs.md": {
