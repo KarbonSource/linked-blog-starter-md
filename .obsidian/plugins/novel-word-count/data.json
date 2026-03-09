@@ -19940,6 +19940,60 @@
         "tags": null,
         "aliases": null
       }
+    },
+    "05 - Literature Notes/ASL 001/Unit 2.3/202603081825 Unit 2.3 Instructor's Video Lecture (Vocabulary).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 9,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03,
+      "characterCount": 101,
+      "nonWhitespaceCharacterCount": 78,
+      "newlineCount": 17,
+      "readingTimeInMinutes": 0.033962264150943396,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773019514481,
+      "modifiedDate": 1773019514483,
+      "sizeInBytes": 105,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "202603081826 Directionality Directional Verbs  ASL American Sign Language.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 9,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03,
+      "characterCount": 101,
+      "nonWhitespaceCharacterCount": 78,
+      "newlineCount": 17,
+      "readingTimeInMinutes": 0.033962264150943396,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773019556079,
+      "modifiedDate": 1773019556082,
+      "sizeInBytes": 105,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
     }
   }
 }
