@@ -20169,20 +20169,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 9,
+      "wordCount": 6,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.03,
-      "characterCount": 101,
-      "nonWhitespaceCharacterCount": 78,
-      "newlineCount": 17,
-      "readingTimeInMinutes": 0.033962264150943396,
+      "pageCount": 0.02,
+      "characterCount": 91,
+      "nonWhitespaceCharacterCount": 72,
+      "newlineCount": 15,
+      "readingTimeInMinutes": 0.022641509433962263,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1773196512113,
-      "modifiedDate": 1773196512114,
-      "sizeInBytes": 105,
+      "modifiedDate": 1773198611284,
+      "sizeInBytes": 135,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -20190,26 +20190,31 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "date": "2026-03-10",
+        "tags": null,
+        "aliases": null
       }
     },
     "05 - Literature Notes/ASL 001/Unit 2.4/202603101936 Sharing Background Vocabulary ASL - American Sign Language.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 9,
+      "wordCount": 6,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.03,
-      "characterCount": 101,
-      "nonWhitespaceCharacterCount": 78,
-      "newlineCount": 17,
-      "readingTimeInMinutes": 0.033962264150943396,
+      "pageCount": 0.02,
+      "characterCount": 91,
+      "nonWhitespaceCharacterCount": 72,
+      "newlineCount": 15,
+      "readingTimeInMinutes": 0.022641509433962263,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1773196554325,
-      "modifiedDate": 1773196554328,
-      "sizeInBytes": 105,
+      "modifiedDate": 1773198824026,
+      "sizeInBytes": 135,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -20217,6 +20222,11 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "date": "2026-03-10",
+        "tags": null,
+        "aliases": null
       }
     }
   }
