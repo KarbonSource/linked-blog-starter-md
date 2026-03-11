@@ -20,6 +20,10 @@ In Paris, Charles-Michele de I'Epee founded the first school for deaf children, 
 German Education
 Samuel Heinicke established a school for deaf students in Leipzig, Germany, that centered on the oral method of education. It focused on training deaf children in lipreading and articulating oral speech in their national language
 
+1817
+American School for the Deaf
+Laurent Clerc, a deaf teacher from INJS, along with Thomas Hopkins Gallaudet, an American education Philanthropist, founded the American School for the Deaf in West Hartford, Ct. Clerc's experience with French Sign Language or LSF greatly influenced American Sign Language or ASL.
+
 1880
 
 # ‌
