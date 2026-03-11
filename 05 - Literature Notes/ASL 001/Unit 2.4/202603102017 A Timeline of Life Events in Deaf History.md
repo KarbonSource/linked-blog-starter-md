@@ -38,7 +38,18 @@ In 1924, the International Committee of Sports for the Deaf and the World Games 
 
 WWII
 Employment of Violence
-WWII had two significant effects on the deaf community. As deaf individuals weren't able to drafted, employment of deaf individuals arose in blue-collar jobs such as factories, machinery, and other similar job markets. It is estimated that a total of 17,000 deaf Germans were sterilized, and others had forced abortions, were victims of experimentation or conenctration camps, or were killed
+WWII had two significant effects on the deaf community. As deaf individuals weren't able to drafted, employment of deaf individuals arose in blue-collar jobs such as factories, machinery, and other similar job markets. It is estimated that a total of 17,000 deaf Germans were sterilized, and others had forced abortions, were victims of experimentation or concentration camps, or were killed by Nazis.
+
+1970
+Total Communication Movement
+Roy Holcomb, a deaf American, led the movement, which called for all possible means of education for deaf children, such as signing and speaking..
+
+1980s-90s
+ASL as a foreign language credit
+Many colleges and universities around the US accepted and taught ASL as a foreign language credit in their curriculums.
+
+1988
+
 
 # ‌
 ---
