@@ -16,7 +16,8 @@ Genetics are responsible for more than half of babies born without the ability t
 **X-linked** inheritance occurs when the abnormal gene is lying on the X chromosome. Although girls have 2 X chromosomes while boys only have 1, boys are more likely to get effects of this particular inheritance. This is the most rare form of the 3.
 
 # Non-Genetic Factors
-- Premature Birth
+- Premature Birth - Generally, children who weigh less than 1500 grams (3 pounds, 5 ounces) at birth have an increased risk of hearing loss
+- Viral Infections are inf
 
 
 
