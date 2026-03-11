@@ -34,7 +34,11 @@ The oralist method became dominant, and sign language was suppressed. In 1883, A
 
 20th century
 Organizations and Community
-In
+In 1924, the International Committee of Sports for the Deaf and the World Games of the Deaf were formed. In 1951, the World Federation of the Deaf was also founded. These, among other organizations, focused on ensuring deaf individuals had access to employment and that the public saw deaf people as contributing members of society.
+
+WWII
+Employment of Violence
+WWII had two significant effects on the deaf community. As deaf individuals weren't able to drafted, employment of deaf individuals arose in blue-collar jobs such as factories, machinery, and other similar job markets. It is estimated that a total of 17,000 deaf Germans were sterilized, and others had forced abortions, were victims of experimentation or conenctration camps, or were killed
 
 # ‌
 ---
