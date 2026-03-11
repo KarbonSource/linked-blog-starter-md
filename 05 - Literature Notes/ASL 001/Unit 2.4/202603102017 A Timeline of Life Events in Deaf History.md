@@ -50,7 +50,7 @@ Many colleges and universities around the US accepted and taught ASL as a foreig
 
 1988
 Deaf President Now Protest
-Students from Gallaudet University, named after Thomas Hopkins Gallaudet
+Students from Gallaudet University, named after Thomas Hopkins Gallaudet and the world's only liberal arts university for deaf people, protested the incoming president of the university, Elizabeth Zinser, as she was a hearing person. After a week of protest and national media attention, American psychologist I. King Jordan was appointed the first deaf president of the university.
 
 # ‌
 ---
