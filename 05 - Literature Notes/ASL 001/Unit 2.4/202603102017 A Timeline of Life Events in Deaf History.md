@@ -25,6 +25,16 @@ American School for the Deaf
 Laurent Clerc, a deaf teacher from INJS, along with Thomas Hopkins Gallaudet, an American education Philanthropist, founded the American School for the Deaf in West Hartford, Ct. Clerc's experience with French Sign Language or LSF greatly influenced American Sign Language or ASL.
 
 1880
+Founding of NAD
+the US national Association of the Deaf (NAD) was founded. This association focused on ensuring sign language is a staple of education for deaf individuals and that the rights of deaf people are respected in everyday life.
+
+Late 1800s-1920s
+Social Shift and Suppression of ASL
+The oralist method became dominant, and sign language was suppressed. In 1883, Alexander Graham Bell, famous for inventing the telephone, called for preventing the marriage of deaf people as it posed a threat to a "deaf-mute variety of the human race"
+
+20th century
+Organizations and Community
+In
 
 # ‌
 ---
