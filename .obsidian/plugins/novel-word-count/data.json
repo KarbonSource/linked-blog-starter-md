@@ -20233,20 +20233,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 9,
+      "wordCount": 25,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.03,
-      "characterCount": 101,
-      "nonWhitespaceCharacterCount": 78,
-      "newlineCount": 17,
-      "readingTimeInMinutes": 0.033962264150943396,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 196,
+      "nonWhitespaceCharacterCount": 159,
+      "newlineCount": 15,
+      "readingTimeInMinutes": 0.09433962264150944,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1773199014359,
-      "modifiedDate": 1773199014359,
-      "sizeInBytes": 105,
+      "modifiedDate": 1773199428421,
+      "sizeInBytes": 240,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -20254,6 +20254,11 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "date": "2026-03-10",
+        "tags": null,
+        "aliases": null
       }
     },
     "05 - Literature Notes/ASL 001/Unit 2.4/202603102018 What Causes A Baby to be Born Deaf.md": {
