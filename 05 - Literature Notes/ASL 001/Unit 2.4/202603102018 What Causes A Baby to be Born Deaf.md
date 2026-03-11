@@ -24,7 +24,10 @@ Genetics are responsible for more than half of babies born without the ability t
 Additionally, all babies are tested with an APGAR evaluation 1 minute and 5 minutes after birth. APGAR stand for activity, pulse, grimace, appearance, and respiration. The higher the score, the healthier the baby. Lower scores can often be associated with or result in hearing loss.
 
 # Treatment
-Sometimes, different types of treatments can be done to aid in babies' hearing. Things like hearing aids, cochlear implants, bone-anchored hearing aid
+Sometimes, different types of treatments can be done to aid in babies' hearing. Things like hearing aids, cochlear implants, bone-anchored hearing aids, and other assistive devices can help tremendously.
+
+# Babies are babies, no matter how well they can hear
+Babies are on the biggest and most enchanting gifts in this world. Their ability to hear is just one small asset. These babies deserve a little extra love and attention.
 
 
 
