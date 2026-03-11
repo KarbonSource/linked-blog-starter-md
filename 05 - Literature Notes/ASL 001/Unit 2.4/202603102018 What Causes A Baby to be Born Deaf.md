@@ -17,7 +17,14 @@ Genetics are responsible for more than half of babies born without the ability t
 
 # Non-Genetic Factors
 - Premature Birth - Generally, children who weigh less than 1500 grams (3 pounds, 5 ounces) at birth have an increased risk of hearing loss
-- Viral Infections are inf
+- Viral Infections are infections in the mother and can include herpes, rubella, cytomegalovirus, toxoplasmosis, and syphilis.
+- Anoxia is when the loss of oxygen reaches the brain. If there are difficulties during the birth and the baby's loss of oxygen, reaches the brain, it can lead to hearing loss.
+- Birth injuries - any number of things
+
+Additionally, all babies are tested with an APGAR evaluation 1 minute and 5 minutes after birth. APGAR stand for activity, pulse, grimace, appearance, and respiration. The higher the score, the healthier the baby. Lower scores can often be associated with or result in hearing loss.
+
+# Treatment
+Sometimes, different types of treatments can be done to aid in babies' hearing. Things like hearing aids, cochlear implants, bone-anchored hearing aid
 
 
 
