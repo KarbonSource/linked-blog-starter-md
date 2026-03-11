@@ -9,6 +9,8 @@ According to the nation institute of Deafness and other communication disorders,
 # Genetics
 Genetics are responsible for more than half of babies born without the ability to hear. autosomal recessive, and x0linked are tree types of generic hearing loss babies can inherit.
 
+**Autosomal Dominant**
+
 
 # ‌
 ---
