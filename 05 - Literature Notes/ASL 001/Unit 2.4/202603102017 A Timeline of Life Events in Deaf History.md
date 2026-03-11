@@ -49,7 +49,8 @@ ASL as a foreign language credit
 Many colleges and universities around the US accepted and taught ASL as a foreign language credit in their curriculums.
 
 1988
-
+Deaf President Now Protest
+Students from Gallaudet University, named after Thomas Hopkins Gallaudet
 
 # ‌
 ---
