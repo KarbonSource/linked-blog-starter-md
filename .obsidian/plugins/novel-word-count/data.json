@@ -20398,20 +20398,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 9,
+      "wordCount": 25,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.03,
-      "characterCount": 101,
-      "nonWhitespaceCharacterCount": 78,
-      "newlineCount": 17,
-      "readingTimeInMinutes": 0.033962264150943396,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 192,
+      "nonWhitespaceCharacterCount": 154,
+      "newlineCount": 16,
+      "readingTimeInMinutes": 0.09433962264150944,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1773703591648,
-      "modifiedDate": 1773703591649,
-      "sizeInBytes": 105,
+      "modifiedDate": 1773725930215,
+      "sizeInBytes": 236,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -20419,26 +20419,31 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "date": "2026-03-16",
+        "tags": null,
+        "aliases": null
       }
     },
     "05 - Literature Notes/ASL 001/Unit 2.5/202603161627 Did you know ...Hearing Dogs for Deaf People.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 9,
+      "wordCount": 5,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.03,
-      "characterCount": 101,
-      "nonWhitespaceCharacterCount": 78,
-      "newlineCount": 17,
-      "readingTimeInMinutes": 0.033962264150943396,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 60,
+      "nonWhitespaceCharacterCount": 44,
+      "newlineCount": 12,
+      "readingTimeInMinutes": 0.018867924528301886,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1773703616134,
-      "modifiedDate": 1773703616134,
-      "sizeInBytes": 105,
+      "modifiedDate": 1773725926381,
+      "sizeInBytes": 104,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -20446,6 +20451,11 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "date": "2026-03-16",
+        "tags": null,
+        "aliases": null
       }
     }
   }
