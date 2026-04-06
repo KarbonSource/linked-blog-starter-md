@@ -20498,16 +20498,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.27,
-      "characterCount": 602,
-      "nonWhitespaceCharacterCount": 507,
+      "characterCount": 605,
+      "nonWhitespaceCharacterCount": 510,
       "newlineCount": 63,
       "readingTimeInMinutes": 0.30566037735849055,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1775504852553,
-      "modifiedDate": 1775505774561,
-      "sizeInBytes": 646,
+      "modifiedDate": 1775507039884,
+      "sizeInBytes": 649,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -20520,6 +20520,33 @@
         "date": "2026-04-06",
         "tags": null,
         "aliases": null
+      }
+    },
+    "99 - Meta/Images/202604061247 3.1 Lecture Video.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1775507041054,
+      "modifiedDate": 1775507041056,
+      "sizeInBytes": 2203,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     }
   }
