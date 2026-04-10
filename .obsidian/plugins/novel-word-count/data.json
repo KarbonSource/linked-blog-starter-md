@@ -21742,7 +21742,39 @@
         "aliases": null
       }
     },
-    "05 - Literature Notes/ASL 001/Unit 3.1/202604101309 Dark, Light, and Bright Colors.md": {
+    "05 - Literature Notes/ASL 001/Unit 3.1/202604101309 Schools for the deaf in the united states.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 560,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.8666666666666667,
+      "characterCount": 6294,
+      "nonWhitespaceCharacterCount": 5722,
+      "newlineCount": 62,
+      "readingTimeInMinutes": 2.1132075471698113,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1775851750422,
+      "modifiedDate": 1775852584216,
+      "sizeInBytes": 6338,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "date": "2026-04-10",
+        "tags": null,
+        "aliases": null
+      }
+    },
+    "05 - Literature Notes/ASL 001/Unit 3.1/202604101323 Dark, Light, and Bright Colors.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -21757,8 +21789,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1775851750422,
-      "modifiedDate": 1775851750422,
+      "createdDate": 1775852586911,
+      "modifiedDate": 1775852586912,
       "sizeInBytes": 105,
       "sessionStart": {
         "noteCount": 0,
