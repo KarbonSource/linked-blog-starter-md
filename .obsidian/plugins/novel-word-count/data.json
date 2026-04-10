@@ -21718,16 +21718,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.03,
-      "characterCount": 101,
-      "nonWhitespaceCharacterCount": 78,
-      "newlineCount": 17,
+      "characterCount": 80,
+      "nonWhitespaceCharacterCount": 59,
+      "newlineCount": 13,
       "readingTimeInMinutes": 0.033962264150943396,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1775850764919,
-      "modifiedDate": 1775850764955,
-      "sizeInBytes": 105,
+      "modifiedDate": 1775850974876,
+      "sizeInBytes": 124,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -21735,6 +21735,11 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "date": "2026-04-10",
+        "tags": null,
+        "aliases": null
       }
     }
   }
