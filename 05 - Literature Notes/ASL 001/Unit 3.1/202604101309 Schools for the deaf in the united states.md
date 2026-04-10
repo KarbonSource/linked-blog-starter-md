@@ -4,7 +4,7 @@ tags:
 aliases:
 ---
 # 202604101309
-| **School**                                                                                                                                 | **Est.** | **City**         | **State**            | **Grades** |
+| School                                                                                                                                     | **Est.** | **City**         | **State**            | **Grades** |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------- | -------------------- | ---------- |
 | [Alabama Institute for Deaf and Blind Links to an external site.](https://www.aidb.org/#calendar10213/20230629/month "Link")               | 1858     | Talladega        | Alabama              | PreK-12    |
 | [Alaska State School for the Deaf and Hard of Hearing Links to an external site.](https://www.asdk12.org/aksdhh "Link")                    | 1973     | Anchorage        | Alaska               | PreK-12    |
