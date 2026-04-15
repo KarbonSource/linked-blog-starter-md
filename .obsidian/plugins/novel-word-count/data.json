@@ -21815,20 +21815,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 9,
+      "wordCount": 41,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.03,
-      "characterCount": 101,
-      "nonWhitespaceCharacterCount": 78,
-      "newlineCount": 17,
-      "readingTimeInMinutes": 0.033962264150943396,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 380,
+      "nonWhitespaceCharacterCount": 327,
+      "newlineCount": 34,
+      "readingTimeInMinutes": 0.15471698113207547,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1776277896353,
-      "modifiedDate": 1776277896354,
-      "sizeInBytes": 105,
+      "modifiedDate": 1776278195636,
+      "sizeInBytes": 424,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -21836,6 +21836,11 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "date": "2026-04-15",
+        "tags": null,
+        "aliases": null
       }
     }
   }
