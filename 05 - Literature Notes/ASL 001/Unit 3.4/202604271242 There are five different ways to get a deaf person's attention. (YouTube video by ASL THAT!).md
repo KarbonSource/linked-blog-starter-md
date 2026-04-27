@@ -13,11 +13,13 @@ second is the hand wave
 	If the person is far and looking in your general direction, then wave and grab their attention
 
 third is flashing lights
-	switching lights on and off is usually for a classroom, hallway, meeting room, and auditorium, this is usu
+	switching lights on and off is usually for a classroom, hallway, meeting room, and auditorium, this is usually for groups of people.
 
 fourth is tapping on the floor
+	stomping the floor is usually used with people that you already know (friend, family, etc.)
 
 fifth is tapping on the desk
+	used with people that you know (friends, family, social setting)
 
 
 # ‌
