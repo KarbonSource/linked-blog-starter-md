@@ -6,6 +6,10 @@ aliases:
 # 202604271242
 https://www.youtube.com/channel/UC7fVfWv6FL7HeTFeSLz-muQ
 
+first is to tap on a person's shoulder
+
+second is the hand wave
+
 
 
 # ‌
