@@ -18,11 +18,11 @@ Morning;;;![[202602121743 Time of the Day ASL - American Sign Language.webp]]
 Noon;;;![[202602121743 Time of the Day ASL - American Sign Language.jpg]]
 <!--SR:!2026-02-27,3,250!2026-02-27,3,250-->
 Evening;;;![[202602121743 Time of the Day ASL - American Sign Language-1.jpg]]
-<!--SR:!2026-02-27,3,250!2026-02-27,3,250-->
+<!--SR:!2026-05-11,2,230!2026-02-27,3,250-->
 Afternoon;;;![[202602121743 Time of the Day ASL - American Sign Language.png]]
 <!--SR:!2026-05-11,2,230!2026-02-27,3,250-->
 night;;;![[202602121743 Time of the Day ASL - American Sign Language-1.webp]]
-<!--SR:!2026-05-09,1,230!2026-02-27,3,250-->
+<!--SR:!2026-05-09,1,230!2026-05-11,2,230-->
 
 # ‌
 ---
