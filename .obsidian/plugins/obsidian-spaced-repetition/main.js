@@ -4946,8 +4946,15 @@ var en = {
   UI: "User Interface",
   OPEN_IN_TAB: "Open in new tab",
   OPEN_IN_TAB_DESC: "Turn this off to open the plugin in a modal window",
+  STATUS_BAR_SETTINGS: "Status Bar",
   SHOW_STATUS_BAR: "Show status bar",
-  SHOW_STATUS_BAR_DESC: "Turn this off to hide the flashcard's review status in Obsidian's status bar",
+  SHOW_STATUS_BAR_DESC: "Turn this off to hide all status messages in Obsidian's status bar",
+  SHOW_CARD_STATUS_BAR_ITEM: "Show card status bar item",
+  SHOW_CARD_STATUS_BAR_ITEM_DESC: "Turn this off to hide the flashcard's review status in Obsidian's status bar",
+  SHOW_NOTE_STATUS_BAR_ITEM: "Show note status bar item",
+  SHOW_NOTE_STATUS_BAR_ITEM_DESC: "Turn this off to hide the note's review status in Obsidian's status bar",
+  SHOW_UPDATE_AVAILABLE_STATUS_BAR_ITEM: "Show update available status bar item",
+  SHOW_UPDATE_AVAILABLE_STATUS_BAR_ITEM_DESC: "Turn this off to hide the update available status bar item",
   SHOW_RIBBON_ICON: "Show icon in the ribbon bar",
   SHOW_RIBBON_ICON_DESC: "Turn this off to hide the plugin icon from Obsidian's ribbon bar",
   ENABLE_FILE_MENU_REVIEW_OPTIONS: "Enable the review options in the file menu (e.g. Review: Easy, Good, Hard)",
@@ -12612,14 +12619,6 @@ var MultiLineTextFinder = class _MultiLineTextFinder {
     return result;
   }
 };
-function includedSeparator(text, separators) {
-  const sep2 = separators.filter((value) => text.includes(value));
-  if (sep2.length <= 0) {
-    return null;
-  }
-  sep2.sort((a2, b2) => a2.includes(b2) || b2.includes(a2) ? b2.length - a2.length : 0);
-  return sep2[0];
-}
 
 // src/file.ts
 var frontmatterTagPseudoLineNum = -1;
@@ -13262,6 +13261,9 @@ var DEFAULT_SETTINGS = {
   // UI settings
   showRibbonIcon: true,
   showStatusBar: true,
+  showCardStatusBarItem: true,
+  showNoteStatusBarItem: true,
+  showUpdateAvailableStatusBarItem: true,
   initiallyExpandAllSubdecksInTree: true,
   showContextInCards: true,
   showIntervalInReviewButtons: true,
@@ -15788,7 +15790,7 @@ var DeckContainer = class {
 // src/ui/obsidian-ui-components/modals/edit-modal.tsx
 var import_obsidian19 = require("obsidian");
 var FlashcardEditModal = class _FlashcardEditModal extends import_obsidian19.Modal {
-  constructor(app, settings, existingText, textDirection) {
+  constructor(app, settings, currentCard, existingText, textDirection) {
     super(app);
     this.title = null;
     this.textAreaFront = null;
@@ -15824,22 +15826,35 @@ var FlashcardEditModal = class _FlashcardEditModal extends import_obsidian19.Mod
     this.modalText = existingText;
     this.changedText = existingText;
     this.textDirection = textDirection;
-    this.separator = includedSeparator(this.modalText, [
-      settings.singleLineReversedCardSeparator,
-      settings.multilineReversedCardSeparator,
-      settings.singleLineCardSeparator,
-      settings.multilineCardSeparator
-    ]);
+    this.currentCard = currentCard;
+    const cardType = this.currentCard.question.questionType;
+    console.log(cardType);
+    switch (cardType) {
+      case 0 /* SingleLineBasic */:
+        this.separator = settings.singleLineCardSeparator;
+        break;
+      case 1 /* SingleLineReversed */:
+        this.separator = settings.singleLineReversedCardSeparator;
+        break;
+      case 2 /* MultiLineBasic */:
+        this.separator = settings.multilineCardSeparator;
+        break;
+      case 3 /* MultiLineReversed */:
+        this.separator = settings.multilineReversedCardSeparator;
+        break;
+      case 4 /* Cloze */:
+        this.separator = null;
+        break;
+    }
     if (this.separator !== null) {
       [this.textFront, this.textBack] = this.modalText.split(this.separator);
-      this.multilineSeparator = [
-        settings.multilineCardSeparator,
-        settings.multilineReversedCardSeparator
-      ].contains(this.separator);
-    }
-    if (this.multilineSeparator) {
-      this.textBack = this.textBack.trimStart();
-      this.textFront = this.textFront.trimEnd();
+      if (cardType === 2 /* MultiLineBasic */ || cardType === 3 /* MultiLineReversed */) {
+        this.textBack = this.textBack.trimStart();
+        this.textFront = this.textFront.trimEnd();
+      }
+    } else {
+      this.textFront = this.modalText;
+      this.textBack = "";
     }
     this.waitForClose = new Promise((resolve2, reject) => {
       this.resolvePromise = resolve2;
@@ -15849,8 +15864,14 @@ var FlashcardEditModal = class _FlashcardEditModal extends import_obsidian19.Mod
     this.init();
     this.open();
   }
-  static Prompt(app, settings, placeholder, textDirection) {
-    const newPromptModal = new _FlashcardEditModal(app, settings, placeholder, textDirection);
+  static Prompt(app, settings, currentCard, placeholder, textDirection) {
+    const newPromptModal = new _FlashcardEditModal(
+      app,
+      settings,
+      currentCard,
+      placeholder,
+      textDirection
+    );
     return newPromptModal.waitForClose;
   }
   /**
@@ -16149,12 +16170,14 @@ var ContentManager = class {
   }
   async _doEditQuestionText() {
     if (this.reviewSequencer === null) return;
+    const currentCard = this.reviewSequencer.currentCard;
     const currentQ = this.reviewSequencer.currentQuestion;
     const textPrompt = currentQ.questionText.actualQuestion;
     this.plugin.uiManager.setUIState(4 /* EditModal */);
     const editModal = FlashcardEditModal.Prompt(
       this.app,
       this.settings,
+      currentCard,
       textPrompt,
       currentQ.questionText.textDirection
     );
@@ -31365,14 +31388,6 @@ var UIPreferencesPage = class extends SettingsPage {
         })
       );
     }).addSetting((setting) => {
-      setting.setName(t("SHOW_STATUS_BAR")).setDesc(t("SHOW_STATUS_BAR_DESC")).addToggle(
-        (toggle) => toggle.setValue(this.plugin.data.settings.showStatusBar).onChange(async (value) => {
-          this.plugin.data.settings.showStatusBar = value;
-          await this.plugin.savePluginData();
-          this.plugin.uiManager.updateStatusBar();
-        })
-      );
-    }).addSetting((setting) => {
       setting.setName(t("ENABLE_FILE_MENU_REVIEW_OPTIONS")).setDesc(t("ENABLE_FILE_MENU_REVIEW_OPTIONS_DESC")).addToggle(
         (toggle) => toggle.setValue(this.plugin.data.settings.showFileMenuReviewOptions).onChange(async (value) => {
           this.plugin.data.settings.showFileMenuReviewOptions = value;
@@ -31443,6 +31458,39 @@ var UIPreferencesPage = class extends SettingsPage {
           await this.plugin.savePluginData();
         });
       });
+    });
+    new import_obsidian31.SettingGroup(this.containerEl).setHeading(t("STATUS_BAR_SETTINGS")).addSetting((setting) => {
+      setting.setName(t("SHOW_STATUS_BAR")).setDesc(t("SHOW_STATUS_BAR_DESC")).addToggle(
+        (toggle) => toggle.setValue(this.plugin.data.settings.showStatusBar).onChange(async (value) => {
+          this.plugin.data.settings.showStatusBar = value;
+          await this.plugin.savePluginData();
+          this.plugin.uiManager.updateStatusBar();
+        })
+      );
+    }).addSetting((setting) => {
+      setting.setName(t("SHOW_CARD_STATUS_BAR_ITEM")).setDesc(t("SHOW_CARD_STATUS_BAR_ITEM_DESC")).addToggle(
+        (toggle) => toggle.setValue(this.plugin.data.settings.showCardStatusBarItem).onChange(async (value) => {
+          this.plugin.data.settings.showCardStatusBarItem = value;
+          await this.plugin.savePluginData();
+          this.plugin.uiManager.updateStatusBar();
+        })
+      );
+    }).addSetting((setting) => {
+      setting.setName(t("SHOW_NOTE_STATUS_BAR_ITEM")).setDesc(t("SHOW_NOTE_STATUS_BAR_ITEM_DESC")).addToggle(
+        (toggle) => toggle.setValue(this.plugin.data.settings.showNoteStatusBarItem).onChange(async (value) => {
+          this.plugin.data.settings.showNoteStatusBarItem = value;
+          await this.plugin.savePluginData();
+          this.plugin.uiManager.updateStatusBar();
+        })
+      );
+    }).addSetting((setting) => {
+      setting.setName(t("SHOW_UPDATE_AVAILABLE_STATUS_BAR_ITEM")).setDesc(t("SHOW_UPDATE_AVAILABLE_STATUS_BAR_ITEM_DESC")).addToggle(
+        (toggle) => toggle.setValue(this.plugin.data.settings.showUpdateAvailableStatusBarItem).onChange(async (value) => {
+          this.plugin.data.settings.showUpdateAvailableStatusBarItem = value;
+          await this.plugin.savePluginData();
+          this.plugin.uiManager.updateStatusBar();
+        })
+      );
     });
     new import_obsidian31.SettingGroup(this.containerEl).setHeading(t("FLASHCARDS")).addSetting((setting) => {
       setting.setName(t("INITIALLY_EXPAND_SUBDECKS_IN_TREE")).setDesc(t("INITIALLY_EXPAND_SUBDECKS_IN_TREE_DESC")).addToggle(
@@ -31879,6 +31927,7 @@ var StatusBarItem = class {
     this.type = type;
     this.statusBarItem = plugin.addStatusBarItem();
     this.statusBarItem.addClass("status-bar-item");
+    this.statusBarItem.addClass(type);
     this.statusBarItem.addClass("sr-status-bar-item");
     this.segments = [];
     if (props.show === void 0 || props.show === false) {
@@ -31900,6 +31949,9 @@ var StatusBarItem = class {
         this.addSegment(segment);
       }
     }
+  }
+  getItem() {
+    return this.statusBarItem;
   }
   show() {
     if (this.statusBarItem.hasClass("sr-is-hidden")) {
@@ -32039,19 +32091,6 @@ var StatusBarManager = class {
     this.statusBarItems = [];
     this.createStatusBarItems();
   }
-  setText(text, showItems, statusBarItemType) {
-    const statusBarItem = this.statusBarItems.find(
-      (statusBarItem2) => statusBarItem2.getStatusBarItemType() === statusBarItemType
-    );
-    if (statusBarItem !== void 0) {
-      statusBarItem.setText(text);
-      if (showItems) {
-        statusBarItem.show();
-      } else {
-        statusBarItem.hide();
-      }
-    }
-  }
   setCount(count, showItems, statusBarItemType) {
     const statusBarItem = this.statusBarItems.find(
       (statusBarItem2) => statusBarItem2.getStatusBarItemType() === statusBarItemType
@@ -32064,42 +32103,48 @@ var StatusBarManager = class {
       statusBarItem.hide();
     }
   }
-  showStatusBarItems(state) {
-    if (state === true && this.statusBarItems.length === 0) {
+  showStatusBarItems(showItems, showCardStatusBarItem, showNoteStatusBarItem, showUpdateAvailableStatusBarItem) {
+    if (this.statusBarItems.length === 0) {
       this.createStatusBarItems();
-      this.statusBarItems.forEach((statusBarItem) => {
-        statusBarItem.show();
-      });
-    } else if (state === true && this.statusBarItems.length > 0) {
-      this.statusBarItems.forEach((statusBarItem) => {
-        if (statusBarItem.getStatusBarItemType() !== "update-available")
-          statusBarItem.show();
-      });
-    } else {
-      this.statusBarItems.forEach((statusBarItem) => {
-        statusBarItem.hide();
-      });
     }
-  }
-  showStatusBarItem(state, statusBarItemType) {
-    const statusBarItem = this.statusBarItems.find(
-      (statusBarItem2) => statusBarItem2.getStatusBarItemType() === statusBarItemType
-    );
-    if (statusBarItem !== void 0) {
-      if (state) {
-        statusBarItem.show();
+    const showCardItem = showCardStatusBarItem === void 0 ? showItems : showCardStatusBarItem;
+    const showNoteItem = showNoteStatusBarItem === void 0 ? showItems : showNoteStatusBarItem;
+    const showUpdateAvailableItem = showUpdateAvailableStatusBarItem === void 0 ? showItems : showUpdateAvailableStatusBarItem;
+    this.statusBarItems.forEach((statusBarItem) => {
+      if (showItems) {
+        if (statusBarItem.getStatusBarItemType() === "update-available" && statusBarItem.getText() === "") {
+          statusBarItem.hide();
+          return;
+        }
+        switch (statusBarItem.getStatusBarItemType()) {
+          case "card-review":
+            if (showItems && showCardItem) {
+              statusBarItem.show();
+            } else {
+              statusBarItem.hide();
+            }
+            break;
+          case "note-review":
+            if (showItems && showNoteItem) {
+              statusBarItem.show();
+            } else {
+              statusBarItem.hide();
+            }
+            break;
+          case "update-available":
+            if (showItems && showUpdateAvailableItem) {
+              statusBarItem.show();
+            } else {
+              statusBarItem.hide();
+            }
+            break;
+          default:
+            statusBarItem.show();
+        }
       } else {
         statusBarItem.hide();
       }
-    }
-  }
-  showUpdateAvailableItemIfAvailable() {
-    const updateItem = this.statusBarItems.find(
-      (statusBarItem) => statusBarItem.getStatusBarItemType() === "update-available"
-    );
-    if (updateItem !== void 0 && updateItem.getText() !== void 0 && updateItem.getText() !== "") {
-      updateItem.show();
-    }
+    });
   }
   async createStatusBarItems() {
     StatusBarItemTypesArray.forEach((statusBarItemType) => {
@@ -32143,7 +32188,7 @@ var StatusBarManager = class {
             icon: "lucide-circle-arrow-up",
             show: false,
             hideIcon: false,
-            text: "Spaced Repetition: new Update!",
+            text: "",
             tooltip: t("UPDATE_AVAILABLE"),
             tooltipPosition: "top"
           });
@@ -32297,19 +32342,23 @@ var UIManager = class {
     this.tabViewManager.closeAllTabViews();
   }
   updateStatusBar() {
-    this.statusBarManager.showStatusBarItems(this.plugin.data.settings.showStatusBar);
+    this.statusBarManager.showStatusBarItems(
+      this.plugin.data.settings.showStatusBar,
+      this.plugin.data.settings.showCardStatusBarItem,
+      this.plugin.data.settings.showNoteStatusBarItem,
+      this.plugin.data.settings.showUpdateAvailableStatusBarItem
+    );
     if (this.plugin.data.settings.showStatusBar) {
       this.statusBarManager.setCount(
         this.plugin.osrAppCore.remainingDeckTree.getCardCount(2 /* All */, true),
-        this.plugin.data.settings.showStatusBar,
+        this.plugin.data.settings.showStatusBar && this.plugin.data.settings.showCardStatusBarItem,
         "card-review"
       );
       this.statusBarManager.setCount(
         this.plugin.osrAppCore.noteReviewQueue.dueNotesCount,
-        this.plugin.data.settings.showStatusBar,
+        this.plugin.data.settings.showStatusBar && this.plugin.data.settings.showNoteStatusBarItem,
         "note-review"
       );
-      this.statusBarManager.showUpdateAvailableItemIfAvailable();
     }
   }
   registerSRFocusListener() {
