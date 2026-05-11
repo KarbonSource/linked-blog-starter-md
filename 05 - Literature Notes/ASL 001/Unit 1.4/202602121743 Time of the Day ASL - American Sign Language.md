@@ -16,7 +16,7 @@ https://youtu.be/8FInN_07oxc
 Morning;;;![[202602121743 Time of the Day ASL - American Sign Language.webp]]
 <!--SR:!2026-05-11,2,230!2026-05-18,8,250-->
 Noon;;;![[202602121743 Time of the Day ASL - American Sign Language.jpg]]
-<!--SR:!2026-05-17,8,250!2026-02-27,3,250-->
+<!--SR:!2026-05-17,8,250!2026-05-18,8,250-->
 Evening;;;![[202602121743 Time of the Day ASL - American Sign Language-1.jpg]]
 <!--SR:!2026-05-11,2,230!2026-05-11,2,230-->
 Afternoon;;;![[202602121743 Time of the Day ASL - American Sign Language.png]]
