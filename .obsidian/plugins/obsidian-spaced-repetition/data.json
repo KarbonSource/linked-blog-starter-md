@@ -17,6 +17,7 @@
       "#Driving",
       "#ASL-001"
     ],
+    "flashcardTagsToIgnore": [],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,
     "flashcardCardOrder": "EveryCardRandomDeckAndCard",
@@ -37,6 +38,7 @@
     "tagsToReview": [
       "#review"
     ],
+    "noteTagsToIgnore": [],
     "noteFoldersToIgnore": [
       "**/*.excalidraw.md"
     ],
@@ -74,11 +76,13 @@
     "loadBalance": true,
     "maximumInterval": 36525,
     "maxLinkFactor": 1,
+    "fsrsDesiredRetention": 0.9,
     "startOfDay": "00:00:00",
     "dataStore": "NOTES",
     "cardCommentOnSameLine": false,
     "showSchedulingDebugMessages": false,
-    "showParserDebugMessages": false
+    "showParserDebugMessages": false,
+    "preferredDateFormatForNoteReviewQueue": "MMM DD YYYY"
   },
   "buryDate": "2026-05-14",
   "buryList": [],
