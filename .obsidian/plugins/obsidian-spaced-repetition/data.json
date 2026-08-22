@@ -35,7 +35,14 @@
     "multilineCardSeparator": "?",
     "multilineReversedCardSeparator": "??",
     "multilineCardEndMarker": "",
-    "editLaterTag": "#edit-later",
+    "enableReviewReminders": false,
+    "reviewReminderIntervalMinutes": 5,
+    "reviewReminderCheckOnStartup": false,
+    "reviewReminderMessage": "",
+    "reviewReminderAutoOpen": true,
+    "reviewReminderShowNotice": true,
+    "reviewReminderPlaySound": true,
+    "reviewReminderBounceDock": true,
     "randomizeCardOrder": null,
     "enableNoteReviewPaneOnStartup": false,
     "tagsToReview": [
@@ -72,6 +79,7 @@
     "openViewInNewTab": false,
     "openViewInNewTabMobile": false,
     "useCustomHotkeys": false,
+    "useCalloutsForSchedulingComments": false,
     "algorithm": "SM-2-OSR",
     "baseEase": 250,
     "lapsesIntervalChange": 0.5,
@@ -83,11 +91,18 @@
     "startOfDay": "00:00:00",
     "dataStore": "NOTES",
     "cardCommentOnSameLine": false,
+    "scheduleDataVaultLocation": "Spaced Repetition",
     "showSchedulingDebugMessages": false,
     "showParserDebugMessages": false,
-    "preferredDateFormatForNoteReviewQueue": "MMM DD YYYY"
+    "preferredDateFormatForNoteReviewQueue": "MMM DD YYYY",
+    "preferredLocale": "-"
   },
-  "buryDate": "2026-08-19",
+  "buryDate": "2026-08-21",
   "buryList": [],
-  "historyDeck": null
+  "historyDeck": null,
+  "scheduleData": {
+    "version": 1,
+    "noteSchedules": {},
+    "cardSchedules": {}
+  }
 }
