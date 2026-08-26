@@ -22,7 +22,7 @@ Evening;;;![[202602121743 Time of the Day ASL - American Sign Language-1.jpg]]
 Afternoon;;;![[202602121743 Time of the Day ASL - American Sign Language.png]]
 <!--SR:!2026-09-06,13,230!2026-05-17,7,250-->
 night;;;![[202602121743 Time of the Day ASL - American Sign Language-1.webp]]
-<!--SR:!2026-05-17,5,230!2026-09-21,28,230-->
+<!--SR:!2026-09-07,12,230!2026-09-21,28,230-->
 
 # ‌
 ---
