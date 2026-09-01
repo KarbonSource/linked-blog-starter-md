@@ -28,7 +28,12 @@ English: I'm not Sad
 
 ASL: ME $\frac{N}{SAD}$ ME
 
-N means negative marker. shake your head no 
+N means negative marker. shake your head no
+
+---
+English: Ms. Cohen loves black coffee.
+
+ASL: $\frac{T}{BLACK COFFEE}$, fs-C-O-H-E-N LOVE
 
 
 # ‌
