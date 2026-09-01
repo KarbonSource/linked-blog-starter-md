@@ -35,6 +35,11 @@ English: Ms. Cohen loves black coffee.
 
 ASL: $\frac{T}{BLACK COFFEE}$, fs-C-O-H-E-N LOVE
 
+Coffee is the topic. Raise eyebrows. Also, put topics at the beginning of sentences.
+
+---
+English: The morning was a normal day
+
 
 # ‌
 ---
