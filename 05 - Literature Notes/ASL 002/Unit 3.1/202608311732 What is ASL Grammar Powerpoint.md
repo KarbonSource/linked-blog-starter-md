@@ -40,6 +40,28 @@ Coffee is the topic. Raise eyebrows. Also, put topics at the beginning of senten
 ---
 English: The morning was a normal day
 
+ASL: $\frac{T}{TODAY MORNING}$ SAME++
+
+++ means repeat the sign
+
+---
+ASL does not use the following verbs:
+
+IS
+AM
+ARE
+WAS
+WERE
+AS
+A
+THE
+OF
+AN
+
+---
+DON'T--KNOW - Use a dash to show multiple words as one gesture.
+++ - Use plus to show repreateed
+
 
 # ‌
 ---
