@@ -9,7 +9,9 @@ https://www.youtube.com/watch?v=Na22jxXy9Ss
 
 the action rule is the most commonly broken rule, but it's still good to know it and to follow it as best you can.
 
-It 
+It is a fancy way of saying verb
+
+The action is at the end of the sentence.
 
 # ‌
 ---
