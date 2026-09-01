@@ -29,7 +29,11 @@ Pronouns and Possessives
 
 ### Gray Area
 Prepositions (to, at, with, in, on, of, by, etc.)
-Conjuctions (and, or, but, if)
+Conjunctions (and, or, but, if)
+Copulas (be, is, are, was, were)
+Articles (a, the)
+
+functional words belong in ASL too, but ASL has its own way. There aren't many written rules on that however. Sometimes these words are spelled out
 
 
 # ‌
