@@ -60,7 +60,18 @@ AN
 
 ---
 DON'T--KNOW - Use a dash to show multiple words as one gesture.
-++ - Use plus to show repreateed
+++ - Use plus to show repeated signs.
+q - Question expression
+n - Negative marker. Shake your head "no"
+t - Topic marker. Raise your eyebrows.
+fs - Fingerspell
+CL - use a classifier sign
+
+# ASL grammar rule
+1. Time
+2. Topic
+3. Comment
+4. Verb
 
 
 # ‌
