@@ -23,7 +23,9 @@ four good habits to improve your fingerspelling receptive skills
 - third, small and large words
 - fourth, go back to one
 
-Fingerspell
+Fingerspell what you've already seen not what you think you missed. you will lose your train of thought
+
+easier to not fingerspell and talk at the same time
 
 # ‌
 ---
