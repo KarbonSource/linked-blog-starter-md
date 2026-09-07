@@ -16,7 +16,14 @@ Fingerspelling often appears in the following:
 - clarifications
 - technical words
 
-four good habits to 
+four good habits to improve your fingerspelling receptive skills
+- First, it is encouraged not to ask for it to be "signed again"
+- second, don't look at the letter itself look at the shape
+	- each letter has its own shape, it's more important to look at the shape
+- third, small and large words
+- fourth, go back to one
+
+Fingerspell
 
 # ‌
 ---
