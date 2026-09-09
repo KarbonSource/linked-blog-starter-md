@@ -13,7 +13,11 @@ their mom was teaching the deaf daughter sign language and at the same time teac
 
 growing up with a deaf sister became their normal. one of the sisters would sign for the deaf sister in church each time. They describe it as having a foreign exchange student all the time to interpret. The problem was having the deaf sister not feel included.
 
-The hardest part was to feel included and the sisters were worried about her future since she had the different playing field. The two sisters went to a christian school, while the deaf sister went to a public school so they apart at times.
+The hardest part was to feel included and the sisters were worried about her future since she had the different playing field. The two sisters went to a Christian school, while the deaf sister went to a public school so they apart at times.
+
+The sisters felt like their isn't a language barrier though their signing isn't too good since they don't practice all the time. The issue is signing and thinking fast, the sisters have to slow down.
+
+The sisters' friends loved that they had a deaf sister and they wanted to learn sign language, they were curious.
 
 
 # ‌
