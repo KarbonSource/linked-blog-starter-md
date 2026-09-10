@@ -21,7 +21,9 @@ The sisters' friends loved that they had a deaf sister and they wanted to learn 
 
 It was commonly asked how did you learn sign, and do you read lips. People asked the deaf sister if she can drive. People are surprised deaf sister can't read brail. They ask how and why you are deaf.
 
-Misconception of deaf and hard of hearing. People don't realize deaf people can talk too
+Misconception of deaf and hard of hearing. People don't realize deaf people can talk too.
+
+A word of advice to hearing parents with a deaf baby is to make it a habit to sign all the time. always looking out for the deaf child.
 
 
 # ‌
