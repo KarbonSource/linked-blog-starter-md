@@ -25,6 +25,8 @@ Misconception of deaf and hard of hearing. People don't realize deaf people can 
 
 A word of advice to hearing parents with a deaf baby is to make it a habit to sign all the time. always looking out for the deaf child.
 
+the deaf sister was discriminated for being deaf at a job interview.
+
 
 # ‌
 ---
