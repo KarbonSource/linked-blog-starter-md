@@ -25,7 +25,7 @@ four good habits to improve your fingerspelling receptive skills
 
 Fingerspell what you've already seen not what you think you missed. you will lose your train of thought
 
-easier to not fingerspell and talk at the same time
+	easier to not fingerspell and talk at the same time
 
 # ‌
 ---
