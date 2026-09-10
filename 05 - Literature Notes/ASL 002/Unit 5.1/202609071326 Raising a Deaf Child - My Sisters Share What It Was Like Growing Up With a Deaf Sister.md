@@ -19,6 +19,10 @@ The sisters felt like their isn't a language barrier though their signing isn't 
 
 The sisters' friends loved that they had a deaf sister and they wanted to learn sign language, they were curious.
 
+It was commonly asked how did you learn sign, and do you read lips. People asked the deaf sister if she can drive. People are surprised deaf sister can't read brail. They ask how and why you are deaf.
+
+Misconception of deaf and hard of hearing. People don't realize deaf people can talk too
+
 
 # ‌
 ---
