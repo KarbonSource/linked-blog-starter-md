@@ -13,6 +13,10 @@ the Centre insists authorities must consider giving driving license to those wit
 
 As per RTOs in Tamil Nadu, if Deaf individuals want a driving license, they must be able to hear at least 60 decibels. Then they are qualified for a license. However, some people who wear hearing aids have been denied a license. They are even denied a learner's license.
 
+The World Federation for the Deaf says studies have revealed that Deaf drivers have been involved in fewer car accidents than the average driver.
+
+Hearing is not a necessary sense for driving a car. It is a more visual activity.
+
 
 # ‌
 ---
