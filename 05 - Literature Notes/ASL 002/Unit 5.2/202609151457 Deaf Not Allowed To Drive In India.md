@@ -15,7 +15,7 @@ As per RTOs in Tamil Nadu, if Deaf individuals want a driving license, they must
 
 The World Federation for the Deaf says studies have revealed that Deaf drivers have been involved in fewer car accidents than the average driver.
 
-Hearing is not a necessary sense for driving a car. It is a more visual activity.
+Hearing is not a necessary sense for driving a car. It is a more visual activity. Driving ensures Deaf individuals have access to social opportunities and essential services for their family members
 
 
 # ‌
