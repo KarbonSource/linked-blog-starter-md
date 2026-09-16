@@ -11,6 +11,8 @@ The union ministry of road transport and highways sent a letter to all the state
 
 the Centre insists authorities must consider giving driving license to those with hearing aids.
 
+As per RTOs in Tamil Nadu, if Deaf individuals want a driving license, they must be able to hear at least 60 decibels. Then they are qualified for a license. However, some people who wear hearing aids have been denied a license. They are even denied a learner's license.
+
 
 # ‌
 ---
