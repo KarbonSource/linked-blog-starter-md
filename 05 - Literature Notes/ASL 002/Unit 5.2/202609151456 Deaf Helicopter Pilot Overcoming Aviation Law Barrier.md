@@ -13,7 +13,9 @@ There are 6 different classes of airspace and 3 of them require wearing a headse
 
 Class D is more military flight personnel, Class C is for the regional airports, and Class B airspace is for pilots coming in at Philadelphia, Chicago and New York City for work reasons; He cannot fly in these airspaces, because they need a headset.
 
-Class E is closest to the ground and up to 18,000 ft in the Class A airspace, the air
+Class E is closest to the ground and up to 18,000 ft in the Class A airspace, the airspace between class A and E is where he can fly.
+
+He got his license by taking courses, doing homework, took tests and passed. Then a man observe and questioned him on how this helicopter operated, he answered his questions and did a performance test and did well and got his license.
 
 
 # ‌
