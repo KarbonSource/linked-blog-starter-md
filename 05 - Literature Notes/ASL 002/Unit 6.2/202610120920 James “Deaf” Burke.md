@@ -14,7 +14,9 @@ After this everyone was afraid to fight him in Europe, so he traveled to America
 
 In American James challenged Simon O'Rourke, the fight went on for 3 rounds and Simon was in bad shape. Simon was a popular fighter in the Irish immigrant community, he had many supporters
 
-When Simon showed signs of losing, the fans were so angry that they rioted against James. James was forced to flee on horseback for his life, 
+When Simon showed signs of losing, the fans were so angry that they rioted against James. James was forced to flee on horseback for his life, ending the fight.
+
+Near the end of James' life, he won 3 more fights against champions before catching tuberculosis and dying at the age of 35
 
 
 # ‌
