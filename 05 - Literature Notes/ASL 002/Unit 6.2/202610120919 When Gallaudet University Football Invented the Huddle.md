@@ -4,6 +4,9 @@ tags:
 aliases:
 ---
 # 202610120919
+https://gallaudet.edu/museum/history/when-gallaudet-university-football-invented-the-huddle/
+
+
 
 
 # ‌
