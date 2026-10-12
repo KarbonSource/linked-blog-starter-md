@@ -6,6 +6,9 @@ aliases:
 # 202610120920
 https://deafniche.com/deafburke/
 
+## We changed the game
+
+
 
 # ‌
 ---
