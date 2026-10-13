@@ -15,7 +15,6 @@
   "obsidian-excalidraw-plugin",
   "obsidian-furigana",
   "ink",
-  "obsidian-git",
   "cmdr",
   "obsidian-book-search-plugin",
   "obsidian-hider",
@@ -24,7 +23,6 @@
   "obsidian-plugin-update-tracker",
   "text-extractor",
   "omnisearch",
-  "red-pen",
   "url-into-selection",
   "obsidian-paste-image-rename",
   "recent-files-obsidian",
@@ -32,5 +30,6 @@
   "dbfolder",
   "advanced-canvas",
   "obsidian-spaced-repetition",
-  "attachment-management"
+  "attachment-management",
+  "obsidian-git"
 ]
