@@ -58,7 +58,7 @@ No is a particle that connects two nouns. No is very versatile, it can act like 
 The main idea always comes at the end, with any further description placed before it.
 ![[Pasted image 20241031164229.png|300]]
 
-# Expressin Notes 2
+# Expression Notes 2
 ## あの
 
 # ‌
