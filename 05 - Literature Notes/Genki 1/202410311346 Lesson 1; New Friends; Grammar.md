@@ -79,7 +79,12 @@ There are a few exceptions, such as *konnichiwa* and *konbanwa*. they are usuall
 Many number words have more than one pronunciation.
 
 0 ゼロ and <ruby>零<rt>れい</rt></ruby>　are both commonly used.
-1　いち、but pronounced as いっ in いっぶん and いっさい
+
+1 いち、but pronounced as いっ in いっぶん and いっさい
+
+2 に all the time. When you are reading out each digit separately, as when you give your phone number, it may be pronounced with a long vowel
+
+3 さん all the time. the part that follows
 # ‌
 ---
 # Flashcards
