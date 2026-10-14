@@ -62,7 +62,11 @@ The main idea always comes at the end, with any further description placed befor
 ## あの
 *Ano* indicates that you have reservations about saying what you're going to say next. You may be worried about interrupting something someone is currently doing, or sounding rude and impolite for asking personal questions, for example
 
-## ``
+## はい／ええ
+Both *hai* and *ee* means "yes" in response to yes-no questions. Compared to hai, ee i smore conversational and relaxed. In more informal questions, *un* is used.
+	Hai is also used to respond to a knock at the door or to the calling of one's name, meaning "Here"
+
+
 
 # ‌
 ---
