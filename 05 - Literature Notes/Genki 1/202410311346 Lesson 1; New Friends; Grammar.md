@@ -78,7 +78,7 @@ There are a few exceptions, such as *konnichiwa* and *konbanwa*. they are usuall
 ## Numbers
 Many number words have more than one pronunciation.
 
-0 ゼロ and 
+0 ゼロ and <ruby>零<rt>れい</rt></ruby>　are both commonly
 # ‌
 ---
 # Flashcards
