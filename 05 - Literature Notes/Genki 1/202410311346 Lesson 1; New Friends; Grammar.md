@@ -66,7 +66,11 @@ The main idea always comes at the end, with any further description placed befor
 Both *hai* and *ee* means "yes" in response to yes-no questions. Compared to hai, ee i smore conversational and relaxed. In more informal questions, *un* is used.
 	Hai is also used to respond to a knock at the door or to the calling of one's name, meaning "Here"
 
+## そうですか
+*soo desu ka* acknowledges that you have  acknowledges that you have understood what was just said. "Is that so?" or "I see."
 
+## Pronunciation of は
+The p
 
 # ‌
 ---
