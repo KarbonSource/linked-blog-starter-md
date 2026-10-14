@@ -73,7 +73,12 @@ Both *hai* and *ee* means "yes" in response to yes-no questions. Compared to hai
 The particle は is pronounced "wa" not "ha." It should be written は. All other instances "wa" are written with わ.
 	<u>わ</u>たしのでん<u>わ</u>ばんごう<u>は</u>３７－８６６７です
 
-There are a few exceptions, such as *konnichiwa* and *konbanwa*. they are usually written with
+There are a few exceptions, such as *konnichiwa* and *konbanwa*. they are usually written with こんにち<u>は</u> and こんばん<u>は</u>
+
+## Numbers
+Many number words have more than one pronunciation.
+
+0 ゼロ and 
 # ‌
 ---
 # Flashcards
