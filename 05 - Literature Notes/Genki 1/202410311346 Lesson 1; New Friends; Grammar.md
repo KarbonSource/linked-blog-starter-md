@@ -60,7 +60,7 @@ The main idea always comes at the end, with any further description placed befor
 
 # Expression Notes 2
 ## あの
-*Ano* indicates that you have reservations about saying
+*Ano* indicates that you have reservations about saying what you're going to say next
 
 # ‌
 ---
