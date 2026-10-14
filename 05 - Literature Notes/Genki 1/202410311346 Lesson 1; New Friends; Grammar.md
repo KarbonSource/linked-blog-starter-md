@@ -60,7 +60,9 @@ The main idea always comes at the end, with any further description placed befor
 
 # Expression Notes 2
 ## あの
-*Ano* indicates that you have reservations about saying what you're going to say next
+*Ano* indicates that you have reservations about saying what you're going to say next. You may be worried about interrupting something someone is currently doing, or sounding rude and impolite for asking personal questions, for example
+
+## ``
 
 # ‌
 ---
