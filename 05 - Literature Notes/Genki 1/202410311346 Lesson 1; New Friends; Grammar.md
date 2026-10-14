@@ -70,7 +70,7 @@ Both *hai* and *ee* means "yes" in response to yes-no questions. Compared to hai
 *soo desu ka* acknowledges that you have  acknowledges that you have understood what was just said. "Is that so?" or "I see."
 
 ## Pronunciation of は
-The p
+The particle は is pronounced "wa" not "ha." It should be written は. All other instances "wa" are written with 
 
 # ‌
 ---
