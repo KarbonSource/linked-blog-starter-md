@@ -84,7 +84,9 @@ Many number words have more than one pronunciation.
 
 2 に all the time. When you are reading out each digit separately, as when you give your phone number, it may be pronounced with a long vowel
 
-3 さん all the time. the part that follows
+3 さん all the time. the part that follows it may change shape, as in さんぶん, instead of さんふん
+
+4 よん is the most basic, but fourth-year student is よんえんせい and four o'clock is よじ. In some combinat
 # ‌
 ---
 # Flashcards
