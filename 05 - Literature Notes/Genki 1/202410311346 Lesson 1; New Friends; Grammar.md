@@ -86,7 +86,9 @@ Many number words have more than one pronunciation.
 
 3 さん all the time. the part that follows it may change shape, as in さんぶん, instead of さんふん
 
-4 よん is the most basic, but fourth-year student is よんえんせい and four o'clock is よじ. In some combinat
+4 よん is the most basic, but fourth-year student is よんえんせい and four o'clock is よじ. In some combinations that we will later learn, it is read し. The part that follows this number may change shape too.
+
+5 ご all the time
 # ‌
 ---
 # Flashcards
