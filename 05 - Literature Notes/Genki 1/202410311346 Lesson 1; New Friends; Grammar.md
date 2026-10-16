@@ -107,7 +107,10 @@ The particle *no* is usually placed in between the local exchange code and the l
 The word *sensee* is usually reserved for describing somebody else's occupation. The word *sensee* means "honorable master." If you are a teacher, and if you want to be really modes, you can us the word *kyooshi* instead.
 
 # さん
-*San* is plac
+*San* is placed after a name as a generic title. It goes both with a given name and a family name. Children are referred to as *chan* (and boys in particular as *kun*), rather than *san*.
+
+# Referring to the person you are talking to
+The word for "you," *anata*, is not
 
 # ‌
 ---
