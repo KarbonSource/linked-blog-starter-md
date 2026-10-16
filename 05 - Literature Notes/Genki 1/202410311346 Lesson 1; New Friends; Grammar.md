@@ -110,7 +110,7 @@ The word *sensee* is usually reserved for describing somebody else's occupation.
 *San* is placed after a name as a generic title. It goes both with a given name and a family name. Children are referred to as *chan* (and boys in particular as *kun*), rather than *san*.
 
 # Referring to the person you are talking to
-The word for "you," *anata*, is not
+The word for "you," *anata*, is not very commonly used in Japanese. Instead, we use the name and a title *san* and *sensee* to refer to the person you are talking to.
 
 # ‌
 ---
