@@ -88,7 +88,15 @@ Many number words have more than one pronunciation.
 
 4 よん is the most basic, but fourth-year student is よんえんせい and four o'clock is よじ. In some combinations that we will later learn, it is read し. The part that follows this number may change shape too.
 
-5 ご all the time
+5 ご all the time. When read out separately, it may be pronounced with a long vowel, as ごう
+
+6 ろく, but pronounced as ろっ in ろっぶん
+
+7 なな is the most basic, but seven o'clock しちじ
+
+8 はち, but usually pronounced as はっ in はっぶん and はっさい
+
+9
 # ‌
 ---
 # Flashcards
