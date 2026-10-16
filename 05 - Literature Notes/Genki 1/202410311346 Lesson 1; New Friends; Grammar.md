@@ -100,7 +100,8 @@ Many number words have more than one pronunciation.
 
 10 じゅう but pronounced as じゅっ or じっ in じゅっぶん／じっぶん and じゅっさい／じっさい.
 
-
+# Giving one's telephone number
+The particle *no* is usually placed in between the local exchange
 # ‌
 ---
 # Flashcards
