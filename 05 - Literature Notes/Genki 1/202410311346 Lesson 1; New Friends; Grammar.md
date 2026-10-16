@@ -104,6 +104,10 @@ Many number words have more than one pronunciation.
 The particle *no* is usually placed in between the local exchange code and the last four digits. Therefore, the 012-345-6789 is zero ichi ni, san yon go no, roku nana hachi kyuu
 
 # せんせい
+The word *sensee* is usually reserved for describing somebody else's occupation. The word *sensee* means "honorable master." If you are a teacher, and if you want to be really modes, you can us the word *kyooshi* instead.
+
+# さん
+*San* is plac
 
 # ‌
 ---
