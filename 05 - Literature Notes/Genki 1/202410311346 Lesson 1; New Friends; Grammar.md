@@ -96,7 +96,11 @@ Many number words have more than one pronunciation.
 
 8 はち, but usually pronounced as はっ in はっぶん and はっさい
 
-9
+9 きゅう is the most basic, but nine o'clock is くじ
+
+10 じゅう but pronounced as じゅっ or じっ in じゅっぶん／じっぶん and じゅっさい／じっさい.
+
+
 # ‌
 ---
 # Flashcards
