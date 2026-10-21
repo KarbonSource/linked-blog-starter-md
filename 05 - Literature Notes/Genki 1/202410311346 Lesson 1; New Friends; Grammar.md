@@ -138,6 +138,14 @@ The word for "you," *anata*, is not very commonly used in Japanese. Instead, we 
 よんぷん
 ごふん
 ろっぷん
+ななふん
+はっぷん／はちふん
+きゅうふん
+じゅっぷん／じっぷん
+じゅういっぷん
+じゅうにふん
+じゅうさんぷん
+じゅう
 
 
 
