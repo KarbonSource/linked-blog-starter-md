@@ -125,6 +125,7 @@ The word for "you," *anata*, is not very commonly used in Japanese. Instead, we 
 ごじ;;5 o'clock
 ろくじ;;6 o'clock
 しちじ;;7 o'clock
+<!--SR:!2026-10-24,3,250-->
 はちじ;;8 o'clock
 くじ;;9 o'clock
 じゅうじ;;10 o'clock
@@ -136,6 +137,7 @@ The word for "you," *anata*, is not very commonly used in Japanese. Instead, we 
 にふん;;2 minutes
 さんぷん;;3 minutes
 よんぷん;;4 minutes
+<!--SR:!2026-10-24,3,250-->
 ごふん;;5 minutes
 ろっぷん;;6 minutes
 ななふん;;7 minutes
@@ -157,6 +159,7 @@ The word for "you," *anata*, is not very commonly used in Japanese. Instead, we 
 ## Age
 いっさい;;1 year old
 にさい;;2 years old
+<!--SR:!2026-10-24,3,250-->
 さんさい;;3 years old
 よんさい;;4 years old
 ごさい;;5 years old
