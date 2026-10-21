@@ -116,6 +116,9 @@ The word for "you," *anata*, is not very commonly used in Japanese. Instead, we 
 ---
 # Flashcards
 
+## Hours
+いちじ
+にじ
 
 
 
