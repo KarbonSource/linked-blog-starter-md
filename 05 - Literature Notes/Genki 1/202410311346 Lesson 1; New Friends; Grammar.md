@@ -118,49 +118,49 @@ The word for "you," *anata*, is not very commonly used in Japanese. Instead, we 
 # Flashcards
 
 ## Hours
-いちじ;;;1 o'clock
-にじ;;;2 o'clock
-さんじ;;;3 o'clock
-よじ;;;4 o'clock
-ごじ;;;5 o'clock
-ろくじ;;;6 o'clock
-しちじ;;;7 o'clock
-はちじ;;;8 o'clock
-くじ;;;9 o'clock
-じゅうじ;;;10 o'clock
-じゅういちじ;;;11 o'clock
-じゅうにじ;;; 12 o'clock
+いちじ;;1 o'clock
+にじ;;2 o'clock
+さんじ;;3 o'clock
+よじ;;4 o'clock
+ごじ;;5 o'clock
+ろくじ;;6 o'clock
+しちじ;;7 o'clock
+はちじ;;8 o'clock
+くじ;;9 o'clock
+じゅうじ;;10 o'clock
+じゅういちじ;;11 o'clock
+じゅうにじ;;12 o'clock
 
 ## Minutes
-いっぶん
-にふん
-さんぷん
-よんぷん
-ごふん
-ろっぷん
-ななふん
-はっぷん／はちふん
-きゅうふん
-じゅっぷん／じっぷん
-じゅういっぷん
-じゅうにふん
-じゅうさんぷん
-じゅうよんぷん
-じゅうごふん
-じゅうろっぷん
-じゅうななふん
-じゅうはっぷん／じゅうはちふん
-じゅうきゅうふん
-にじゅっぷん
-さんじっぷん
+いっぶん;;1 minute
+にふん;;2 minutes
+さんぷん;;3 minutes
+よんぷん;;4 minutes
+ごふん;;5 minutes
+ろっぷん;;6 minutes
+ななふん;;7 minutes
+はっぷん／はちふん;;8 minutes
+きゅうふん;;9 minutes
+じゅっぷん／じっぷん;;10 minutes
+じゅういっぷん;;11 minutes
+じゅうにふん;;12 minutes
+じゅうさんぷん;;13 minutes
+じゅうよんぷん;;14 minutes
+じゅうごふん;;15 minutes
+じゅうろっぷん;;16 minutes
+じゅうななふん;;17 minutes
+じゅうはっぷん／じゅうはちふん;;18 minutes
+じゅうきゅうふん;;19 minutes
+にじゅっぷん;;20 minutes
+さんじっぷん;;30 minutes
 
 ## Age
-いっさい
-にさい
-さんさい
-よんさい
-ごさい
-ろくさい
+いっさい;;1 year old
+にさい;;2 years old
+さんさい;;3 years old
+よんさい;;4 years old
+ごさい;;5 years old
+ろくさい;;6 year
 ななさい
 はっさい
 きゅうさい
