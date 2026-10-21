@@ -126,12 +126,13 @@ The word for "you," *anata*, is not very commonly used in Japanese. Instead, we 
 ろくじ;;;6 o'clock
 しちじ;;;7 o'clock
 はちじ;;;8 o'clock
-くじ;;;9 o;clock
-じゅうじ
-じゅういちじ
-じゅうにじ
+くじ;;;9 o'clock
+じゅうじ;;;10 o'clock
+じゅういちじ;;;11 o'clock
+じゅうにじ;;; 12 o'clock
 
-
+## Minutes
+いっぶん
 
 
 
