@@ -133,6 +133,12 @@ The word for "you," *anata*, is not very commonly used in Japanese. Instead, we 
 
 ## Minutes
 いっぶん
+にふん
+さんぷん
+よんぷん
+ごふん
+ろっぷん
+
 
 
 
