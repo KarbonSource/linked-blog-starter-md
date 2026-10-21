@@ -160,12 +160,12 @@ The word for "you," *anata*, is not very commonly used in Japanese. Instead, we 
 さんさい;;3 years old
 よんさい;;4 years old
 ごさい;;5 years old
-ろくさい;;6 year
-ななさい
-はっさい
-きゅうさい
-じゅっさい
-はたち
+ろくさい;;6 years old
+ななさい;;7 years old
+はっさい;;8 years old
+きゅうさい;;9 years old
+じゅっさい;;10 years old
+はたち;;20 years old
 
 
 
