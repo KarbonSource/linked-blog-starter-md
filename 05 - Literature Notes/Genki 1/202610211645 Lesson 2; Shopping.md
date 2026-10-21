@@ -6,7 +6,7 @@ tags:
   - Japanese/Genki-1/Lesson-2
 aliases:
 ---
-# 202610211645
+# １　これ　それ　あれ　どれ
 
 
 # ‌
