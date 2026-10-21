@@ -121,7 +121,9 @@ The word for "you," *anata*, is not very commonly used in Japanese. Instead, we 
 いちじ;;1 o'clock
 <!--SR:!2026-10-24,3,250-->
 にじ;;2 o'clock
+<!--SR:!2026-10-24,3,250-->
 さんじ;;3 o'clock
+<!--SR:!2026-10-24,3,250-->
 よじ;;4 o'clock
 <!--SR:!2026-10-24,3,250-->
 ごじ;;5 o'clock
@@ -135,6 +137,7 @@ The word for "you," *anata*, is not very commonly used in Japanese. Instead, we 
 くじ;;9 o'clock
 <!--SR:!2026-10-24,3,250-->
 じゅうじ;;10 o'clock
+<!--SR:!2026-10-24,3,250-->
 じゅういちじ;;11 o'clock
 <!--SR:!2026-10-24,3,250-->
 じゅうにじ;;12 o'clock
@@ -144,7 +147,9 @@ The word for "you," *anata*, is not very commonly used in Japanese. Instead, we 
 いっぶん;;1 minute
 <!--SR:!2026-10-24,3,250-->
 にふん;;2 minutes
+<!--SR:!2026-10-24,3,250-->
 さんぷん;;3 minutes
+<!--SR:!2026-10-24,3,250-->
 よんぷん;;4 minutes
 <!--SR:!2026-10-24,3,250-->
 ごふん;;5 minutes
@@ -156,6 +161,7 @@ The word for "you," *anata*, is not very commonly used in Japanese. Instead, we 
 はっぷん／はちふん;;8 minutes
 <!--SR:!2026-10-24,3,250-->
 きゅうふん;;9 minutes
+<!--SR:!2026-10-24,3,250-->
 じゅっぷん／じっぷん;;10 minutes
 <!--SR:!2026-10-24,3,250-->
 じゅういっぷん;;11 minutes
@@ -167,11 +173,13 @@ The word for "you," *anata*, is not very commonly used in Japanese. Instead, we 
 じゅうよんぷん;;14 minutes
 <!--SR:!2026-10-24,3,250-->
 じゅうごふん;;15 minutes
+<!--SR:!2026-10-24,3,250-->
 じゅうろっぷん;;16 minutes
 <!--SR:!2026-10-24,3,250-->
 じゅうななふん;;17 minutes
 <!--SR:!2026-10-24,3,250-->
 じゅうはっぷん／じゅうはちふん;;18 minutes
+<!--SR:!2026-10-24,3,250-->
 じゅうきゅうふん;;19 minutes
 <!--SR:!2026-10-24,3,250-->
 にじゅっぷん;;20 minutes
@@ -201,6 +209,7 @@ The word for "you," *anata*, is not very commonly used in Japanese. Instead, we 
 じゅっさい;;10 years old
 <!--SR:!2026-10-24,3,250-->
 はたち;;20 years old
+<!--SR:!2026-10-24,3,250-->
 
 
 
