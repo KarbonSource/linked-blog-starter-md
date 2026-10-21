@@ -155,7 +155,17 @@ The word for "you," *anata*, is not very commonly used in Japanese. Instead, we 
 さんじっぷん
 
 ## Age
-
+いっさい
+にさい
+さんさい
+よんさい
+ごさい
+ろくさい
+ななさい
+はっさい
+きゅうさい
+じゅっさい
+はたち
 
 
 
