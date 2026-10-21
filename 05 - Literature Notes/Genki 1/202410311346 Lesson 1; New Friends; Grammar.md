@@ -117,8 +117,20 @@ The word for "you," *anata*, is not very commonly used in Japanese. Instead, we 
 # Flashcards
 
 ## Hours
-いちじ
+いちじ;;;1 o'clock
 にじ
+さんじ
+よじ
+ごじ
+ろくじ
+しちじ
+はちじ
+くじ
+じゅうじ
+じゅういちじ
+じゅうにじ
+
+
 
 
 
