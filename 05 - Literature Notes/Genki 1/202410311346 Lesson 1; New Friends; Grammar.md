@@ -145,7 +145,17 @@ The word for "you," *anata*, is not very commonly used in Japanese. Instead, we 
 じゅういっぷん
 じゅうにふん
 じゅうさんぷん
-じゅう
+じゅうよんぷん
+じゅうごふん
+じゅうろっぷん
+じゅうななふん
+じゅうはっぷん／じゅうはちふん
+じゅうきゅうふん
+にじゅっぷん
+さんじっぷん
+
+## Age
+
 
 
 
