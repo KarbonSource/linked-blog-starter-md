@@ -90,22 +90,6 @@
       "key": "A"
     }
   ],
-  "quickadd:choice:9b252667-da02-4683-aaad-8caa1505bcbd": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "ArrowRight"
-    }
-  ],
-  "quickadd:choice:9c426476-1aa1-4c88-923c-67690487a3ea": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "ArrowLeft"
-    }
-  ],
   "quickadd:choice:85d95fe0-4c95-4ebf-aa32-4be80898385a": [
     {
       "modifiers": [
@@ -166,6 +150,40 @@
         "Shift"
       ],
       "key": "7"
+    }
+  ],
+  "quickadd:choice:9c426476-1aa1-4c88-923c-67690487a3ea": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "quickadd:choice:9b252667-da02-4683-aaad-8caa1505bcbd": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
     }
   ]
 }
