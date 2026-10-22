@@ -37,6 +37,8 @@ If you know one of several watches cost 3500 yen but don't know which one then y
 
 Since *dono* is a question word, just like *dore*, we cannot use the particle *wa* with it; we must use *ga*
 
+![[202610211645 Lesson 2; Shopping.png]]
+
 # ‌
 ---
 # Flashcards
