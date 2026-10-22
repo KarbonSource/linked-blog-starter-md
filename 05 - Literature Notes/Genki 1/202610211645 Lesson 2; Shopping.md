@@ -21,7 +21,11 @@ A slightly more specific *kore*, *sore*, *are*, and *dore* is *kono*, *sono*, *a
 instead これはいくらいですか　-> you can say このとけいはいくらいですか
 *TL: how much is this? -> How much is this watch?*
 
-Similarly if you 
+Similarly if you are talking about a watch that is held by the person you are talking to, you can say:
+そのとけいはさんぜんえんです
+*TL: That watch is 3000 yen*
+
+And if the watch is far from both the speaker and the listener
 
 # ‌
 ---
