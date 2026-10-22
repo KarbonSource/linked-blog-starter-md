@@ -67,6 +67,7 @@ In lesson 1, we learned how to say "Item A is this, Item B is that." We now lear
 みちこさんもにほんじんです。
 *Michiko is Japanese, <u>too</u>*
 
+These two sentences are almost identical in shape
 # ‌
 ---
 # Flashcards
