@@ -53,7 +53,10 @@ If you are close by, you can point toward the post office and say:
 *TL: (Post office) right over there.*
 
 # 4 だれの noun
-We now learn how to ask who something belongs to
+We now learn how to ask who something belongs to. The question for the word "who" is *dare*, and for "whose", we simply add the particle *no*.
+
+これは<u>だれの</u>かばんですか。　　それは<u>スーさんの</u>かばんです
+*TL: <u>Whose</u> bag is this?     This is <u>Sue's</u> bag.*
 
 # ‌
 ---
