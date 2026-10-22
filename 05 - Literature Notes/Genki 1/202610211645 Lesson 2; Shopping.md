@@ -10,7 +10,7 @@ aliases:
 when we wanna talk about things we don't know the names of, we use "thing thing" "that one" and so forth. In Japanese, we use *kore*, *sore*, and *are*.
 	これはいくらですか　　　*How much is this?*
 	それはさんぜんえんです　　　That is 3000 yen
-
+*Kore* refers to a thing that is close to you, the speaker. *Sore*
 
 # ‌
 ---
