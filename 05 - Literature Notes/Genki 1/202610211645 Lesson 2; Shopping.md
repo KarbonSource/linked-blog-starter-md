@@ -26,6 +26,10 @@ Similarly if you are talking about a watch that is held by the person you are ta
 *TL: That watch is 3000 yen*
 
 And if the watch is far from both the speaker and the listener
+あのとけいはさんぜんごひゃくえんです
+*TL: That watch over there cost 3500 Yen*
+
+If you know 
 
 # ‌
 ---
