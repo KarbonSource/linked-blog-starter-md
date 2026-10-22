@@ -16,9 +16,12 @@ when we wanna talk about things we don't know the names of, we use "thing thing"
 	どれですか　　　which one is it
 
 # 2 この／その／あの／どの + noun
-A slightly more specific *kore*, *sore*, *are*, and *dore* is *kono*, *sono*, *ano*, and *dono* together with a noun. (Note that the *re* series must always stand alone, while the *no* series must always be followed by a noun.) Thus, if you know that the item in your hand is a watch 
+A slightly more specific *kore*, *sore*, *are*, and *dore* is *kono*, *sono*, *ano*, and *dono* together with a noun. (Note that the *re* series must always stand alone, while the *no* series must always be followed by a noun.) Thus, if you know that the item in your hand is a watch
 
+instead これはいくらいですか　-> you can say このとけいはいくらいですか
+*TL: how much is this? -> How much is this watch?*
 
+Similarly if you 
 
 # ‌
 ---
