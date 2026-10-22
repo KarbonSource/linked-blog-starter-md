@@ -40,7 +40,7 @@ Since *dono* is a question word, just like *dore*, we cannot use the particle *w
 To summarize:
 ![[202610211645 Lesson 2; Shopping.png]]
 
-## 3 ここ　そこ　あそこ　どこ
+# 3 ここ　そこ　あそこ　どこ
 *koko*, *soko*, *asoko*, *doko* are used for places.
 ![[202610211645 Lesson 2; Shopping-1.png]]
 
@@ -49,7 +49,11 @@ you can ask for directions by saying:
 *TL: Excuse me. Where is the post office?*
 
 If you are close by, you can point toward the post office and say:
-あそこです
+(ゆうびんきょくは) あそこです。
+*TL: (Post office) right over there.*
+
+# 4 だれの noun
+
 
 # ‌
 ---
