@@ -70,7 +70,10 @@ In lesson 1, we learned how to say "Item A is this, Item B is that." We now lear
 These two sentences are almost identical in shape. This is natural, as they both claim that a certain person is Japanese. However in the second sentence we have the particle *mo*. *Mo* is a particle that indicates that item, too, has the given property
 ![[202610211645 Lesson 2; Shopping-2.png]]
 
-# 6 
+# 6 じゃないです
+To negate a statement of the form X wa Y desu, where Y is a noun, you replace desu with ja nai desu.
+やまださんはがくせいじゃないです。
+*Mr.Yamada is not a student.*
 # ‌
 ---
 # Flashcards
