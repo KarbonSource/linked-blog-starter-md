@@ -53,7 +53,7 @@ If you are close by, you can point toward the post office and say:
 *TL: (Post office) right over there.*
 
 # 4 だれの noun
-
+We now learn how to ask who something belongs to
 
 # ‌
 ---
