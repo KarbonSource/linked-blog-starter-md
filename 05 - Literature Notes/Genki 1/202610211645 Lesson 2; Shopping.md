@@ -58,6 +58,14 @@ We now learn how to ask who something belongs to. The question for the word "who
 これは<u>だれの</u>かばんですか。　　それは<u>スーさんの</u>かばんです
 *TL: <u>Whose</u> bag is this?     This is <u>Sue's</u> bag.*
 
+# 5 noun も
+In lesson 1, we learned how to say "Item A is this, Item B is that." We now learn how to say "Item A is this, and Item B is this, too."
+
+たけしさんはにほんじんです。
+
+
+みちこさんもにほんじんです。
+
 # ‌
 ---
 # Flashcards
