@@ -15,6 +15,8 @@ when we wanna talk about things we don't know the names of, we use "thing thing"
 *dore* is an expression for which, for example
 	どれですか　　　which one is it
 
+Questions words like *dore* and *nani* cannot be followed by the particle *wa*. Instead, you must use
+
 # 2 この／その／あの／どの + noun
 A slightly more specific *kore*, *sore*, *are*, and *dore* is *kono*, *sono*, *ano*, and *dono* together with a noun. (Note that the *re* series must always stand alone, while the *no* series must always be followed by a noun.) Thus, if you know that the item in your hand is a watch
 
@@ -29,7 +31,11 @@ And if the watch is far from both the speaker and the listener
 あのとけいはさんぜんごひゃくえんです
 *TL: That watch over there cost 3500 Yen*
 
-If you know 
+If you know one of several watches cost 3500 yen but don't know which one then you can say:
+どのとけいがさんぜんごひゃくえんです
+*TL: Which watch cost 3500 Yen?*
+
+
 
 # ‌
 ---
