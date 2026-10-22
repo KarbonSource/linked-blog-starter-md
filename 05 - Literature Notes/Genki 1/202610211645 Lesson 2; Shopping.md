@@ -67,7 +67,10 @@ In lesson 1, we learned how to say "Item A is this, Item B is that." We now lear
 みちこさんもにほんじんです。
 *Michiko is Japanese, <u>too</u>*
 
-These two sentences are almost identical in shape
+These two sentences are almost identical in shape. This is natural, as they both claim that a certain person is Japanese. However in the second sentence we have the particle *mo*. *Mo* is a particle that indicates that item, too, has the given property
+![[202610211645 Lesson 2; Shopping-2.png]]
+
+# 6 
 # ‌
 ---
 # Flashcards
