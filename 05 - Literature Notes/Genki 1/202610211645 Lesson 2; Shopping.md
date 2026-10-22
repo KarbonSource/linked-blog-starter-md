@@ -42,7 +42,14 @@ To summarize:
 
 ## 3 ここ　そこ　あそこ　どこ
 *koko*, *soko*, *asoko*, *doko* are used for places.
+![[202610211645 Lesson 2; Shopping-1.png]]
 
+you can ask for directions by saying:
+すみません。ゆうびんきょくはどこですか。
+*TL: Excuse me. Where is the post office?*
+
+If you are close by, you can point toward the post office and say:
+あそこです
 
 # ‌
 ---
