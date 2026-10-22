@@ -62,9 +62,10 @@ We now learn how to ask who something belongs to. The question for the word "who
 In lesson 1, we learned how to say "Item A is this, Item B is that." We now learn how to say "Item A is this, and Item B is this, too."
 
 たけしさんはにほんじんです。
-
+*Takeshi is a Japanese person*
 
 みちこさんもにほんじんです。
+*Michiko is Japanese, <u>too</u>*
 
 # ‌
 ---
