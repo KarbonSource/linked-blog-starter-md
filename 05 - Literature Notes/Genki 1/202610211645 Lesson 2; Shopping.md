@@ -7,7 +7,7 @@ tags:
 aliases:
 ---
 # １　これ　それ　あれ　どれ
-when we wanna talk about things we don't know the names of, we use "thing thing" "that one" and so forth. In
+when we wanna talk about things we don't know the names of, we use "thing thing" "that one" and so forth. In Japanese, we use *kore*, *sore*, and *are*.
 
 # ‌
 ---
