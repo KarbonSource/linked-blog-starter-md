@@ -6,7 +6,7 @@ tags:
   - Japanese/Genki-1/Lesson-2
 aliases:
 ---
-# １　これ　それ　あれ　どれ
+# 1　これ　それ　あれ　どれ
 when we wanna talk about things we don't know the names of, we use "thing thing" "that one" and so forth. In Japanese, we use *kore*, *sore*, and *are*.
 	これはいくらですか　　　*How much is this?*
 	それはさんぜんえんです　　　That is 3000 yen
@@ -74,6 +74,9 @@ These two sentences are almost identical in shape. This is natural, as they both
 To negate a statement of the form X wa Y desu, where Y is a noun, you replace desu with ja nai desu.
 やまださんはがくせいじゃないです。
 *Mr.Yamada is not a student.*
+
+
+
 # ‌
 ---
 # Flashcards
