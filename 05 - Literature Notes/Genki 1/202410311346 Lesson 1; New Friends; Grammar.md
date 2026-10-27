@@ -119,9 +119,9 @@ The word for "you," *anata*, is not very commonly used in Japanese. Instead, we 
 
 ## Hours
 いちじ;;1 o'clock
-<!--SR:!2026-10-24,3,250-->
+<!--SR:!2026-11-02,7,250-->
 にじ;;2 o'clock
-<!--SR:!2026-10-24,3,250-->
+<!--SR:!2026-11-04,9,250-->
 さんじ;;3 o'clock
 <!--SR:!2026-10-24,3,250-->
 よじ;;4 o'clock
@@ -129,17 +129,17 @@ The word for "you," *anata*, is not very commonly used in Japanese. Instead, we 
 ごじ;;5 o'clock
 <!--SR:!2026-10-24,3,250-->
 ろくじ;;6 o'clock
-<!--SR:!2026-10-24,3,250-->
+<!--SR:!2026-11-03,8,250-->
 しちじ;;7 o'clock
 <!--SR:!2026-10-24,3,250-->
 はちじ;;8 o'clock
 <!--SR:!2026-10-24,3,250-->
 くじ;;9 o'clock
-<!--SR:!2026-10-24,3,250-->
+<!--SR:!2026-11-02,7,250-->
 じゅうじ;;10 o'clock
 <!--SR:!2026-10-24,3,250-->
 じゅういちじ;;11 o'clock
-<!--SR:!2026-10-24,3,250-->
+<!--SR:!2026-11-04,9,250-->
 じゅうにじ;;12 o'clock
 <!--SR:!2026-10-24,3,250-->
 
@@ -151,15 +151,15 @@ The word for "you," *anata*, is not very commonly used in Japanese. Instead, we 
 さんぷん;;3 minutes
 <!--SR:!2026-10-24,3,250-->
 よんぷん;;4 minutes
-<!--SR:!2026-10-24,3,250-->
+<!--SR:!2026-11-03,8,250-->
 ごふん;;5 minutes
 <!--SR:!2026-10-24,3,250-->
 ろっぷん;;6 minutes
-<!--SR:!2026-10-24,3,250-->
+<!--SR:!2026-11-02,7,250-->
 ななふん;;7 minutes
 <!--SR:!2026-10-24,3,250-->
 はっぷん／はちふん;;8 minutes
-<!--SR:!2026-10-24,3,250-->
+<!--SR:!2026-11-04,9,250-->
 きゅうふん;;9 minutes
 <!--SR:!2026-10-24,3,250-->
 じゅっぷん／じっぷん;;10 minutes
@@ -173,7 +173,7 @@ The word for "you," *anata*, is not very commonly used in Japanese. Instead, we 
 じゅうよんぷん;;14 minutes
 <!--SR:!2026-10-24,3,250-->
 じゅうごふん;;15 minutes
-<!--SR:!2026-10-24,3,250-->
+<!--SR:!2026-11-03,8,250-->
 じゅうろっぷん;;16 minutes
 <!--SR:!2026-10-24,3,250-->
 じゅうななふん;;17 minutes
@@ -185,7 +185,7 @@ The word for "you," *anata*, is not very commonly used in Japanese. Instead, we 
 にじゅっぷん;;20 minutes
 <!--SR:!2026-10-24,3,250-->
 さんじっぷん;;30 minutes
-<!--SR:!2026-10-24,3,250-->
+<!--SR:!2026-11-03,8,250-->
 
 ## Age
 いっさい;;1 year old
@@ -195,7 +195,7 @@ The word for "you," *anata*, is not very commonly used in Japanese. Instead, we 
 さんさい;;3 years old
 <!--SR:!2026-10-24,3,250-->
 よんさい;;4 years old
-<!--SR:!2026-10-24,3,250-->
+<!--SR:!2026-11-02,7,250-->
 ごさい;;5 years old
 <!--SR:!2026-10-24,3,250-->
 ろくさい;;6 years old
