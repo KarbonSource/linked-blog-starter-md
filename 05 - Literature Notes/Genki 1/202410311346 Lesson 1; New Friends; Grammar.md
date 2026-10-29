@@ -165,7 +165,7 @@ The word for "you," *anata*, is not very commonly used in Japanese. Instead, we 
 じゅっぷん／じっぷん;;10 minutes
 <!--SR:!2026-11-04,9,250-->
 じゅういっぷん;;11 minutes
-<!--SR:!2026-10-29,8,250-->
+<!--SR:!2026-11-19,21,250-->
 じゅうにふん;;12 minutes
 <!--SR:!2026-11-04,9,250-->
 じゅうさんぷん;;13 minutes
