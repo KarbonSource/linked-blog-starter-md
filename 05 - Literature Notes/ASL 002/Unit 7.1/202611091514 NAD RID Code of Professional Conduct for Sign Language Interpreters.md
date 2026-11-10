@@ -68,7 +68,10 @@ Illustrative Behavior - Interpreters:
 - 5.5 Obtain the consent of colleagues before bringing an intern to an assignment.
 
 # 6. Business practices
-Interpreters are expected to conduct their business in a professional manner whether in private practice or
+Interpreters are expected to conduct their business in a professional manner whether in private practice or in the employ of an agency or other entity. Professional interpreters are entitled to a living wage based on their qualifications and expertise. Interpreters are also entitled to working conditions conductive to effective service delivery.
+
+Illustrative Behavior - Interpreters:
+- 6.1
 
 # ‌
 ---
