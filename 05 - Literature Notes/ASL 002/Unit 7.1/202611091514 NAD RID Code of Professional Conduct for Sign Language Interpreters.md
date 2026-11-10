@@ -43,7 +43,13 @@ Illustrative Behavior - Interpreters:
 - 3.4 Comply with established workplace codes of conducts, notify appropriate personnel if there is a conflict with this code of professional conduct, and actively seek resolution where warranted
 - 3.5 Conduct and present themselves in an unobtrusive manner and exercise care in choice of attire.
 - 3.6 Refrain from the use of mind-altering substances before or during the performance of duties.
-- 3.7 
+- 3.7 Disclose to parties involved any actual or perceived conflicts of interest
+- 3.8 Avoid actual or perceived conflicts of interest that might cause harm or interfere with the effectiveness of interpreting services.
+- 3.9 Refrain from using confidential interpreted information for personal, monetary, or professional gain.
+- 3.10 Refrain from using confidential interpreted information for the benefit of personal or professional affiliations or entities.
+
+# 4. Respect for consumers
+
 
 # ‌
 ---
