@@ -57,7 +57,12 @@ Illustrative Behavior - Interpreters:
 - 4.3 Obtain the consent of consumers before bringing an intern to an assignment.
 - 4.4 Facilitate communication access and equality, and support the full interaction and independence of consumers.
 
-# 5. Respec
+# 5. Respect for colleagues
+Interpreters are expected to collaborate with colleagues to foster the delivery of effective interpreting services. They also understand that the manner in which they relate to colleagues reflects upon the profession in general.
+
+Illustrative Behavior - Interpreters:
+- 5.1 Maintain civility toward colleagues, interns, and students.
+- 5.2 Work cooperatively with team members through consultation before assignments regarding logistics, providing professional and courteous assistance when asked and monitoring the accuracy of the message while functioning in the role of the support interpreter.
 
 # ‌
 ---
