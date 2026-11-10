@@ -15,8 +15,12 @@ The CPC is comprised of the following seven tenets:
 7. Professional developments
 
 # Confidentiality
-Interpreters hold a position of trust in their role as linguistic and cultural facilitators of communication. Confidentiality is highly valued by consumers and is essential to protecting all involved. Under the reasonable Interpreter standard, professional interpreters are expected to know the general requirements and applicability of various l
+Interpreters hold a position of trust in their role as linguistic and cultural facilitators of communication. Confidentiality is highly valued by consumers and is essential to protecting all involved. Under the reasonable Interpreter standard, professional interpreters are expected to know the general requirements and applicability of various levels of confidentiality.
 
+Illustrative behavior - interpreters
+- 1.1 Share assignment-related information only on a confidential and "as-needed" basis.
+- 1.2 Manage data, invoices, records, or other situational or consumer-specific information in a manner consistent with maintaining consumer confidentiality.
+- 1.3 Inform Consumers when federal or state mandates require disclosure
 
 # ‌
 ---
