@@ -81,6 +81,16 @@ Illustrative Behavior - Interpreters:
 - 6.8 Charge fair and reasonable fees for the performance of interpreting services and arranged for payment in a professional and judicious manner.
 
 # 7. Professional Development
+Interpreters are expected to foster and maintain interpreting competence and the stature of the profession through ongoing development of knowledge and skills
+
+Illustrative Behavior - Interpreters:
+- 7.1 Increase knowledge and strengthen skills through activities such as:
+	- Pursuing higher education;
+	- attending workshops and conferences;
+	- seeking monitoring and supervision opportunities;
+	- Participating in community events;
+	- Engaging in independent studies.
+- 7.2 Keep abreast of laws, policies, rules and regulations that effect
 
 # ‌
 ---
