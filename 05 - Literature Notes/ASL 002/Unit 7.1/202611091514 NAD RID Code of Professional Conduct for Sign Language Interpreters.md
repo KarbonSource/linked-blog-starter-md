@@ -53,6 +53,11 @@ Interpreters are expected to honor consumer preferences in selection of interpre
 
 Illustrative Behavior - Interpreters:
 - 4.1 Consider consumer requests or needs regarding language preferences, and render the message accordingly.
+- 4.2 Approach consumers with a professional demeanor at all times.
+- 4.3 Obtain the consent of consumers before bringing an intern to an assignment.
+- 4.4 Facilitate communication access and equality, and support the full interaction and independence of consumers.
+
+# 5. Respec
 
 # ‌
 ---
