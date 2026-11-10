@@ -39,6 +39,11 @@ Hair should be tidy and away from the face to ensure facial expressions are clea
 - Hospitals and medical settings - PPE or Scrubs
 - Constructions sites - Stout or Steel-toe boots for safety
 
+# In a nutshell
+- Keep it modest, comfortable, and professional
+- Use professional judgement for each assignment
+- Consider the needs of Deaf clients, especially those with low vision.
+
 
 # ‌
 ---
