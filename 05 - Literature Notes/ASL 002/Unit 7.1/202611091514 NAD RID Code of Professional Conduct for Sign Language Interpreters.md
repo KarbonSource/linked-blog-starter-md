@@ -37,7 +37,10 @@ Illustrative Behavior - Interpreters:
 Interpreters are expected to present themselves appropriately in demeanor and appearance. They avoid situations that result in conflicting roles or perceived or actual conflicts of interest.
 
 Illustrative Behavior - Interpreters:
-- 3.1 Consult with 
+- 3.1 Consult with appropriate persons regarding the interpreting situation to determine issues such as placement and adaptations necessary to interpret effectively.
+- 3.2 Decline assignments or withdraw from the interpreting profession when not competent due to physical, mental, or emotional factors.
+- 3.3 Avoid performing dual or conflicting roles in interdisciplinary or other settings
+- 3.4 
 
 # ‌
 ---
