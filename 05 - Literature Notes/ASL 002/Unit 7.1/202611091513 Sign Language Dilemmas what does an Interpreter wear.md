@@ -16,7 +16,12 @@ As BSL interpreters and professional Communication Support Workers (CSWs), we kn
 Interpreters play a vital role in bridging communication between Deaf and hearing individuals, and their professional appearance and behavior must reflect that.
 
 # Interpreter attire basics -  What to wear
+A professional should always dress in a way that is unobtrusive and allows the focus to remain on communication. While black is traditionally taught as the go-to color, Deaf umbrella recommends muted clothes that contrast your skin
+- If you have fair skin opt for black, navy blue, dark grey, or olive green.
+- If you have darker skin, go for shades of beige, pastel, or cream.
 
+Both men and women should wear long trousers
+Women may wear skirts or dresses
 
 
 # ‌
