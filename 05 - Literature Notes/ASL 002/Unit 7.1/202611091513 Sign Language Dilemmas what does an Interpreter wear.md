@@ -20,8 +20,24 @@ A professional should always dress in a way that is unobtrusive and allows the f
 - If you have fair skin opt for black, navy blue, dark grey, or olive green.
 - If you have darker skin, go for shades of beige, pastel, or cream.
 
-Both men and women should wear long trousers
-Women may wear skirts or dresses
+Both men and women should wear long trousers.
+Women may wear skirts or dresses, provided they are appropriate length.
+Hair should be tidy and away from the face to ensure facial expressions are clearly visible.
+
+# Big No-No's: What not to wear
+- Shiny Fabrics
+- Busy Patterns
+- Short Skirts and dresses with high slits
+- Flashy jewelry and loud nail polish
+- Casual wear
+- Vest tops or low-cut tops
+- Unkempt facial hear
+- Long or artificial nails
+
+# Dress code adjustments for specific jobs
+- Courtrooms and formal meetings - Business attire or a suit
+- Hospitals and medical settings - PPE or Scrubs
+- Constructions sites - Stout or Steel-toe boots for safety
 
 
 # ‌
