@@ -49,7 +49,10 @@ Illustrative Behavior - Interpreters:
 - 3.10 Refrain from using confidential interpreted information for the benefit of personal or professional affiliations or entities.
 
 # 4. Respect for consumers
+Interpreters are expected to honor consumer preferences in selection of interpreting dynamics, while recognizing the realities of qualifications, availability, and situation.
 
+Illustrative Behavior - Interpreters:
+- 4.1 Consider consumer requests or needs regarding language preferences, and render the message accordingly.
 
 # ‌
 ---
