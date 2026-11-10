@@ -12,6 +12,8 @@ How interpreters are physically presenting themselves is not much of a reflectio
 
 Dress code sets the right impression and sets the expectation that they are a professional.
 
+Interpreters should take pride in what they do, it's not easy, and it's not something that any person who is bilingual can do.
+
 
 # ‌
 ---
