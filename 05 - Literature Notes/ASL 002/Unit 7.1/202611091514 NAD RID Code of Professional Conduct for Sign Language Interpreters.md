@@ -9,6 +9,13 @@ The CPC is comprised of the following seven tenets:
 1. Confidentiality
 2. Professional Skills and Knowledge
 3. Appropriate conduct
+4. Respect for for consumers
+5. Respect for colleagues, interns, and students
+6. Ethical business practices
+7. Professional developments
+
+# Confidentiality
+
 
 
 # ‌
