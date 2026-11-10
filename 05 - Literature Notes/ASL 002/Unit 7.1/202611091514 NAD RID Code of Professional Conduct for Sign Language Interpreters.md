@@ -63,6 +63,12 @@ Interpreters are expected to collaborate with colleagues to foster the delivery 
 Illustrative Behavior - Interpreters:
 - 5.1 Maintain civility toward colleagues, interns, and students.
 - 5.2 Work cooperatively with team members through consultation before assignments regarding logistics, providing professional and courteous assistance when asked and monitoring the accuracy of the message while functioning in the role of the support interpreter.
+- 5.3 Approach colleagues privately to discuss and resolve breaches of ethical or professional conduct through standard conflict resolution methods; file a formal grievances only after such attempts have been unsuccessful or the breaches are harmful or habitual.
+- 5.4 Assist and encourage colleagues by sharing info and serving as mentors when appropriate.
+- 5.5 Obtain the consent of colleagues before bringing an intern to an assignment.
+
+# 6. Business practices
+Interpreters are expected to conduct their business in a professional manner whether in private practice or
 
 # ‌
 ---
