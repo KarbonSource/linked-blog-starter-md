@@ -74,7 +74,13 @@ Illustrative Behavior - Interpreters:
 - 6.1 Accurately represent qualifications, such as certification, educational background, and experience, and provide documentation when requested.
 - 6.2 Honor Professional commitments and terminate assignments only when fair and justifiable ground exist.
 - 6.3 Promote conditions that are conductive to effective communication, inform the parties involved if such conditions do not exist, and seek appropriate remedies.
-- 6.4 Inform appropriate
+- 6.4 Inform appropriate parties in a timely manner when delayed or unable to fulfill assignments.
+- 6.5 Reserve the option to decline or discontinue assignments if working conditions are not safe, healthy, or conducive to interpreting services.
+- 6.6 Refrain from harassment or coercion before, during, or after the provision of interpreting services.
+- 6.7 Render Pro bono services in a fair and reasonable manner.
+- 6.8 Charge fair and reasonable fees for the performance of interpreting services and arranged for payment in a professional and judicious manner.
+
+# 7. Professional Development
 
 # ‌
 ---
