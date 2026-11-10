@@ -90,7 +90,7 @@ Illustrative Behavior - Interpreters:
 	- seeking monitoring and supervision opportunities;
 	- Participating in community events;
 	- Engaging in independent studies.
-- 7.2 Keep abreast of laws, policies, rules and regulations that effect
+- 7.2 Keep abreast of laws, policies, rules and regulations that effect the profession.
 
 # ‌
 ---
