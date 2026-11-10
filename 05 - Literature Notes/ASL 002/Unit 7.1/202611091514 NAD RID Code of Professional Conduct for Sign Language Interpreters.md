@@ -71,7 +71,10 @@ Illustrative Behavior - Interpreters:
 Interpreters are expected to conduct their business in a professional manner whether in private practice or in the employ of an agency or other entity. Professional interpreters are entitled to a living wage based on their qualifications and expertise. Interpreters are also entitled to working conditions conductive to effective service delivery.
 
 Illustrative Behavior - Interpreters:
-- 6.1
+- 6.1 Accurately represent qualifications, such as certification, educational background, and experience, and provide documentation when requested.
+- 6.2 Honor Professional commitments and terminate assignments only when fair and justifiable ground exist.
+- 6.3 Promote conditions that are conductive to effective communication, inform the parties involved if such conditions do not exist, and seek appropriate remedies.
+- 6.4 Inform appropriate
 
 # ‌
 ---
