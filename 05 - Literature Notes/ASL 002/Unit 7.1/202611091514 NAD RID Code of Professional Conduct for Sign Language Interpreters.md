@@ -40,7 +40,10 @@ Illustrative Behavior - Interpreters:
 - 3.1 Consult with appropriate persons regarding the interpreting situation to determine issues such as placement and adaptations necessary to interpret effectively.
 - 3.2 Decline assignments or withdraw from the interpreting profession when not competent due to physical, mental, or emotional factors.
 - 3.3 Avoid performing dual or conflicting roles in interdisciplinary or other settings
-- 3.4 Comply with established workplace codes of conducts, notify apporpiat
+- 3.4 Comply with established workplace codes of conducts, notify appropriate personnel if there is a conflict with this code of professional conduct, and actively seek resolution where warranted
+- 3.5 Conduct and present themselves in an unobtrusive manner and exercise care in choice of attire.
+- 3.6 Refrain from the use of mind-altering substances before or during the performance of duties.
+- 3.7 
 
 # ‌
 ---
