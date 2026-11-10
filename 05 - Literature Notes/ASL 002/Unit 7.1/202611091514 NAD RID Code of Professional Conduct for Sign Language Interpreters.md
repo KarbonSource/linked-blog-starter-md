@@ -27,7 +27,14 @@ Interpreters are expected to stay abreast of evolving language use and trends in
 
 Illustrative Behavior - Interpreters:
 - 2.1 Provide Service delivery regardless of race, color, national origin, gender, religion, age, disability, sexual orientation, or any other factor.
-- 2.2 Asses consumer needs and the interpreting situation before and during the assignment and make adjustment 
+- 2.2 Asses consumer needs and the interpreting situation before and during the assignment and make adjustments as needed.
+- 2.3 Render the message faithfully by conveying the content and spirit of what is being communicated, using language most readily understood by consumers, and correcting errors discreetly and expeditiously.
+- 2.4 Request Support when needed to fully convey the message or to address exceptional communication challenges.
+- 2.5 Refrain from providing counsel, advice, or personal opinions.
+- 2.6 Judiciously provide information or referral regarding available interpreting or community resources without infringing upon consumer rights.
+
+# 3. Conduct
+
 
 # ‌
 ---
