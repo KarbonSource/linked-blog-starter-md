@@ -34,7 +34,10 @@ Illustrative Behavior - Interpreters:
 - 2.6 Judiciously provide information or referral regarding available interpreting or community resources without infringing upon consumer rights.
 
 # 3. Conduct
+Interpreters are expected to present themselves appropriately in demeanor and appearance. They avoid situations that result in conflicting roles or perceived or actual conflicts of interest.
 
+Illustrative Behavior - Interpreters:
+- 3.1 Consult with 
 
 # ‌
 ---
