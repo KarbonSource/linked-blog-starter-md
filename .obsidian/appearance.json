@@ -8,5 +8,6 @@
   "textFontFamily": "JetBrains Mono",
   "nativeMenus": false,
   "baseFontSizeAction": false,
-  "showViewHeader": true
+  "showViewHeader": true,
+  "showRibbon": true
 }
